@@ -1,5 +1,4 @@
 collections:
   about-nsps:
     output: true
-    order:
-      - School Stuff/.keep
+    order: []
