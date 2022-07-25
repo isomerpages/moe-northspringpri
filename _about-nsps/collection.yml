@@ -2,7 +2,6 @@ collections:
   about-nsps:
     output: true
     order:
-      - e Newsletter (Spring Roll).md
       - School Identity/.keep
       - School Identity/School Philosophy.md
       - School Handbook/.keep
@@ -15,3 +14,4 @@ collections:
       - NSPS E Open House/360 Virtual Tour.md
       - NSPS E Open House/CCAs in NSPS.md
       - NSPS E Open House/What do our parents say.md
+      - e Newsletter (Spring Roll).md
