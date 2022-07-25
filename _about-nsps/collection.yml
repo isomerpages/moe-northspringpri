@@ -2,6 +2,7 @@ collections:
   about-nsps:
     output: true
     order:
+      - School Handbook/School Hours.md
       - School Handbook/.keep
       - School Identity/School Philosophy.md
       - School Identity/.keep
