@@ -16,3 +16,10 @@ third_nav_title: Cognitive Programmes
 
 ![Language Activities](/images/Language%20Actvities%203.jpg)
 
+![Language Play](/images/Language%20Play%201.jpg)
+
+![Language Play](/images/Language%20Play%202.jpg)
+
+![Language Play](/images/Language%20Play%203.jpg)
+
+![Literacy Support](/images/Literacy%20Support.png)
