@@ -2,7 +2,9 @@ collections:
   school-staff:
     output: true
     order:
-      - Executive, Administrative and Operations Staff.md
+      - School Management Board.md
+      - Lead and Senior Teachers.md
+      - Other Educators.md
       - Teachers by Form Class/.keep
       - Teachers by Form Class/Primary 1 Teachers.md
       - Teachers by Form Class/Primary 2 Teachers.md
@@ -10,6 +12,4 @@ collections:
       - Teachers by Form Class/Primary 4 Teachers.md
       - Teachers by Form Class/Primary 5 Teachers.md
       - Teachers by Form Class/Primary 6 Teachers.md
-      - Other Educators.md
-      - Lead and Senior Teachers.md
-      - School Management Board.md
+      - Executive, Administrative and Operations Staff.md
