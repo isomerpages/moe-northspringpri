@@ -2,6 +2,7 @@ collections:
   about-nsps:
     output: true
     order:
+      - School Staff/Other Educators.md
       - School Staff/Lead and Senior Teachers.md
       - School Staff/School Management Board.md
       - School Staff/.keep
