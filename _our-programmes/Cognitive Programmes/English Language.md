@@ -22,16 +22,31 @@ Through experiential learning, students are able to connect to a learning topic 
 
 ![Language Experience](/images/Language%20Experience%203.jpg)
 
+Language Activities
+-------------------
+
+Through activity-based learning, students are given opportunities for experimentation, exploration and expression. Various language activities are incorporated into the EL curriculum to encourage students to participate actively in their learning.
+
 ![Language Activities](/images/Language%20Actvities%201.jpg)
 
 ![Language Activities](/images/Language%20Actvities%202.jpg)
 
 ![Language Activities](/images/Language%20Actvities%203.jpg)
 
+Language Play
+-------------
+
+Through play-based learning, students become more motivated to learn and more engaged in the learning process. Different types of language play is being incorporated into the EL curriculum which include both physical and virtual play activities to engage students in learning the language.
+
 ![Language Play](/images/Language%20Play%201.jpg)
 
 ![Language Play](/images/Language%20Play%202.jpg)
 
 ![Language Play](/images/Language%20Play%203.jpg)
+
+Literacy Support Programmes
+---------------------------
+
+To ensure that all students receive the literacy support they need, various literacy support programmes are being implemented to support students at the lower primary, middle primary and upper primary levels, which include both MOE support programmes and school initiated support programmes.
 
 ![Literacy Support](/images/Literacy%20Support.png)
