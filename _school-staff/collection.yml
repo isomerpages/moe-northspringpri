@@ -1,4 +1,5 @@
 collections:
   school-staff:
     output: true
-    order: []
+    order:
+      - School Management Board.md
