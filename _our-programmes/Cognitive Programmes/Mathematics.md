@@ -29,3 +29,5 @@ third_nav_title: Cognitive Programmes
 ![Play ](/images/Play%203.png)
 
 ![Play ](/images/Play%204.png)
+
+![Mathematics E2K and Enrichment Programmes](/images/Mathematics%20E2K_1.png)
