@@ -2,8 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
-      - Cognitive Programmes/Mother Tongue Languages.md
-      - Cognitive Programmes/Science.md
-      - Cognitive Programmes/Mathematics.md
-      - Cognitive Programmes/English Language.md
       - Cognitive Programmes/.keep
+      - Cognitive Programmes/English Language.md
+      - Cognitive Programmes/Mathematics.md
+      - Cognitive Programmes/Science.md
+      - Cognitive Programmes/Mother Tongue Languages.md
