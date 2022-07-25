@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - Programmes in Active Learning/Aesthetics (Music and Art).md
-      - Programmes in Active Learning/Physical Education.md
       - Programmes in Active Learning/.keep
+      - Programmes in Active Learning/Physical Education.md
+      - Programmes in Active Learning/Aesthetics (Music and Art).md
       - Cognitive Programmes/.keep
       - Cognitive Programmes/English Language.md
       - Cognitive Programmes/Mathematics.md
