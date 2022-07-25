@@ -2,6 +2,7 @@ collections:
   school-staff:
     output: true
     order:
+      - Teachers by Form Class/Primary 5 Teachers.md
       - Teachers by Form Class/Primary 4 Teachers.md
       - Teachers by Form Class/Primary 3 Teachers.md
       - Teachers by Form Class/Primary 2 Teachers.md
