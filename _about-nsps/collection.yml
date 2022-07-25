@@ -1,4 +1,5 @@
 collections:
   about-nsps:
     output: true
-    order: []
+    order:
+      - School Identity/.keep
