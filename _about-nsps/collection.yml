@@ -2,6 +2,7 @@ collections:
   about-nsps:
     output: true
     order:
+      - e Newsletter (Spring Roll).md
       - School Identity/.keep
       - School Identity/School Philosophy.md
       - School Handbook/.keep
