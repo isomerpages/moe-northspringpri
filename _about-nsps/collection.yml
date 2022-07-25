@@ -1,0 +1,4 @@
+collections:
+  about-nsps:
+    output: true
+    order: []
