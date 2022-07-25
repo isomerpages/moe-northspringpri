@@ -2,9 +2,9 @@ collections:
   about-nsps:
     output: true
     order:
-      - School Handbook/Rules & Regulations.md
-      - School Handbook/Homework Policy.md
-      - School Handbook/School Hours.md
       - School Handbook/.keep
+      - School Handbook/School Hours.md
+      - School Handbook/Homework Policy.md
+      - School Handbook/Rules & Regulations.md
       - School Identity/School Philosophy.md
       - School Identity/.keep
