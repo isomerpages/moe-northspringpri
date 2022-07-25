@@ -17,21 +17,13 @@ img {
 
 **Our Vision Statement:**
 
-**Confident. Cultured. Aspiring Learners**
+<h5 style="color:blue" align="center">Confident. Cultured. Aspiring Learners</h5>
 
   
-
-  
-
 **Our Mission:**
 
-  
+<h5 style="color:blue" align="center">To Build Character, Nurture Minds and Strive for Excellence.</h5>
 
-**To Build Character, Nurture Minds and Strive for Excellence.**
-
-  
-
-  
 
 **School Philosophy:**
 
@@ -39,10 +31,6 @@ We, at North Spring Primary School, believe that every pupil has the aptitude to
 
   
 
-  
-
 **School Values:**
 
-  
-
-**_Integrity, Responsibility, Resilience and Compassion._**
+<h5 style="color:blue" align="center"><em>Integrity, Responsibility, Resilience and Compassion.</em></h5>
