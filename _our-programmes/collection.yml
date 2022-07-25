@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Cognitive Programmes/Mathematics.md
       - Cognitive Programmes/English Language.md
       - Cognitive Programmes/.keep
