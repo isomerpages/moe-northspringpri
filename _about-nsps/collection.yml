@@ -2,6 +2,7 @@ collections:
   about-nsps:
     output: true
     order:
+      - NSPS E Open House/360 Virtual Tour.md
       - NSPS E Open House/A Day In NSPS.md
       - NSPS E Open House/NSPS E Open House.md
       - NSPS E Open House/.keep
