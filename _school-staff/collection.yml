@@ -2,5 +2,6 @@ collections:
   school-staff:
     output: true
     order:
+      - Other Educators.md
       - Lead and Senior Teachers.md
       - School Management Board.md
