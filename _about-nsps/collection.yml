@@ -2,6 +2,7 @@ collections:
   about-nsps:
     output: true
     order:
+      - NSPS E Open House/.keep
       - School Handbook/.keep
       - School Handbook/School Hours.md
       - School Handbook/Homework Policy.md
