@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Programmes in Active Learning/.keep
       - Cognitive Programmes/.keep
       - Cognitive Programmes/English Language.md
       - Cognitive Programmes/Mathematics.md
