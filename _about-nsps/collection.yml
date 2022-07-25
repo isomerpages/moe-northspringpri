@@ -2,4 +2,5 @@ collections:
   about-nsps:
     output: true
     order:
+      - School Staff/School Management Board.md
       - School Staff/.keep
