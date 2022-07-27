@@ -2,11 +2,11 @@ collections:
   our-programmes:
     output: true
     order:
-      - Values in Education/Information on Sexuality Education Programme.md
-      - Values in Education/Partnership.md
-      - Values in Education/Student Development Team.md
-      - Values in Education/Character and Citizenship Education.md
       - Values in Education/.keep
+      - Values in Education/Character and Citizenship Education.md
+      - Values in Education/Student Development Team.md
+      - Values in Education/Partnership.md
+      - Values in Education/Information on Sexuality Education Programme.md
       - Programmes in Active Learning/.keep
       - Programmes in Active Learning/Physical Education.md
       - Programmes in Active Learning/Aesthetics (Music and Art).md
