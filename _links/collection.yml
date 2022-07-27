@@ -2,5 +2,6 @@ collections:
   links:
     output: true
     order:
+      - For Parents/Canteen Menu.md
       - For Parents/2022 P1 Orientation e Handbook.md
       - For Parents/.keep
