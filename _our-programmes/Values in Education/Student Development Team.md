@@ -44,7 +44,71 @@ Under G.E.M Character, we look into aspects on students’ social emotional lear
 
 ![G.E.M Character](/images/G%20E%20M%20Character.png)
 
+G.E.M Connect
+-------------
+
+For G.E.M Connect, we aim to connect staff, parents and students through the programmes below:
+
+  
+
+*   Form Teacher Guidance Period
+
+  
+
+*   Peer Support Programme
+
+  
+
+*   Year Head @ Recess
+
+  
+
+*   Professional Development for Staff Training
+
+  
+
+*   Professional Learning Communities
+
+  
+
+*   Parent-Child-Teacher Conference
+
+  
+
+  
+
+**Parent Teacher Meeting**
+
+  
+
+‘Every Parent, a Supportive Partner’, with this in mind, we focus on building strong partnership with parents through effective engagement, such as Parent-Teacher Meeting and Parent-Child-Teacher Conferencing sessions so as to support students in their holistic development.
+
 ![Parent Teacher Meeting](/images/Parent%20Teacher%20Meeting.png)
+
+G.E.M Leadership
+----------------
+
+For G.E.M Leadership, we aim to build student leadership capacity through various programme as stated below:
+
+  
+
+*   P1 to P5 M1NDgem Programmes
+
+  
+
+*   Prefect Leadershp Programmes
+
+  
+
+  
+
+**P1 to P5 M1NDgem Programme**
+
+  
+
+A cluster-funded programme that uses cognitive strategies in Habits of Mind to help the students to habituate the intended habits over time.
+
+Through this programme, students are able to demonstrate joy in learning while displaying self-management and self- responsibility in learning.
 
 ![P1 to P5 M1NDgem Programme](/images/P1%20to%20P5%20M1NDgem%20Programme.png)
 
