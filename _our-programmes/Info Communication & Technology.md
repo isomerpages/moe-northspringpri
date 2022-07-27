@@ -51,3 +51,16 @@ Through Cyber Wellness Week activities, assembly talks and leveraging on online 
 Our ICT Champions are empowered as they are given opportunities to create cyber wellness awareness through presenting during assembly talks as well as through activities planned for Cyber Wellness Week. This is on top of being given the responsibility of helping with anything ICT-related in class.
 
 ![Cyber Wellness](/images/Cyber%20Wellness.png)
+
+e-Learning and Student Learning Space (SLS)
+-------------------------------------------
+
+The Singapore Student Learning Space is a platform that supports Teaching and Learning in North Spring Primary School. It helps to empower our students to drive their own learning according to their needs and interests.
+
+  
+
+Resources on SLS are created and packaged as online lessons by teachers and assigned to students or used by students for independent learning in areas such as writing skills and grammar in the English and MTL Languages as well as Mathematics and Science. Selected days are also set aside for students as e-Learning Days where students’ work, monitored by teachers, can be completed from home. Teachers can also assign online assessments for everyday lessons to be done during or outside curriculum time.
+
+  
+
+The iMTL portal is incorporated into the SLS platform as a ICT pedagogical tool which enhances the delivery and learning of Mother Tongue Languages (CL, ML and TL). It has a series of interactive learning activities. The iMTL Portal is an essential component of MTL learning as it supports opportunities for the students to listen, read and write more effectively. It also helps to prepare schools and students for ICT-based MTL national examinations.
