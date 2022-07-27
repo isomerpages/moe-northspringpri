@@ -55,9 +55,25 @@ The focus of this event is centered around mobilizing North Springers for climat
 
 ![Youth for environment week](/images/Youth%20for%20environment%20week.png)
 
+**Save our Waste (S.O.W.) Programme**
+
+Save Our Waste (S.O.W.) Programme is a school-wide programme where both staff and students adopt a hands-on approach to contribute to a sustainable future.
+
+Part 1: Recycling paper and plastic waste
+
+Starting from Term 1, in conjunction with the National Environment Agency’s campaign to Recycle Right, recycling bins for paper and plastic waste were made available for every class. Student leaders, class monitors and science champions, monitor the amount of paper and plastic waste collected by their classes and bring them to the canteen to weigh in the amount collected. These weigh-ins from the classes contribute to the total amount recycled by the school per month. Monthly updates of the amount of paper and plastics waste collected is done before flag-raising ceremony, where recycling facts are also shared with the school.
+
+Due to our recycling efforts, NSPS has been featured on the NEA Recycle Right Facebook page
+
 ![Recycling paper and plastic waste](/images/Recycling%20paper%20and%20plastic%20waste.jpg)
 
 ![Recycling paper and plastic waste](/images/Recycling%20paper%20and%20plastic%20waste_2.png)
+
+Part 2: Recycling food waste
+
+NSPS embarked on food waste recycling during Math-Science week. Composters were placed in the canteen next to the plate collection area. Science Champions and Science Explorer CCA Club members were stationed at the food composters during recess to advocate for food waste recycling. North Springers and canteen vendors disposed of their food waste into the composters. The composters then processed the food waste to produce plant compost in a few hours. These compost is used as fertilizers to grow edible plants in pots arranged in the N-S-P-S form; proof that NSPS is pledging to do our part for the environment. As one of the Math-Science week recess booth activities, North Springers were challenged to guess the amount of compost required to fill all the pots needed to form the letters N-S-P-S.
+
+With sufficient compost, the Science Explorer CCA Club members will proceed to grow the edible vegetables
 
 ![Recycling food waste](/images/Recycling%20food%20waste.png)
 
