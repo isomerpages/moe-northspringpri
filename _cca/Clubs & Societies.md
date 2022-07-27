@@ -50,3 +50,38 @@ In order to promote self-directed learning and stimulate pupils' interests in va
 ![Science Explorers Club](/images/club4.png)
 
 ![Science Explorers Club](/images/club4_2.png)
+
+**CCA Schedule:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt">CCA</th>
+    <th class="tg-amwm"> Day</th>
+    <th class="tg-amwm"> Time</th>
+    <th class="tg-amwm"> Level</th>
+    <th class="tg-amwm"> Teacher In Charge</th>
+    <th class="tg-amwm">Venue</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">Science Explorers</td>
+    <td class="tg-baqh">Thursday</td>
+    <td class="tg-baqh">7.30am-9.00am</td>
+    <td class="tg-baqh">P3-P6</td>
+    <td class="tg-baqh">Mdm Yap Chun Zhen (IC)<br>Mr Christopher Tan Theng Kang<br>Ms Teo Wan Ting Cindy</td>
+    <td class="tg-baqh">Science Lab 1 &amp; 2</td>
+  </tr>
+</tbody>
+</table>
