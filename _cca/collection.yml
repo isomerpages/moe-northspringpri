@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts.md
       - Sports & Games.md
