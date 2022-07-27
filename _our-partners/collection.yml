@@ -2,4 +2,5 @@ collections:
   our-partners:
     output: true
     order:
+      - School Related Services.md
       - Parent Support Group.md
