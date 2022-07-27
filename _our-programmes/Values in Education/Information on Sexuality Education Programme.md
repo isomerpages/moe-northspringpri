@@ -70,6 +70,7 @@ Information for Parents
 8.       Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
 9.       Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents before the start of the programme and is also downloadable here: [Annex A Growing Years 2021 Opt Out Form.pdf](/files/Annex%20A%20Growing%20Years%202021%20Opt%20Out%20Form.pdf)
-10.     Parents can contact the school at 68816887 or nsps@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+10.     Parents can contact the school at 68816887 or [nsps@moe.edu.sg](mailto:nsps@moe.edu.sg)
+ for discussion or to seek clarification about the school’s sexuality education programme.
 
 11.     Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements
