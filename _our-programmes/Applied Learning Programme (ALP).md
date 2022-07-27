@@ -103,7 +103,24 @@ P4 students also have a hydroponics system in their class. A pilot project to al
 
 ![Using recyclables to apply Science concepts and ideas to promote sustainability](/images/Using%20recyclables%20to%20apply%20Science%20concepts%20and%20ideas%20to%20promote%20sustainability.png)
 
+**Purposeful Authentic Learning**
+
+Tier 2: Science Explorers CCA Club advocates and Science Champions
+
+The science explorers cca club members and the science champs are a small group of North Springers who are privileged and selected to dive deeper into M.A.S.S. Education.
+
+Science Explorer CCA Club members, being passionate advocates of Science, focuses on acquiring skills to become spokespersons for MASS Education. Using the EPIC design thinking approach, Science explorers embark on hands-on projects such as building a dream school using recyclables. They also engage in Science Center: Young Sustainability card activities and make posters to advocate the sustainability movement.
+
+Science Explorer Club members and Science Champions also learn about the importance of recycling food waste using food digesters through a 2 hour workshop. This equips them with knowledge to advocate the importance of food waste recycling and champion this cause during the S.O.W. food waste recycling programme.
+
 ![Tier 2: Science Explorers CCA Club advocates and Science Champions](/images/Tier%202%20Science%20Explorers%20CCA%20Club%20advocates%20and%20Science%20Champions.png)
+
+**SUPPORT PROGRAMMES**
+
+Teacher’s education play an important role in the process of culture setting. Hence to promote the culture of M.A.S.S Education, teachers go through engaging professional training workshops to experience Maker’s Education first-hand. 
+
+
+**Maker’s Education Professional Development**
 
 ![Maker’s Education Professional Development](/images/Maker’s%20Education%20Professional%20Development.png)
 
