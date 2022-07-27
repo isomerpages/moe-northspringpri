@@ -3,6 +3,21 @@ title: Applied Learning Programme (ALP)
 permalink: /our-programmes/applied-learning-programme-alp
 description: ""
 ---
+Focus Area: Science. Technology. Engineering. Mathematics (Sustainability)
+--------------------------------------------------------------------------
+
+  
+
+**TEACHING AND LEARNING APPROACH**
+
+Sustainability is the heart of the Applied Learning Programme in NSPS. In NSPS, North Springers have the Maker’s Sustainability (M.A.S.S.) Education Programme where they adopt the design thinking maker’s approach to innovate and create solutions to contribute to a sustainable future for Mother Earth.   The modified design thinking approach shown below fosters a culture of empathy, resilience, and innovation, and is a process which seeks to develop values and skills not only towards the care of the environment, but towards all areas in life.
+
+Empathise Identify Problem Ideate Create 
+
+Thinking
+
+Modified design thinking approach for M.A.S.S. Education
+
 ![World Water Day featuring plastic pollution and climate change](/images/World%20Water%20Day%20featuring%20plastic%20pollution%20and%20climate%20change.png)
 
 ![Earth Day commemorated during Math-Science week](/images/Earth%20Day%20commemorated%20during%20Math-Science%20week.png)
