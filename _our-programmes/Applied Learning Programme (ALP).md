@@ -12,11 +12,18 @@ Focus Area: Science. Technology. Engineering. Mathematics (Sustainability)
 
 Sustainability is the heart of the Applied Learning Programme in NSPS. In NSPS, North Springers have the Maker’s Sustainability (M.A.S.S.) Education Programme where they adopt the design thinking maker’s approach to innovate and create solutions to contribute to a sustainable future for Mother Earth.   The modified design thinking approach shown below fosters a culture of empathy, resilience, and innovation, and is a process which seeks to develop values and skills not only towards the care of the environment, but towards all areas in life.
 
-Empathise Identify Problem Ideate Create 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/EPIC.png" alt="E.P.I.C. Thinking" style="width:60%;">  
+  
+</body>
 
-Thinking
-
-Modified design thinking approach for M.A.S.S. Education
+<p style="text-align:center;"> <u>Modified design thinking approach for M.A.S.S. Education</u></p>
 
 ![World Water Day featuring plastic pollution and climate change](/images/World%20Water%20Day%20featuring%20plastic%20pollution%20and%20climate%20change.png)
 
