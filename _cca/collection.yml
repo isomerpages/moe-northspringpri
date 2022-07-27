@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies.md
-      - Uniform Groups.md
-      - Visual Arts.md
-      - Performing Arts.md
       - Sports & Games.md
+      - Performing Arts.md
+      - Visual Arts.md
+      - Uniform Groups.md
+      - Clubs & Societies.md
