@@ -44,6 +44,7 @@ Under G.E.M Character, we look into aspects on students’ social emotional lear
 
 ![G.E.M Character](/images/G%20E%20M%20Character.png)
 
+
 G.E.M Connect
 -------------
 
@@ -110,6 +111,8 @@ A cluster-funded programme that uses cognitive strategies in Habits of Mind to h
 
 Through this programme, students are able to demonstrate joy in learning while displaying self-management and self- responsibility in learning.
 
-![P1 to P5 M1NDgem Programme](/images/P1%20to%20P5%20M1NDgem%20Programme.png)
+<img src="/images/P1%20to%20P5%20M1NDgem%20Programme.png"  
+style="width:50%">
 
-![Confident Cultured Aspiring Learners](/images/Confident%20Cultured%20Aspiring%20Learners.png)
+<img src="/images/Confident%20Cultured%20Aspiring%20Learners.png"  
+style="width:65%">
