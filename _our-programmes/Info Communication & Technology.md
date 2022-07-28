@@ -52,6 +52,9 @@ Our ICT Champions are empowered as they are given opportunities to create cyber 
 
 ![Cyber Wellness](/images/Cyber%20Wellness.png)
 
+<img src="/images/Cyber%20Wellness.png"  
+style="width:60%">
+
 e-Learning and Student Learning Space (SLS)
 -------------------------------------------
 
