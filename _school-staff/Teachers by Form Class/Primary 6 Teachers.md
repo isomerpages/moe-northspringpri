@@ -17,13 +17,13 @@ third_nav_title: Teachers by Form Class
 <thead>
   <tr>
     <th class="tg-dgl5">6.1<br></th>
-    <th class="tg-dgl5"><a href="mailto:nadia_jumahat@moe.edu.sg">Ms Nadia Bte Jumahat</a><br><a href="mailto:christopher_wu_zongyang@moe.edu.sg">Mr Wu Zongyang Christopher</a></th>
+    <th class="tg-zc2y"><a href="mailto:nadia_jumahat@moe.edu.sg">Ms Nadia Bte Jumahat</a><br><a href="mailto:christopher_wu_zongyang@moe.edu.sg">Mr Wu Zongyang Christopher</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-dgl5">6.2<br></td>
-    <td class="tg-dgl5"><a href="mailto:edgar_wong_hong_teow@moe.edu.sg">Mr Edgar Wong Hong Teow</a><br><a href="mailto:baey_geok_lin_elain@moe.edu.sg">Mdm Baey Geok Lin Elain</a></td>
+    <td class="tg-zc2y"><a href="mailto:edgar_wong_hong_teow@moe.edu.sg">Mr Edgar Wong Hong Teow</a><br><a href="mailto:baey_geok_lin_elain@moe.edu.sg">Mdm Baey Geok Lin Elain</a></td>
   </tr>
   <tr>
     <td class="tg-dgl5">6.3</td>
