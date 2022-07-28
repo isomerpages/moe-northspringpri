@@ -38,8 +38,8 @@ Download links:
 
 ![c8e254825c96d4ad281443c441a0e2d2-300x100.png](https://northspringpri.moe.edu.sg/qql/slot/u233/2020/Links/For%20Parents/Parents%20Gateway/c8e254825c96d4ad281443c441a0e2d2-300x100.png)
 
-![](/images/c8e254825c96d4ad281443c441a0e2d2-300x100.png)
+![](/images/c8e254825c96d4ad281443c441a0e2d2-300x100.png) https://apps.apple.com/sg/app/parents-gateway/id1267198708
 
 ![21ab84ffb9650a0482cafc3577142823-300x89.png](https://northspringpri.moe.edu.sg/qql/slot/u233/2020/Links/For%20Parents/Parents%20Gateway/21ab84ffb9650a0482cafc3577142823-300x89.png)
 
-![](/images/21ab84ffb9650a0482cafc3577142823-300x89.png)
+![](/images/21ab84ffb9650a0482cafc3577142823-300x89.png) https://play.google.com/store/apps/details?id=com.moe.pgp
