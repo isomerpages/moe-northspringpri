@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - For Staff.md
       - For Parents/.keep
       - For Parents/2022 P1 Orientation e Handbook.md
       - For Parents/Canteen Menu.md
@@ -12,3 +11,4 @@ collections:
       - For Parents/Home Based Learning Links.md
       - For Parents/School Term and Break Schedule.md
       - For Parents/SLS Login and Frequently Asked Questions.md
+      - For Staff.md
