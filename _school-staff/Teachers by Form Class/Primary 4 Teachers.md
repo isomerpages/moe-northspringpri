@@ -17,22 +17,22 @@ third_nav_title: Teachers by Form Class
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-pdeq">4.1<br></th>
-    <th class="tg-dgl5"><a href="mailto:teo_wan_ting_cindy@moe.edu.sg">Ms Teo Wan Ting, Cindy</a><br><a href="mailto:marissa_mohammed_haniff@moe.edu.sg">Ms Marissa bte Mohammed Haniff</a><br></th>
+    <th class="tg-dgl5">4.1<br></th>
+    <th class="tg-zc2y"><a href="mailto:teo_wan_ting_cindy@moe.edu.sg">Ms Teo Wan Ting, Cindy</a><br><a href="mailto:marissa_mohammed_haniff@moe.edu.sg">Ms Marissa bte Mohammed Haniff</a><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-dgl5">4.2<br></td>
-    <td class="tg-dgl5"><a href="mailto:ong_shi_min_celine@moe.edu.sg">Mrs Neo Ong Shi Min, Celine</a><br><a href="mailto:lim_hwee_tin@moe.edu.sg">Mdm Lim Hwee Tin</a></td>
+    <td class="tg-zc2y"><a href="mailto:ong_shi_min_celine@moe.edu.sg">Mrs Neo Ong Shi Min, Celine</a><br><a href="mailto:lim_hwee_tin@moe.edu.sg">Mdm Lim Hwee Tin</a></td>
   </tr>
   <tr>
     <td class="tg-dgl5">4.3<br></td>
-    <td class="tg-dgl5"><a href="mailto:sangeetha_thamilchelvam@moe.edu.sg">Mrs Sangeetha Thamilchelvam</a><br><a href="mailto:mun_li_ting@moe.edu.sg">Ms Mun Li Ting</a></td>
+    <td class="tg-zc2y"><a href="mailto:sangeetha_thamilchelvam@moe.edu.sg">Mrs Sangeetha Thamilchelvam</a><br><a href="mailto:mun_li_ting@moe.edu.sg">Ms Mun Li Ting</a></td>
   </tr>
   <tr>
     <td class="tg-dgl5">4.4<br></td>
-    <td class="tg-dgl5"><a href="mailto:nur_izyan_fart_horrahman@moe.edu.sg">Mdm Nur Izyan</a><br><a href="mailto:xu_yumei@moe.edu.sg">Miss Xu Yumei</a></td>
+    <td class="tg-zc2y"><a href="mailto:nur_izyan_fart_horrahman@moe.edu.sg">Mdm Nur Izyan</a><br><a href="mailto:xu_yumei@moe.edu.sg">Miss Xu Yumei</a></td>
   </tr>
   <tr>
     <td class="tg-dgl5">4.5</td>
