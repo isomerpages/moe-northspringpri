@@ -18,8 +18,7 @@ sections:
         - title: 2022 P1 Orientation e-Handbook
           description: Please click this link to go to the page
           url: /links/for-parents/2022-p1-orientation-e-handbook
-        - title: Student Learning Space (SLS) Instructions for Students and Parents
-          description: Dear parents and students, please download the 'Getting started to
-            SLS' and 'Frequently asked Questions'
-          url: /links/for-parents/sls-login-and-frequently-asked-questions
+        - title: School Corporate Video
+          description: We have a new corporate video! Click here to view!
+          url: /about-nsps/school-corporate-video
 ---
