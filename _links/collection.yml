@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Parents/SLS Login and Frequently Asked Questions.md
       - For Parents/School Term and Break Schedule.md
       - For Parents/Home Based Learning Links.md
       - For Parents/Brochures on MOE Initiatives and Programmes.md
