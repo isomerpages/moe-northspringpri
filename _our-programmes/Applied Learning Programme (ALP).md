@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/EPIC.png" alt="E.P.I.C. Thinking" style="width:60%;">  
+<body><img src="/images/EPIC.png" alt="E.P.I.C. Thinking" style="width:45%;">  
   
 </body>
 
@@ -86,13 +86,11 @@ Caterpillar observatory for the P2 English Stellar unit : A butterfly is born
 As the P2 students learn the grammar and vocabulary terms in this English Stellar unit, they are given the opportunity to observe live butterflies in the larva (caterpillar) stage. They record their observations in the stellar worksheets and also learnt about the importance of butterflies in upkeeping the diversity of floral species in the world. It is not easy to rear caterpillars to adulthood. The P2 classes applied the EPIC thinking model and went through a few failures before they finally succeeded in helping the butterflies get to adulthood and release them back into the wild. The P2 students also use this opportunity to study the life cycle of the butterfly, which kickstarts their learning of Science.
 
 ![Caterpillar observatory for the P2 English Stellar unit](/images/Caterpillar%20observatory%20for%20the%20P2%20English%20Stellar%20unit.png)
-
 <u>Building a Sustainable City using 3D pens for P4 Math: Angles and Shapes</u>
 
 P4 Math classes brainstorm about what a sustainable city looks like and make it come to life using 3D pens. The EPIC thinking model helps them to apply their knowledge about the world now and what they have in mind for a sustainable city before they work in groups to create the 3D models of their sustainable city in their minds.
 
 ![Building a Sustainable City using 3D pens for P4 Math](/images/Building%20a%20Sustainable%20City%20using%203D%20pens%20for%20P4%20Math.png)
-
 <u>Using recyclables to apply Science concepts / ideas to promote sustainability</u>
 
 In Science, North Springers learn the deeper details of why the environment needs to be preserved. The EPIC thinking model also helps them in the application of their Science knowledge to create innovative objects which suits their purpose.
