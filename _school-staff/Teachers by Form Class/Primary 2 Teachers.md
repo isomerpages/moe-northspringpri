@@ -18,18 +18,18 @@ third_nav_title: Teachers by Form Class
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fymr">2.1<br></th>
-    <th class="tg-1wig"><a href="mailto:wee_jee_luan@moe.edu.sg">Mdm Wee Jee Luan</a><br><a href="mailto:sheereen_shaaista_abd@moe.edu.sg">Mdm Sheereen Shaa’ista</a><br><br></th>
+    <th class="tg-1wig">2.1<br></th>
+    <th class="tg-7eyt"><a href="mailto:wee_jee_luan@moe.edu.sg">Mdm Wee Jee Luan</a><br><a href="mailto:sheereen_shaaista_abd@moe.edu.sg">Mdm Sheereen Shaa’ista</a><br><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7eyt">2.2</td>
+    <td class="tg-1wig">2.2</td>
     <td class="tg-7eyt"><a href="mailto:hanim_ab_ghani@moe.edu.sg">Mdm Hanim bte Ab Ghani</a><br><a href="mailto:ku_seow_yen@moe.edu.sg"><span style="font-weight:400;text-decoration:none;color:#0191D3">Mdm Ku Seow Yen</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-1wig">2.3</td>
-    <td class="tg-0lax"><a href="mailto:lim_yong_jie@moe.edu.sg">Mr Lim Yong Jie</a><br><a href="mailto:teng_fei@moe.edu.sg">Mdm Teng Fei</a><br></td>
+    <td class="tg-7eyt"><a href="mailto:lim_yong_jie@moe.edu.sg">Mr Lim Yong Jie</a><br><a href="mailto:teng_fei@moe.edu.sg">Mdm Teng Fei</a><br></td>
   </tr>
   <tr>
     <td class="tg-1wig">2.4</td>
@@ -41,7 +41,7 @@ third_nav_title: Teachers by Form Class
   </tr>
   <tr>
     <td class="tg-1wig">2.6<br></td>
-    <td class="tg-1wig"><a href="mailto:liang_wileen@moe.edu.sg">Miss Liang Wileen</a><br><a href="mailto:jaisri_thirunavukarasu@moe.edu.sg">Mrs Jaisri Thirunavukarasu</a><br></td>
+    <td class="tg-7eyt"><a href="mailto:liang_wileen@moe.edu.sg">Miss Liang Wileen</a><br><a href="mailto:jaisri_thirunavukarasu@moe.edu.sg">Mrs Jaisri Thirunavukarasu</a><br></td>
   </tr>
   <tr>
     <td class="tg-1wig">2.7</td>
