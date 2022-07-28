@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: North Spring Primary School
+description: North Spring Primary School
+image: /images/logo-home-page.png
 permalink: /
 notification: ""
 sections:
@@ -22,3 +22,4 @@ sections:
           description: We have a new corporate video! Click here to view!
           url: /about-nsps/school-corporate-video
 ---
+
