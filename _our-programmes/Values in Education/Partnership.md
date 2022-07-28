@@ -19,7 +19,8 @@ Parent-Teacher Meeting / Parent-Child-Teacher Conferencing Session
 
 ‘Every Parent, a Supportive Partner’, with this in mind, we focus on building strong partnership with parents through effective engagement, such as Parent-Teacher Meeting and Parent-Child-Teacher Conferencing sessions so as to support students in their holistic development.
 
-![Guiding Idea](/images/Guiding%20Idea.png)
+<img src="/images/Guiding%20Idea.png"  
+style="width:65%">
 
 Workshop / Sharing Session for Parents
 --------------------------------------
@@ -33,7 +34,8 @@ External School Visit
 
 Through cultural exchange with schools from different countries, it enable our students to gain exposure to different cultures, global issues and yet retain a sense of rootedness to our country. Our students also develop confidence through meaningful activities such as having conversations and discussion with students from other countries.
 
-![External School Visit](/images/External%20School%20Visit.png)
+<img src="/images/External%20School%20Visit.png"  
+style="width:65%">
 
 Useful website for Parents
 --------------------------
