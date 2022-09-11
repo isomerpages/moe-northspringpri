@@ -1,6 +1,6 @@
 ---
 title: Info Communication & Technology
-permalink: /our-programmes/info-communication-n-technology
+permalink: /our-programmes/info-communication-n-technology/
 description: ""
 ---
 Guiding Idea
@@ -49,8 +49,6 @@ Through Cyber Wellness Week activities, assembly talks and leveraging on online 
   
 
 Our ICT Champions are empowered as they are given opportunities to create cyber wellness awareness through presenting during assembly talks as well as through activities planned for Cyber Wellness Week. This is on top of being given the responsibility of helping with anything ICT-related in class.
-
-![Cyber Wellness](/images/Cyber%20Wellness.png)
 
 <img src="/images/Cyber%20Wellness.png"  
 style="width:60%">
