@@ -1,23 +1,23 @@
 ---
 title: Physical Education
-permalink: /our-programmes/programmes-in-active-learning/physical-education
+permalink: /our-programmes/programmes-in-active-learning/physical-education/
 description: ""
 third_nav_title: Programmes in Active Learning
 ---
-TEACHING AND LEARNING APPROACH
-------------------------------
+Physical Education
+==================
+
+#### TEACHING AND LEARNING APPROACH
 
 The purpose of physical education is to enable our North Springers to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living. Physical education is about movement. Movement is fundamental and essential to life, work and play. Movement competency facilitates participation and allows individuals to derive pleasure and satisfaction from physical activities. An individual who can move proficiently has the skills and knowledge related to movement and values purposeful moving for life. Physical education, therefore, is responsible for helping North Springers take on the responsibility of learning by providing them with the capacity to make reasoned and wise choices through a lifelong process of change.
 
-Movement Experiences
---------------------
+#### Movement Experiences
 
 Physical education distinguishes itself by its primary focus on the body and physical skills. It emphasises education in movement or the psychomotor domain. Education in movement presents our North Springers with carefully selected physical activities that develop efficiency, effectiveness and versatility across various complex movement situations which our North Springers will experience in school and in the future.
 
 ![Movement Experiences](/images/Movement%20Experiences.png)
 
-Play Activities
----------------
+#### Play Activities
 
 **ATHLETICS** involves North Springers primarily in running, jumping, and throwing activities that promote both personal striving and comparison. Initial learning focuses on exploring the fundamentals of walking, running, jumping and throwing while progressively developing and applying these movements into techniques in the later stages of learning. These opportunities encourage our North Springers to run faster and over different distances, jump higher and further, and throw different objects with improving distance.
 
