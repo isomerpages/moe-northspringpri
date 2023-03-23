@@ -70,4 +70,6 @@ Through this programme, students are able to demonstrate joy in learning while d
 <img src="/images/studentdevelopmentteam5.jpg" style="width:42%;margin-left:55px;" align = "left">
 <img src="/images/studentdevelopmentteam6.jpg" style="width:42%;margin-right:55px;" align = "right">
 
-<br clear="left">
+<br clear="left"><br clear="left">
+
+#### <center>Confident . Cultured . Aspiring Learners</center>
