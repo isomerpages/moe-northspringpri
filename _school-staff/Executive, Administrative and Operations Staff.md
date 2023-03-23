@@ -6,6 +6,36 @@ description: ""
 Corporate Support Staff
 -----------------------
 
-Corporate Support Staff
-Operational Support Staff
-Administrative Support Staff
+#### Corporate Support Staff
+
+|  |  |
+|---|---|
+| **Admin Manager** | Mdm Low San San |
+| **Admin Executive** | Mdm Lilian Tan Ai Ling |
+| **Admin Executive** | Ms Serene Oh |
+| **MSO** | Mdm Michelle Liang |
+| **CSO** | Mdm Aileen Teoh |
+| **Receptionist** | Mdm Jessy Cheng Kwai Sum |
+|
+
+#### Operational Support Staff
+
+|  |  |
+|---|---|
+| **Operations Manager** | Mr Lee Tong Boon |
+| **OSO** | Mdm Pandara Kanu Maratha Mercy |
+| **OSO** | Mr Zainol Abidin Bin Abdul Ghani |
+| **OSO** | Mr Chia Gek Poh |
+| **OSO** | Mr Lau Sau Kee |
+|
+
+#### Administrative Support Staff
+
+|  |  |
+|---|---|
+| **ICT Manager** | Mr Mohammed Azhar |
+| **Desktop Engineer I** | Ms Amanda Gay |
+| **Desktop Engineer II** | Ms Solveon Neo |
+| **ICT Trainer** | Ms Nadiah Shafawati |
+| **Teacher-Aide** | Ms J Venkata Lakshmi |
+|
