@@ -45,7 +45,11 @@ For G.E.M Connect, we aim to connect staff, parents and students through the pro
 <b><u>Parent Teacher Meeting</u></b><br>
 ‘Every Parent, a Supportive Partner’, with this in mind, we focus on building strong partnership with parents through effective engagement, such as Parent-Teacher Meeting and Parent-Child-Teacher Conferencing sessions so as to support students in their holistic development.
 
-![Parent Teacher Meeting](/images/Parent%20Teacher%20Meeting.png)
+<img src="/images/studentdevelopmentteam1.jpg" style="width:42%;margin-left:55px;" align = "left">
+<img src="/images/studentdevelopmentteam2.jpg" style="width:42%;margin-right:55px;" align = "right">
+
+<br clear="left">
+
 
 #### G.E.M Leadership
 
@@ -58,3 +62,12 @@ A cluster-funded programme that uses cognitive strategies in Habits of Mind to h
 
 Through this programme, students are able to demonstrate joy in learning while displaying self-management and self- responsibility in learning.
 
+<img src="/images/studentdevelopmentteam3.jpg" style="width:42%;margin-left:55px;" align = "left">
+<img src="/images/studentdevelopmentteam4.jpg" style="width:42%;margin-right:55px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/studentdevelopmentteam5.jpg" style="width:42%;margin-left:55px;" align = "left">
+<img src="/images/studentdevelopmentteam6.jpg" style="width:42%;margin-right:55px;" align = "right">
+
+<br clear="left">
