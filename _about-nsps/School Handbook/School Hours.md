@@ -19,3 +19,22 @@ Single Session – AM only
 |  P3 to P6 SPARK CCA<br>For selected students only |  Fridays:<br>2.00 p.m. onwards |
 |  Subject-based Banding classes (SBB)  for EL/ MA/MTL and Higher MTL classes | Thursdays:<br>2.00 p.m. onwards  |
 |
+
+#### Recess Times & Quick Bite 
+**All Days, except Thu**
+
+|  | Recess | Quick Bite |
+|:---:|:---:|:---:|
+| **Primary 1 & 6** | 9.00 a.m. to 9.30 a.m. | 11.00 a.m. to 11.30 a.m. |
+| **Primary 2 & 5** | 9.30 a.m. to 10.00 a.m. | 11.30 a.m. to 12.00 p.m. |
+| **Primary 3 & 4** | 10.00 a.m. to 10.30 a.m. | 12.00 a.m. to 12.30 p.m. |
+|
+
+**Thu**
+
+|  | Recess | Quick Bite |
+|:---:|:---:|:---:|
+| **Primary 1 & 6** | 10.00 a.m. to 10.30 a.m. | 12.00 a.m. to 12.30 p.m. |
+| **Primary 2 & 5** | 9.30 a.m. to 10.00 a.m. | 11.30 a.m. to 12.00 p.m. |
+| **Primary 3 & 4** | 9.00 a.m. to 9.30 a.m. | 11.00 a.m. to 11.30 a.m. |
+|
