@@ -1,9 +1,9 @@
 title: North Spring Primary School
-url: ""
+url: https://www.northspringprimary.edu.com.sg
 favicon: /images/nsps favicon.png
 colors:
-  primary-color: "#0270b6"
-  secondary-color: "#4372d6"
+  primary-color: "#002a77"
+  secondary-color: "#d6a01d"
   media-colors:
     - title: media-color-one
       color: "#49759a"
