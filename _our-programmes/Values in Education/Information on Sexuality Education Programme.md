@@ -53,6 +53,17 @@ At North Spring Primary School, the following lessons from the Growing Years Pro
 Primary 5:
 ----------
 
+| UNIT | LESSONS / DURATIONS | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
+|:---:|:---:|---|:---:|
+| Gosh! I Am Changing | What Is Happening To Me?<br>(30 min) | - know what puberty is<br>- identify the physical changes during puberty | Term 2 |
+|  | What Can I Do? (Part 1)<br><br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one's identity does not change even when one's body is experiencing change due to puberty | Term 2 |
+|  | What Can I Do? (Part 2)<br><br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one's identity does not change even when one's body is experiencing change due to puberty | Term 2 |
+|  | Main Task<br><br>(30 min) | Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. | Term 2 |
+| Where I Belong | What Are Families?<br><br>(30 min) | - know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need | Term 4 |
+| Where I Belong | What is My Role?<br>(30 min) | - know that gender is about being male or female<br>- choose not to stereotype by gender | Term 4 |
+| How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | - know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse | Term 4 |
+|  | Stop It! Run! Tell!<br>(30 min) | - protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm | Term 4 |
+|
 
 Primary 6:
 ----------
