@@ -48,23 +48,76 @@ Total Defence Day:
 ![](/images/cce7.jpg)
 
 #### CCE Curriculum
+CCE (FTGP) lessons focus on explicit teaching of social-emotional competencies, as well as the development of citizenship dispositions. Sexuality Education (Sed) lessons are taught as part of Growing Years series at Primary 5 and 6. Please click on the link for further information on [MOE’s Sexuality Education](https://northspringpri.moe.edu.sg/our-programmes/values-in-education/information-on-sexuality-education-programme).
 
+As part of a school-based initiative for CCE (MTL) lessons, North Spring Primary sets aside time every term for students to reflect and show their appreciation to different groups of people (e.g. school staff, NS Men, parents).
 
+![](/images/cce8.jpg)
 
 #### Values-in-Action (VIA)
+Values must be learnt through actions and demonstrated continually for students to understand their social obligations. Therefore, VIA in North Spring Primary continues to create opportunities for our students to practice personal and social responsibility. For example, we have, as a school, encouraged students to keep the canteen clean and speak graciously to one another all the time. We are also involved in community work and donation drives too. Prior to COVID, they include:
 
+*   donating pre-loved textbooks, pocket money and items suitable for recycling.
+*   visiting Eldercare centres and non-profit health organizations.
+*   participating in community clean-up work.
 
+![](/images/cce9.jpg)
 
 #### Student Leadership (SL)
+Student Leadership is an integral part of our education system. North Spring Primary School aims to implement an effective Student Leadership programme that is aligned to our school and national educational objectives. The aims of our Student Leadership Programme are to equip our student leaders with the necessary skills to develop their leadership potential, provide opportunities for them to practice their leadership skills and be developed in fulfilling their fullest potential.
 
+They are then empowered to serve their peers and others in service learning in various areas and at various levels after going through a progressive student leadership programme. We hope all students will grow up being equipped with the right values and useful competencies to contribute to Singapore and the world beyond.
 
+Students need to acquire the necessary skills to help them discern, decide and display behaviours that are inspirational and morally acceptable. These will prepare them for the future.
+
+![](/images/cce10.jpg)
 
 #### Peer Support Relationships
 
+<center>Peer Support Relationships (PSR) initiative builds on our school's culture of care. It aims to create a supportive and caring environment so that our students will feel safe, accepted and empowered. This leads to positive child and youth development, risk prevention and health promotion, as well as improved student learning and academic achievement.</center>
 
+<img src="/images/cce11.jpg" style="width:85%">
+
+<center>There are also two tiers of implementation of PSR @ NSPS:<br>
+Tier 1: Every student a peer supporter<br>
+Tier 2: Selected students as CARE Champions to lead, champion and advocate PSR efforts such as the BOND programme.</center>
 
 #### BOND Programme
+Termly activities to promote peer bonding and foster friendship between North Springers.
 
+Exchange of Friendship Butterfly:
 
+![](/images/cce12.jpg)
+
+Exchange of Friendship Bands during Kindness Week:
+
+<img src="/images/cce13.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cce14.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cce15.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 #### Schoolwide Programme and Campaigns
+To nurture positive character in North Springers and instill good habits in them, we design programmes to empower them to do so. Routines are put in place for North Springers to inculcate healthy behaviours that subsequently translate to habits for life.
+
+<u>CAN! Initiative</u><br>
+Clean and Neat (CAN!) routine, North Springers learn to be self-motivated and take pride in keeping their classrooms neat and tidy through the day. Monitors are empowered to perform daily checks on their classrooms’ cleanliness at the end of the day.
+
+<img src="/images/cce16.jpg" style="width:42%;margin-left:55px;" align = "left">
+<img src="/images/cce17.jpg" style="width:42%;margin-right:55px;" align = "right">
+
+<br clear="left">
+
+<u>Gracious Movement</u><br>
+As part of the Gracious Movement campaign, North Springers are taught how to be gracious through being appreciative, being considerate and being courteous. These are infused through several initiatives, such as the following:
+
+*   Through the “Grateful Monday” programme, North Springers are encouraged to build positive relationships with people around them by using positive language to affirm one another to cultivate gratitude.
+  
+Weekly grateful reflections:*   During the Kindness Week, the concept of empathy was introduced through a “Hat Maker Penguin” story, with recess activities and scenario based videos and Q&A to reinforce the concept.
+
+<img src="/images/cce18.jpg" style="width:42%;margin-left:55px;" align = "left">
+<img src="/images/cce19.jpg" style="width:42%;margin-right:55px;" align = "right">
+
+<br clear="left">
+
+![](/images/cce20.jpg)
