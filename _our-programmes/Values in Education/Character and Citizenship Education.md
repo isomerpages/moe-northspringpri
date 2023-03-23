@@ -48,7 +48,7 @@ Total Defence Day:
 ![](/images/cce7.jpg)
 
 #### CCE Curriculum
-CCE (FTGP) lessons focus on explicit teaching of social-emotional competencies, as well as the development of citizenship dispositions. Sexuality Education (Sed) lessons are taught as part of Growing Years series at Primary 5 and 6. Please click on the link for further information on [MOE’s Sexuality Education](https://northspringpri.moe.edu.sg/our-programmes/values-in-education/information-on-sexuality-education-programme).
+CCE (FTGP) lessons focus on explicit teaching of social-emotional competencies, as well as the development of citizenship dispositions. Sexuality Education (Sed) lessons are taught as part of Growing Years series at Primary 5 and 6. Please click on the link for further information on [MOE’s Sexuality Education](https://staging.d1bc1rc2ni4hwe.amplifyapp.com/our-programmes/values-in-education/information-on-sexuality-education-programme).
 
 As part of a school-based initiative for CCE (MTL) lessons, North Spring Primary sets aside time every term for students to reflect and show their appreciation to different groups of people (e.g. school staff, NS Men, parents).
 
