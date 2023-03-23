@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/nsps.gif
+      background: /images/hero.gif
       key_highlights:
         - title: P4 Parent Talk on SBB 2022
           description: Please click here to go to the Letters to Parents Page
@@ -22,4 +22,3 @@ sections:
           description: We have a new corporate video! Click here to view!
           url: /about-nsps/school-corporate-video
 ---
-
