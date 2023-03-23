@@ -1,9 +1,12 @@
 ---
 title: What do our parents say
-permalink: /about-nsps/nsps-e-open-house/what-do-our-parents-say
+permalink: /about-nsps/nsps-e-open-house/what-do-our-parents-say/
 description: ""
 third_nav_title: NSPS E Open House
 ---
+What do our parents say
+=======================
+
 ![What do our parents say](/images/Slide1.jpg)
 
 ![What do our parents say](/images/Slide3.jpg)
