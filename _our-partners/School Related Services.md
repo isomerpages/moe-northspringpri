@@ -22,55 +22,33 @@ Dec : 12pm to 6pm (opens DAILY from Mon to Sun)<br>
 Sale of uniform is available at the School Bookshop during school days **(not available from 1 November 2022 to 6 February 2023)**
 
 #### School Books & Stationeries
-
-BL Marketing Pte LtdTel : 6284 8785
-
-Email : [sales@blmarketing.sg](mailto:sales@blmarketing.sg)
-
-Website : [https://blmarketing.sg](https://blmarketing.sg/)
-
-Opening Hours : 8am to 3pm
-
-Lunch Break Hours : 11.45am to 12.45pm
-
-Close on Saturday, Sunday & Public Holidays
+BL Marketing Pte Ltd<br>
+Tel : 6284 8785<br>
+Email : [sales@blmarketing.sg](mailto:sales@blmarketing.sg)<br>
+Website : [https://blmarketing.sg](https://blmarketing.sg/)<br>
+Opening Hours : 8am to 3pm<br>
+Lunch Break Hours : 11.45am to 12.45pm<br>
+Close on Saturday, Sunday & Public Holiday
 
 #### Student Care Centre
-
-Raffles Student Care Centre LLPMain Branch : Hougang Green Annexe
-
-Blk 570 #01-105
-
-Hougang Street 1
-
-Singapore 530 570
-
-Email : [admin@rafflesstudentcare.com](mailto:admin@rafflesstudentcare.com); [ns@rafflesstudentcare.com](mailto:ns@rafflesstudentcare.com)
-
-Tel : 6387 8308 (Main Branch)
-
-Tel : 6385 4588 (Branch at North Spring Primary School)
-
-Tel : 8817 0835 (whatsapp)
+Raffles Student Care Centre LLP<br>
+Main Branch: Hougang Green Annexe<br>
+Block 570 #01-105 Hougang Street 51<br>
+Singapore 530570<br>
+Email: [admin@rafflesstudentcare.com](mailto:admin@rafflesstudentcare.com)<br>
+Tel: 63878308 (Main Branch)<br>
+Tel: 63854588 (NSPS)<br>
+Tel: 8817 0835 (whatsapp)
 
 #### School Dental Clinic
-
-School Dental Clinic opens on alternate week :-Mon to Thurs : 8am to 5.30pm
-
-Fri : 8am to 5pm
-
-Lunch Break Hours : 1pm to 2pm
-
-Please contact 8533 8095 for appointment.
-
+School Dental Clinic opens on alternate week :-Mon to Thurs : 8am to 5.30pm<br>
+Fri : 8am to 5pm<br>
+Lunch Break Hours : 1pm to 2pm<br>
+Please contact 8533 8095 for appointment.<br>
 In case of emergency, please contact Health Promotion Board at 6435 3782.
 
 #### School Bus Transport
-
-KW Bus Pte Ltd  
-
-Please contact Mr Ho Jun Xian for your child’s transport needs.
-
-Contact Number : 8498 4950 (HP)
-
-Email : [kwbus@yahoo.com.sg](mailto:kwbus@yahoo.com.sg)
+<u>KW Bus Service</u><br>
+Please call Mr Ho Jun Xian for your child’s transport needs.<br>
+Tel: 84984950 (hp)<br>
+Email: [kwbus@yahoo.com.sg](mailto:kwbus@yahoo.com.sg)
