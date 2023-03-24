@@ -2,13 +2,4 @@ collections:
   links:
     output: true
     order:
-      - For Parents/.keep
-      - For Parents/2022 P1 Orientation e Handbook.md
-      - For Parents/Canteen Menu.md
-      - For Parents/Letters and Forms.md
-      - For Parents/Parents Gateway.md
-      - For Parents/Brochures on MOE Initiatives and Programmes.md
-      - For Parents/Home Based Learning Links.md
-      - For Parents/School Term and Break Schedule.md
-      - For Parents/SLS Login and Frequently Asked Questions.md
       - For Staff.md
