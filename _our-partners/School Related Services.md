@@ -1,10 +1,12 @@
 ---
 title: School Related Services
-permalink: /our-partners/school-related-services
+permalink: /our-partners/school-related-services/
 description: ""
 ---
-Uniform Supplier
-----------------
+School Related Services
+=======================
+
+#### Uniform Supplier
 
 Shirley Season Wear
 
@@ -32,8 +34,7 @@ Dec : 12pm to 6pm (opens DAILY from Mon to Sun)
 
 Sale of uniform is available at the School Bookshop during school days
 
-School Books & Stationeries
----------------------------
+#### School Books & Stationeries
 
 BL Marketing Pte LtdTel : 6284 8785
 
@@ -47,8 +48,7 @@ Lunch Break Hours : 11.45am to 12.45pm
 
 Close on Saturday, Sunday & Public Holidays
 
-Student Care Centre
--------------------
+#### Student Care Centre
 
 Raffles Student Care Centre LLPMain Branch : Hougang Green Annexe
 
@@ -66,8 +66,7 @@ Tel : 6385 4588 (Branch at North Spring Primary School)
 
 Tel : 8817 0835 (whatsapp)
 
-School Dental Clinic
---------------------
+#### School Dental Clinic
 
 School Dental Clinic opens on alternate week :-Mon to Thurs : 8am to 5.30pm
 
@@ -79,8 +78,7 @@ Please contact 8533 8095 for appointment.
 
 In case of emergency, please contact Health Promotion Board at 6435 3782.
 
-School Bus Transport
---------------------
+#### School Bus Transport
 
 KW Bus Pte Ltd  
 
@@ -88,6 +86,4 @@ Please contact Mr Ho Jun Xian for your child’s transport needs.
 
 Contact Number : 8498 4950 (HP)
 
-Email : [kwbus@yahoo.com.sg](mailto:kwbus@yahoo.com.sg)[](mailto:kwbus@yahoo.com.sg)
-
-[](mailto:kwbus@yahoo.com.sg)
+Email : [kwbus@yahoo.com.sg](mailto:kwbus@yahoo.com.sg)
