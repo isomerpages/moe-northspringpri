@@ -2,5 +2,6 @@ collections:
   links:
     output: true
     order:
+      - For Parents/OPAC (Online Public Access Catalogue).md
       - For Parents/.keep
       - For Staff.md
