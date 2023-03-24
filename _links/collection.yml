@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Parents/Canteen Menu.md
       - For Parents/Letters and Forms.md
       - For Parents/Parents Gateway.md
       - For Parents/Brochures on MOE Initiatives and Programmes.md
