@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Parents/Group Personal Accident (GPA) Insurance Plan for Students.md
       - For Parents/OPAC (Online Public Access Catalogue).md
       - For Parents/.keep
       - For Staff.md
