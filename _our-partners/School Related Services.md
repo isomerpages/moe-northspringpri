@@ -7,32 +7,19 @@ School Related Services
 =======================
 
 #### Uniform Supplier
-
-Shirley Season Wear
-
-Main Office:
-
-Northstar 7030 Ang Mo Kio Avenue 5
-
-#04-55 (Lift Lobby 1)
-
-Singapore 569 880
-
-Tel : 6280 4917
-
-Fax : 6285 9727
-
-Email : [getintouch@shirleyuni.com](mailto:getintouch@shirleyuni.com)
-
-Website : [www.shirleyuni.com](http://www.shirleyuni.com/)
-
-Opening Hours:
-
-Jan to Nov : 12pm to 6pm (Closed on Sundays & PH)
-
-Dec : 12pm to 6pm (opens DAILY from Mon to Sun)
-
-Sale of uniform is available at the School Bookshop during school days
+Shirley Season Wear<br>
+Main Office:<br>
+Northstar 7030 Ang Mo Kio Avenue 5<br>
+#04-55 (Lift Lobby 1)<br>
+Singapore 569 880<br>
+Tel : 6280 4917<br>
+Fax : 6285 9727<br>
+Email : [getintouch@shirleyuni.com](mailto:getintouch@shirleyuni.com)<br>
+Website : [www.shirleyuni.com](http://www.shirleyuni.com/)<br>
+Opening Hours:<br>
+Jan to Nov : 12pm to 6pm (Closed on Sundays & PH)<br>
+Dec : 12pm to 6pm (opens DAILY from Mon to Sun)<br>
+Sale of uniform is available at the School Bookshop during school days **(not available from 1 November 2022 to 6 February 2023)**
 
 #### School Books & Stationeries
 
