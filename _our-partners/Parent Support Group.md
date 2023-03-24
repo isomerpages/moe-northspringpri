@@ -8,7 +8,7 @@ Parent Support Group
 
 _“We Care With Unconditional Love”_
 
-
+<img src="/images/psg1.jpg" style="width:40%;margin-right:15px;" align = "left">
 
 **Vision**<br>
 Supportive and understanding parents
@@ -17,6 +17,8 @@ Supportive and understanding parents
 To provide support for the development of the children within the framework and thrust of the school
 
 **Our Logo**
+
+<img src="/images/psg2.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 The letters ‘PSG’ stand for Parent Support Group in North Spring Primary School. Well-fitted together, they form a heart shape to signify the members’<br>
 (i) commitment in supporting the school to develop the children and<br>
