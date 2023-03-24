@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games.md
+      - Physical Sports.md
       - Performing Arts.md
       - Visual Arts.md
       - Uniform Groups.md
