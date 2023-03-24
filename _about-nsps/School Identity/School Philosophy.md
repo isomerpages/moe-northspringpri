@@ -11,7 +11,6 @@ School Philosophy
 
 <br clear="left">
   
-</body>
 
 **Our Vision Statement:**
 
