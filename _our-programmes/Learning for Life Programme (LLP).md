@@ -1,24 +1,24 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /our-programmes/learning-for-life-programme-llp
+permalink: /our-programmes/learning-for-life-programme-llp/
 description: ""
 ---
-Play Your Hearts Out @ North Spring
------------------------------------
+Learning for Life Programme (LLP)
+=================================
+
+#### Play Your Hearts Out @ North Spring
 
 The school’s **Learning for Life Programme (LLP)**, **Play Your Hearts Out @ North Spring**, strives to provide platforms for enjoyment, cultivate a mindset that fosters excellence and build character and values through the vehicle of physical outdoor activities. The LLP gets our North Springers involved in physical activities out of the classroom, and through these activities, develops positive personal and social behaviour towards life-long learning. The school’s foundation building and broad-based development which involves all North Springers with the emphasis on recreational participation, broad-based development and providing a strong foundation through the culture of playing and learning a variety of physical outdoor activities. Through Play Your Hearts Out @ North Spring, the LLP hopes to leverage on our North Springers’ potential in the area of physical outdoor activities, develop a love and appreciation of physical activity, inculcate the right values in our students, articulate an inclusive approach to PE and sports development and envision a nation of active and physically competent individuals.
 
 ![Play Your Hearts Out @ North Spring](/images/Play%20Your%20Hearts%20Out%20@%20North%20Spring.png)
 
-LLP Play Experiences
---------------------
+#### LLP Play Experiences
 
 The school’s LLP strives to engage our North Springers’ sense of adventure through the exploration of both natural and urban environments from their immediate surroundings to other unfamiliar locations. The LLP maximises the use of our beginning North Springers’ senses to be comfortable as they explore familiar surroundings. New and unfamiliar locations, in diverse natural and urban environments, provide dynamic situations for mature learners to learn to be safe and make good judgements in a wider range of activities. These exploratory experiences will enable students to develop connections with the environment and the responsibility to safeguard it, thereby facilitating a lifelong pursuit of outdoor physical recreation.
 
 ![LLP Play Experiences](/images/LLP%20Play%20Experiences.png)
 
-LLP Play Activities
--------------------
+#### LLP Play Activities
 
 **BOULDERING** engages our North Springers for a full body workout with both their upper and lower bodies involved. Bouldering is a full body activity that incorporates every major muscle group and improves flexibility and endurance in our North Springers. It is a great way to develop overall physical fitness through increasing strength and enhancing hand, foot and eye coordination. It also aids in focusing the mind, improves confidence and problem solving towards character building. Bouldering is as much of a mental game as it is a physical feat. When our North Springers challenge their first bouldering wall, they may be overwhelmed by all of the ways they can make it to the top. As they attempt more, they will learn how to mentally map out the most efficient ways to navigate the holds. These problem solving and planning skills can easily transfer to everyday life.
 
