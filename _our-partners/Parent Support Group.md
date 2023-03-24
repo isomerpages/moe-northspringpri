@@ -28,8 +28,15 @@ The letters ‘PSG’ stand for Parent Support Group in North Spring Primary Sch
 
 **Safety Marshals**<br>
 PSG members help the school ensure students’ safety at crossing areas near Gates B and F during school reporting and dismissal periods.
-## table
 
+<center><b>Safety Marshals</b></center>
+
+|  |  |
+|---|---|
+| Duty | To ensure that students obey the road crossing traffic rules and exercise personal and social responsibility |
+| Frequency/Time | Mondays to Fridays at the pedestrian crossings near Gates B and F<br>Monday to Friday<br>- 7.00 to 7.25am<br>Monday & Thursday<br>- 1.30pm to 1.55pm<br>Tuesday & Wednesday<br>- 2.30pm to 2.55pm<br>Friday<br>- 1.00pm to 1.25pm |
+|
+	
 **Recess Duty** <br>
 PSG members ensure that students display responsibility in keeping the canteen clean. All students must consume their food in the canteen. When necessary, PSG members also apply simple first aid to students who suffer minor injuries like cuts, wounds or abrasions during play at recess.
 
