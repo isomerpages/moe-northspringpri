@@ -51,5 +51,5 @@ c/o North Spring Primary School<br>
 Tel. 6881 6887    Fax No. 6385 1044
 
 You may download the PSG Application Form by clicking this link.<br>
-[PSG Application Form]<br>
-[PSG\_Feedback Form]
+[PSG Application Form](/files/PSG-Application-Form_8Nov2016.pdf)<br>
+[PSG\_Feedback Form](/files/PSG_Feedback-Form_15Feb2017.pdf)
