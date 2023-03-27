@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Announcements.md
       - For Parents/General Information for Parents (For School Website).md
       - For Parents/English, Mathematics, Science and Mother Tongue Resources
         for Parents.md
