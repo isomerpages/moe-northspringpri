@@ -12,8 +12,5 @@ sections:
         - title: ""
           description: ""
           url: ""
-        - title: ""
-          description: ""
-          url: ""
   - infobar: {}
 ---
