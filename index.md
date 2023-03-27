@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/hero.gif
       key_highlights:
-        - title: Announcements
+        - title: ""
           description: ""
           url: ""
         - title: ""
