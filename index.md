@@ -8,5 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/frontpage720.gif
-  - infobar: {}
+  - infobar:
+      button: Announcements
+      url: /
 ---
