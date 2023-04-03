@@ -9,6 +9,7 @@ sections:
   - hero:
       background: /images/frontpage720.gif
   - infobar:
-      button: Announcements
+      button: click here
       url: /links/announcements/
+      title: Announcements
 ---
