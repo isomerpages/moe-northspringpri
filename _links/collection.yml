@@ -1,0 +1,20 @@
+collections:
+  links:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/General Information for Parents (For School Website).md
+      - For Parents/English, Mathematics, Science and Mother Tongue Resources
+        for Parents.md
+      - For Parents/2023 P1 Orientation eHandbook.md
+      - For Parents/Canteen Menu.md
+      - For Parents/Letters and Forms.md
+      - For Parents/Parents Gateway.md
+      - For Parents/Brochures on MOE Initiatives and Programmes.md
+      - For Parents/Home Based Learning Links.md
+      - For Parents/School Term and Break Schedule.md
+      - For Parents/SLS Login and Frequently Asked Questions.md
+      - For Parents/Group Personal Accident (GPA) Insurance Plan for Students.md
+      - For Parents/OPAC (Online Public Access Catalogue).md
+      - For Staff.md
+      - Announcements.md

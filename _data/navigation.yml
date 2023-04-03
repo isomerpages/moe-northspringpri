@@ -1,15 +1,25 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo-home-page.png
 links:
+  - title: About NSPS
+    url: /about-nsps/school-staff/school-management-board
+    sublinks:
+      - title: School Staff
+        url: /about-nsps/school-staff/school-management-board
+      - title: School Identity
+        url: /about-nsps/school-identity/school-philosophy
+      - title: School Handbook
+        url: /about-nsps/school-handbook/school-hours
+      - title: NSPS E Open House
+        url: /about-nsps/nsps-e-open-house
+      - title: e-Newsletter (Spring Roll)
+        url: /about-nsps/e-newsletter-spring-roll
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Our Partners
+    collection: our-partners
+  - title: CCA
+    collection: cca
+  - title: Links
+    collection: links
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /nsps/contact-us
