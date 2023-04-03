@@ -10,5 +10,5 @@ sections:
       background: /images/frontpage720.gif
   - infobar:
       button: Announcements
-      url: //links/announcements/
+      url: /links/announcements/
 ---
