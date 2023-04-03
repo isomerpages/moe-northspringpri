@@ -7,6 +7,4 @@ third_nav_title: NSPS E Open House
 360 Virtual Tour
 ================
 
-Welcome to our 360 Virtual Tour! Click on the links below to view the 360 picture!
-
-***not sure how to embed 360 virtual tour***
+Welcome to our 360 Virtual Tour! Click [here](https://kuula.co/share/collection/7kkps?logo=1&info=1&fs=1&vr=0&sd=1&gyro=0&thumbs=1&keys=0) to view the 360 picture!
