@@ -38,4 +38,5 @@ Corporate Support Staff
 | **Desktop Engineer II** | Ms Solveon Neo |
 | **ICT Trainer** | Ms Nadiah Shafawati |
 | **Teacher-Aide** | Ms J Venkata Lakshmi |
+| **Librarian** | Ms Shanny Lean
 |
