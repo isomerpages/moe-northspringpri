@@ -2,12 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Physical Sports/Physical Sports.md
-      - Physical Sports/Badminton.md
-      - Physical Sports/Basketball.md
-      - Physical Sports/Football.md
-      - Physical Sports/Wushu.md
-      - Physical Sports/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Drama.md
       - Performing Arts/Ethnic Dance.md
