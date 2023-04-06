@@ -3,6 +3,3 @@ collections:
     output: true
     order:
       - Modular CCA.md
-      - Uniform Groups/Uniform Groups.md
-      - Uniform Groups/Scouts.md
-      - Uniform Groups/.keep
