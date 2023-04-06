@@ -18,7 +18,7 @@ Other Educators
 |  |  |
 |---|---|
 | Mdm Joyce Ye Meitian | Mdm Kua Chiew Guet |
-| Mdm Wee Jee Luan |  | Mr Lim Yong Jie |
+| Mdm Wee Jee Luan |   Mr Lim Yong Jie |
 |
 
 #### QPET Teachers
