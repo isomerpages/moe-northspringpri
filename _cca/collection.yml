@@ -2,14 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Performing Arts.md
-      - Performing Arts/Drama.md
-      - Performing Arts/Ethnic Dance.md
-      - Performing Arts/Guitar Ensemble.md
-      - Performing Arts/Show Choir.md
-      - Performing Arts/String Ensemble.md
-      - Performing Arts/Tap Dance.md
-      - Performing Arts/.keep
       - Visual Arts/Visual Arts.md
       - Visual Arts/Visual Art.md
       - Visual Arts/Ceramic.md
