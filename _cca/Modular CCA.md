@@ -18,5 +18,6 @@ In Term 1, our North Springer have taken part in Sport-silience (Basketball and 
 ![](/images/CCA%20Page/cca%206%20%20.jpg)
 ![](/images/CCA%20Page/cca%207%20%20.jpg)
 
-
 <u>World Percussion</u>
+![](/images/CCA%20Page/cca%208%20%20.jpg)
+![](/images/CCA%20Page/cca%20%209%20%20.jpg)
