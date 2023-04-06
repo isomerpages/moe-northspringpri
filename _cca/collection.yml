@@ -2,10 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Visual Arts/Visual Arts.md
-      - Visual Arts/Visual Art.md
-      - Visual Arts/Ceramic.md
-      - Visual Arts/.keep
       - Uniform Groups/Uniform Groups.md
       - Uniform Groups/Scouts.md
       - Uniform Groups/.keep
