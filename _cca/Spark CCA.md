@@ -26,5 +26,9 @@ While Modular CCA focuses on broad exposure, SPARK CCA is a platform that focuse
 ![](/images/CCA%20Page/cca%2021.jpg)
 
 <u>String Ensemble</u>
+![](/images/CCA%20Page/cca%2022.jpg)
+![](/images/CCA%20Page/cca%2023.jpg)
+![](/images/CCA%20Page/cca%2024.jpg)
+![](/images/CCA%20Page/cca%2025.jpg)
 
 <u>Cub Scouts</u>
