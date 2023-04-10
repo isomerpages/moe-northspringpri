@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/frontpage720.gif
       key_highlights:
-        - title: Announcement
+        - title: Announcements
           description: ""
           url: /links/announcements/
 ---
