@@ -6,7 +6,7 @@ description: ""
 For Staff
 =========
 
-&nbsp;[MIMS Portal](https://portal.mims.moe.gov.sg/)<br>
+[MIMS Portal](https://portal.mims.moe.gov.sg/)<br>
  [iCON](https://workspace.google.com/dashboard)<br>
 [MOE Intranet](https://intranet.moe.gov.sg/) <br>
 [SC Mobile](https://scmobile.moe.edu.sg/)<br>
