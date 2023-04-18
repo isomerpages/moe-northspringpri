@@ -7,18 +7,18 @@ third_nav_title: Cognitive Programmes
 Mother Tongue Languages
 =======================
 
-The Mother Tongue Languages Department offers the following languages in the school: <br>
-1\) Chinese Language <br>
-2\) Malay Language <br>
-3\) Tamil Language 
+The Mother Tongue Languages Department offers the following languages in the school:&nbsp;<br>
+1\) Chinese Language&nbsp;<br>
+2\) Malay Language&nbsp;<br>
+3\) Tamil Language&nbsp;
 
 The Mother Tongue Languages Department aims to deliver a dynamic Mother Tongue Languages curriculum which builds a strong foundation in the languages among our students while providing them with a rich language learning environment to develop a love for learning the languages and appreciating the cultures.
 
 #### TEACHING AND LEARNING APPROACH
 
-We hope to achieve the objectives through: 
+We hope to achieve the objectives through:&nbsp;
 
-1\) Creating an enjoyable and conducive environment for the learning of Mother Tongue languages 
+1\) Creating an enjoyable and conducive environment for the learning of Mother Tongue languages&nbsp;
 
 2\) Instilling the joy of learning and passion for Mother Tongue language and culture in our students
 
@@ -26,12 +26,12 @@ We hope to achieve the objectives through: 
 
 #### Key Programmes
 
-Through these programmes, our students have the opportunities to build up their competencies in the respective languages and enhance their understanding of their own languages and cultures. 
+Through these programmes, our students have the opportunities to build up their competencies in the respective languages and enhance their understanding of their own languages and cultures.&nbsp;
 
-1\) MTL Fortnight <br>
-2\) MTL Cultural Camp<br> 
-3\) Whole School Reading Programme <br>
-4\) Enrichment Programme for Upper Primary levels <br>
+1\) MTL Fortnight&nbsp;<br>
+2\) MTL Cultural Camp<br>
+3\) Whole School Reading Programme&nbsp;<br>
+4\) Enrichment Programme for Upper Primary levels&nbsp;<br>
 5\) Cultural Performance Exposure Scheme (for CL)
 
 <p style="text-align:center;"> <strong>MTL Fortnight and Cultural Camp</strong></p>
