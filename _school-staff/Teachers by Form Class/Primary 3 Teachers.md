@@ -10,7 +10,7 @@ Primary 3 Teachers
 |  |  |
 |---|---|
 | **3.1** | Mr Lim Yee Sien<br>Miss Gloria Koh Von |
-| **3.2** | Mrs Neo-Ong Shi Min, Celine<br>Mdm Hanim Bte Ab Ghani |
+| **3.2** | Mrs Neo-Ong Shi Min, Celine<br>Mdm Teng Fei |
 | **3.3** | Ms Mun Li Ting<br>Miss Ravinder Kaur |
 | **3.4** | Mr Poon Kar Tung<br>Miss Xu Yumei |
 | **3.5** | Miss Liang Wileen<br>Mr Nei Koon Seng Jeremy |
