@@ -36,7 +36,7 @@ description: ""
 
 * Nearest LRT: Bakau LRT – 10 minutes walking distance
 
-* Bus number: Bus NR6, 85,86, 119 and 136 (Walking 1 min from bus stop B67149
+* Bus number: Bus NR6, 85,86, 119 and 136 (Walking 1 min from bus stop B67149)
 
 **Interest applicants must meet the following criteria:**
 
