@@ -11,7 +11,7 @@ Primary 2 Teachers
 |---|---|
 | **2.1** | Ms Saleha Bano<br>Mr Lim Yong Jie |
 | **2.2** | Mdm Joyce Ye Meitian<br>Mrs Choo Woon Kee Laurene |
-| **2.3** | Mdm Neo Bee Lin<br>Mdm Teng Fei |
+| **2.3** | Mdm Neo Bee Lin<br>Mdm Hanim Bte Ab Ghani|
 | **2.4** | Mdm Ng Gin Bee, Lauren<br>Ms Wu Zhekang |
 | **2.5** | Mdm Nur Izyan<br>Miss Ma Mengdie |
 | **2.6** | Miss Zaiton bte Ja'afar<br>Mdm Serajunisha Begum |

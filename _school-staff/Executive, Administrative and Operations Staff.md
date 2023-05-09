@@ -24,9 +24,9 @@ Corporate Support Staff
 |---|---|
 | **Operations Manager** | Mr Lee Tong Boon |
 | **OSO** | Mdm Pandara Kanu Maratha Mercy |
-| **OSO** | Mr Zainol Abidin Bin Abdul Ghani |
 | **OSO** | Mr Chia Gek Poh |
 | **OSO** | Mr Lau Sau Kee |
+| **OSO** | Mr Ng Kay Ming Benjamin |
 |
 
 #### Administrative Support Staff
