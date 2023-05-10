@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chicken Rice     | 30 June 2023     | Mixed rice is acceptable.    |
+| Chinese Rice     | 30 June 2023     | Mixed rice is acceptable.    |
 
 **Application Procedure**
 
