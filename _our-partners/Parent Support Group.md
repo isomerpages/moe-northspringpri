@@ -18,7 +18,7 @@ We aim to act as a bridge between the students, the parent community and the sch
 Mission
 Be an effective partner to the school
 Be an engaging voice to the Parents
-Be a caring &amp; supporting team to the students
+Be a caring &amp; supporting team to the students.
 
 
 <u>Connect Time with School Leaders</u>
