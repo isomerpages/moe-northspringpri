@@ -8,18 +8,20 @@ A key component of students’ holistic education, CCAs give students a platform
 In Term 1, our North Springer have taken part in Sport-silience (Basketball and Football), Wire Sculpture, Coding and World Percussion.
 
 <u>Sport-silience (Basketball and Football)</u>
-![](/images/CCA%20Page/cca%201%20%20.jpg)![](/images/CCA%20Page/cca%202%20%20.jpg)![](/images/CCA%20Page/cca%203%20%20.jpg)
+![](/images/CCA/cca%201%20%20.jpg)
+![](/images/CCA/cca%202%20%20.jpg)
+![](/images/CCA/cca%203%20%20.jpg)
 
 <u>Wire Sculpture</u>
-![](/images/CCA%20Page/cca%204%20%20.jpg)
-![](/images/CCA%20Page/cca%205%20%20.jpg)
+![](/images/CCA/cca%204%20%20.jpg)
+![](/images/CCA/cca%205%20%20.jpg)
 
 <u>Coding</u>
-![](/images/CCA%20Page/cca%206%20%20.jpg)
-![](/images/CCA%20Page/cca%207%20%20.jpg)
+![](/images/CCA/cca%206%20%20.jpg)
+![](/images/CCA/cca%207%20%20.jpg)
 
 <u>World Percussion</u>
-![](/images/CCA%20Page/cca%208%20%20.jpg)
-![](/images/CCA%20Page/cca%20%209%20%20.jpg)
+![](/images/CCA/cca%208%20%20.jpg)
+![](/images/CCA/cca%20%209%20%20.jpg)
 
 <a href="#top"> scroll to top </a>
