@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - For Students.md
       - For Parents/.keep
       - For Parents/General Information for Parents (For School Website).md
       - For Parents/English, Mathematics, Science and Mother Tongue Resources
