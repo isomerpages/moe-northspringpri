@@ -50,7 +50,7 @@ In case of emergency, please contact Health Promotion Board at 6435 3782.
 #### School Bus Transport
 
      
-<u>SMART Transport Pte Ltd</u><br>
+<u>SMART Transport Pte Ltd (with effect 27th May 23)</u><br>
 Please call Mr Ron Lim for your child’s transport needs<br>
 Tel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 9727 9073 (HP)<br>
 Email &nbsp;&nbsp;&nbsp; : [enquiry@smarttransportsg.com](mailto:enquiry@smarttransportsg.com)
