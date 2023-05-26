@@ -7,5 +7,4 @@ third_nav_title: For Parents
 OPAC (Online Public Access Catalogue)
 =====================================
 
-Click here to access: OPAC<br>
-**no links provided**
+Click here to access: [North Spring Primary School OPAC](https://schoolibrary.moe.edu.sg/northspringpri)
