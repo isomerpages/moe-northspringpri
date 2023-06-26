@@ -15,6 +15,7 @@ Corporate Support Staff
 | **Admin Executive** | Ms Serene Oh |
 | **MSO** | Mdm Michelle Liang |
 | **CSO** | Mdm Aileen Teoh |
+| **CSO** | Mdm Tan Khar Hui |
 | **Receptionist** | Mdm Jessy Cheng Kwai Sum |
 |
 
@@ -23,6 +24,7 @@ Corporate Support Staff
 |  |  |
 |---|---|
 | **Operations Manager** | Mr Lee Tong Boon |
+| **Operations Manager** | Ms Chan Pei Chun |
 | **OSO** | Mdm Pandara Kanu Maratha Mercy |
 | **OSO** | Mr Chia Gek Poh |
 | **OSO** | Mr Lau Sau Kee |
