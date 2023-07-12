@@ -38,7 +38,7 @@ Corporate Support Staff
 | **ICT Manager** | Mr Mohammed Azhar |
 | **Desktop Engineer I** | Ms Amanda Gay |
 | **Desktop Engineer II** | Ms Solveon Neo |
-| **ICT Trainer** | Ms Nadiah Shafawati |
+| **ICT Trainer** | Ms Julaila Latiff |
 | **Teacher-Aide** | Ms J Venkata Lakshmi |
 | **Librarian** | Ms Shanny Lean
 |
