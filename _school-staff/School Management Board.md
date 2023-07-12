@@ -32,4 +32,5 @@ School Management Board
 | **LH / Mathematics** | Ms Ong Mei Ling |
 | **Admin Manager** | Mdm Low San San |
 | **Operations Manager** | Mr Lee Tong Boon |
+| **Operations Manager** | Ms Chan Pei Chun |
 |
