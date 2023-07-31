@@ -8,7 +8,7 @@ description: ""
 | Type of Stall | Closing Date | Requirements |
 | ------------- | -------------- | -------------- |
 | Chinese Rice     | End of Term 3    | Mixed rice is acceptable.    |
-|Malay Noodle | End of Term 3 | Malay Noodles
+
 
 **Application Procedure**
 
