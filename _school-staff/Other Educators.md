@@ -6,12 +6,6 @@ description: ""
 Other Educators
 ===============
 
-#### English Language and Other Subject Teachers
-
-|  |  |
-|---|---|
-| Mr Lim Yee Sien | Mdm Humizara Husin |
-|
 
 #### LSM/LSP Teachers
 
@@ -19,33 +13,24 @@ Other Educators
 |---|---|
 | Mdm Joyce Ye Meitian | Mdm Kua Chiew Guet |
 | Mdm Wee Jee Luan |   Mr Lim Yong Jie |
-|
 
-#### QPET Teachers
-
-|  |  |
-|---|---|
-| Mr Mohammed Imran B Faizal | Mr Wu Zongyang Christopher |
-| Mrs Lee-Huang Qian Qin |  |
-|
 
 #### Music Teachers
 
 |  |  |
 |---|---|
 | Mr Martin Cheah Chiao | Mdm Lee Hui Shi Rebecca |
-|
+
 
 #### Chinese Language Teachers
 
 |  |  |
 |---|---|
 | Mdm Teng Kang Lee | Miss Xu Yumei |
-| Ms Lau Pei Zhi Peggy | Mr Lim Zijin |
+| Mr Lim Zijin | Miss Hu Fang
 | Mdm Lim Hwee Tin | Mr Sng Poh Guan |
-| Mdm Teng Fei | Miss Hu Fang |
+| Mdm Teng Fei | 
 |
-
 #### Malay Language Teachers
 
 |  |  |
@@ -62,7 +47,6 @@ Other Educators
 | Mrs Jaisri Thirunavukarasu | Mrs Angayarkanni Arun |
 | Mdm Serajunnisha Begum | Mdm Sangeetha Thamilchelvam |
 | Miss Guganeshwari d/o Tamil Selvam |  |
-|
 
 #### Allied Educators
 
@@ -70,18 +54,16 @@ Other Educators
 |---|---|
 | Mdm Mahadevan Harini | Ms Yeo Xiu Xian, Redonnia |
 | Mdm Nur Farahani Binti Abdul Mutalib |  |
-|
 
 #### School Counsellors
 
 |  |  |
 |---|---|
 | Miss Angela Tan En-Hui |  |
-|
+
 
 #### Student Welfare Officer (SWO)
 
 |  |  |
 |---|---|
 | Ms Oh Sock Hoon |  |
-|
