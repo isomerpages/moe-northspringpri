@@ -14,6 +14,5 @@ Lead and Senior Teachers
 | **Senior Teacher (Chinese)** | Mdm Teng Kang Lee |
 | **Senior Teacher (Music)** | Mr Martin Cheah Chiao |
 | **Senior Teacher (PE)** | Mrs Lee-Huang Qian Qin |
-| **Senior Teacher (Mathematics)** | Mr Edgar Wong Hong Teow |
 | **Senior Teacher (Science)** | Ms Yap Chun Zhen |
 |
