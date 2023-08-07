@@ -3,52 +3,10 @@ title: Other Educators
 permalink: /about-nsps/school-staff/other-educators/
 description: ""
 ---
-Other Educators
+Allied Educators
 ===============
 
-
-#### LSM/LSP Teachers
-
-|  |  |
-|---|---|
-| Mdm Joyce Ye Meitian | Mdm Kua Chiew Guet |
-| Mdm Wee Jee Luan |   Mr Lim Yong Jie |
-
-
-#### Music Teachers
-
-|  |  |
-|---|---|
-| Mr Martin Cheah Chiao | Mdm Lee Hui Shi Rebecca |
-
-
-#### Chinese Language Teachers
-
-|  |  |
-|---|---|
-| Mdm Teng Kang Lee | Miss Xu Yumei |
-| Mr Lim Zijin | Miss Hu Fang
-| Mdm Lim Hwee Tin | Mr Sng Poh Guan |
-| Mdm Teng Fei | 
-|
-#### Malay Language Teachers
-
-|  |  |
-|---|---|
-| Mr Abdul Fattah B Abdul Rahim | Mdm Hanim bte Ab Ghani |
-| Miss Nur Amirah bte Abdul Aziz | Miss Marissa Bte Mohd Hanif |
-| Miss Nurfarah Aina Bte Sulaiman |  |
-|
-
-#### Tamil Language Teachers
-
-|  |  |
-|---|---|
-| Mrs Jaisri Thirunavukarasu | Mrs Angayarkanni Arun |
-| Mdm Serajunnisha Begum | Mdm Sangeetha Thamilchelvam |
-| Miss Guganeshwari d/o Tamil Selvam |  |
-
-#### Allied Educators
+#### Special Educational Needs Officer
 
 |  |  |
 |---|---|
