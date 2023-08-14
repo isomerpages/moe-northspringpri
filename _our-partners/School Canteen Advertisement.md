@@ -8,6 +8,7 @@ description: ""
 | Type of Stall | Closing Date | Requirements |
 | ------------- | -------------- | -------------- |
 | Chinese Rice     | End of Term 3    | Mixed rice is acceptable.    |
+| Halal Western | 28 August 2023 | Halal Western
 
 
 **Application Procedure**
