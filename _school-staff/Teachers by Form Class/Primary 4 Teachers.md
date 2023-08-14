@@ -9,7 +9,7 @@ Primary 4 Teachers
 
 |  |  |
 |---|---|
-| **4.1** | Ms Tan Yingru Matilda<br>Mr Low Jo-Fan |
+| **4.1** | Mr Low Jo-Fan |
 | **4.2** | Mr Bala Chandran s/o Thiruselvan<br>Mdm Jessie Ang Hwee Ching |
 | **4.3** | Mr Raihan Bin Rajin<br>Mdm Shen Yu |
 | **4.4** | Ms Merilyn Lim Huay Sian<br>Ms Ong Mei Ling |
