@@ -13,5 +13,5 @@ Calling out to all ex-students of North Spring Primary School... Let's show our 
 
 Gratitude sweetens even the smallest moments! We look forward to seeing your heartwarming notes and some of your happy faces on Staff Appreciation Day! 😊
 
-##### P6 Parents Talk Presentation Slides 2023. [undefined](https://padlet.com/northspringprimaryschool/staff-appreciation-in-nsps-chgm2c8fyr76jqvm)[Click here!](https://padlet.com/northspringprimaryschool/staff-appreciation-in-nsps-chgm2c8fyr76jqvm)
+##### P6 Parents Talk Presentation Slides 2023. 
 Dear Parents, please find the presentation slides here: [2023 P6 Parents Talk Presentation](/files/2023%20p6%20parents%20talk%20presentation%20updated%2030%20jan.pdf)
