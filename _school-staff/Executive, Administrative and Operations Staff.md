@@ -3,8 +3,7 @@ title: Executive, Administrative and Operations Staff
 permalink: /about-nsps/school-staff/executive-administrative-and-operations-staff/
 description: ""
 ---
-Corporate Support Staff
------------------------
+
 
 #### Corporate Support Staff
 
@@ -16,6 +15,7 @@ Corporate Support Staff
 | **MSO** | Mdm Michelle Liang |
 | **CSO** | Mdm Aileen Teoh |
 | **CSO** | Mdm Tan Khar Hui |
+| **CSO** | Mdm Janet Phua |
 | **Receptionist** | Mdm Jessy Cheng Kwai Sum |
 |
 
@@ -31,7 +31,7 @@ Corporate Support Staff
 | **OSO** | Mr Ng Kay Ming Benjamin |
 |
 
-#### Administrative Support Staff
+#### ICT & Administrative Support Staff
 
 |  |  |
 |---|---|
