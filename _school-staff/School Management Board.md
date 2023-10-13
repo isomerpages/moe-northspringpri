@@ -21,7 +21,7 @@ School Management Board
 | **HOD Science** | Mr Low Jo-fan |
 | **HOD PE/CCA/Aesthetics** | Mr Chua Zhen Long, Mark |
 | **HOD EL** | Miss C Kavitha |
-| **SH / Student Management** | Mdm Alison Yong Yee Peng |
+| **SH / Student Management** | Mdm Alison Yong |
 | **SH / CL** | Miss Xu Yumei |
 | **SH / ICT** | Miss Sharifah Mariam Bte Syed M S A |
 | **SH / CCE** | Miss Ji Peifen |
