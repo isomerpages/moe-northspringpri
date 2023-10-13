@@ -15,5 +15,5 @@ Primary 5 Teachers
 | **5.4** | Mrs Jaisri Thirunavukarusu |
 | **5.5** | Miss Chan Wei Ling<br> |
 | **5.6** | Miss C Kavitha<br>Mdm Lee Hui Shi Rebecca |
-| **5.7** | Mdm Alison Yong Yee Peng<br>Mr Ee Bao Qin  |
+| **5.7** | Mdm Alison Yong <br>Mr Ee Bao Qin  |
 |
