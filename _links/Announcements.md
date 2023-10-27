@@ -3,6 +3,19 @@ title: Announcements
 permalink: /links/announcements/
 description: ""
 ---
+
+##### The Caring Teacher Awards
+
+Dear Parents and Students,
+
+The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools who go beyond the call of duty, nurturing the holistic development of their students and ensuring their charges grow up to be confident, independent and resilient learners for our nation.Please go to [https://www.cta.nie.edu.sg/nominate](https://www.cta.nie.edu.sg/nominate) to nominate deserving teachers for the award! Alternatively, you may download and write on the hardcopy nomination form.  
+  
+Hard copy nomination forms are to be submitted to the school upon completion.
+
+Deadline for online submission is 12 January 2024.
+
+![](/images/poster%20-%20cta%202024.jpg)
+
 ##### Staff Appreciation Day is around the corner! 
 
 ![](/images/staff%20appr%20day.jpeg)
