@@ -2,6 +2,7 @@
 title: School Related Services
 permalink: /our-partners/school-related-services/
 description: ""
+variant: markdown
 ---
 School Related Services
 =======================
@@ -19,7 +20,7 @@ Website :&nbsp;[www.shirleyuni.com](http://www.shirleyuni.com/)<br>
 Opening Hours:<br>
 Jan to Nov : 12pm to 6pm (Closed on Sundays &amp; PH)<br>
 Dec : 12pm to 6pm (opens DAILY from Mon to Sun)<br>
-Sale of uniform is available at the School Bookshop during school days&nbsp;**(not available from 1 November 2022 to 6 February 2023)**
+Sale of uniform is available at the School Bookshop during school days&nbsp;**(not available from  **1 November 2023 to 21 January 2024**)**
 
 #### School Books &amp; Stationeries
 BL Marketing Pte Ltd<br>

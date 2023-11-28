@@ -2,7 +2,17 @@
 title: Announcements
 permalink: /links/announcements/
 description: ""
+variant: markdown
 ---
+##### Cherished Memories of Yesteryears - A Collection of Grandparents' Life Experiences
+
+Do check out the online version of the book we launched recently, Cherished Memories of Yesteryears - A Collection of Grandparents' Life Experiences.
+
+https://online.flipbuilder.com/oryu/dlci/
+
+This book was published and supported by the National Youth Achievement Award Council and the Stephen Riady Foundation.
+
+![](/images/WhatsApp_Image_2023_11_23_at_5_10_24_PM.jpeg)
 
 ##### The Caring Teacher Awards
 
