@@ -152,6 +152,9 @@ Teacher’s education play an important role in the process of culture setting. 
 
 
 **Maker’s Education Professional Development**<br>
-![Maker’s Education Professional Development](/images/Maker’s%20Education%20Professional%20Development.png)
+![](/images/14__Maker_s_Education_Professional_Development.png)
 
-![Maker’s Education Professional Development](/images/Maker’s%20Education%20Professional%20Development_2.jpg)
+
+Sustainability Treasure Hunt&nbsp;
+
+Through an interactive treasure hunt, teachers learn about the United Nations Sustainable Development Goals (UNSDGs) , and try their best to apply these in their daily lives. These were shared with the school community, so that the school can learn from these positive examples and apply them to their lives.
