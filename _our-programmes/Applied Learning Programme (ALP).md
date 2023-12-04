@@ -147,30 +147,6 @@ North Springers also participated in the Pinnacle @ PeiCaiSec STEM event organiz
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **SUPPORT PROGRAMMES (if any)**<br>
 Teacher’s education play an important role in the process of culture setting. Hence to promote the culture of M.A.S.S Education, teachers go through engaging professional training workshops to experience Maker’s Education first-hand.&nbsp;
 
