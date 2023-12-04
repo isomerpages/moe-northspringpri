@@ -97,15 +97,15 @@ NSPS embarked on food waste recycling during Math-Science week. Composters were 
 
 With sufficient compost, the Science Explorer CCA Club members will proceed to grow the edible vegetables
 
-![Recycling food waste](/images/Recycling%20food%20waste.png)
+![](/images/6__SOW_Recycling_Food_waste_as_Ecolyte_garden_compost.png)
 
-**Subject Integration**<br>
+**Subject Area Activities**<br>
 The EPIC design thinking approach in M.A.S.S. Education is infused into the different subjects using different engaging activities.
 
 <u>Caterpillar observatory for the P2 English Stellar unit : A butterfly is born</u><br>
 As the P2 students learn the grammar and vocabulary terms in this English Stellar unit, they are given the opportunity to observe live butterflies in the larva (caterpillar) stage. They record their observations in the stellar worksheets and also learnt about the importance of butterflies in upkeeping the diversity of floral species in the world. It is not easy to rear caterpillars to adulthood. The P2 classes applied the EPIC thinking model and went through a few failures before they finally succeeded in helping the butterflies get to adulthood and release them back into the wild. The P2 students also use this opportunity to study the life cycle of the butterfly, which kickstarts their learning of Science.
 
-![Caterpillar observatory for the P2 English Stellar unit](/images/Caterpillar%20observatory%20for%20the%20P2%20English%20Stellar%20unit.png)
+![](/images/7__Caterpillar_observatory_for_the_P2_English_Stellar_unit.png)
 <u>Building a Sustainable City using 3D pens for P4 Math: Angles and Shapes</u><br>
 P4 Math classes brainstorm about what a sustainable city looks like and make it come to life using 3D pens. The EPIC thinking model helps them to apply their knowledge about the world now and what they have in mind for a sustainable city before they work in groups to create the 3D models of their sustainable city in their minds.
 
@@ -117,18 +117,59 @@ In Science, North Springers learn the deeper details of why the environment need
 
 P4 students also have a hydroponics system in their class. A pilot project to allow students to use their hands to actively promote sustainability by growing their own vegetables right in their classrooms. The vegetables are harvested and brought home to cook delicious dishes. A similar project is conducted in the P3 class where P3 students each have a mushroom growing kit.
 
-![Using recyclables to apply Science concepts and ideas to promote sustainability](/images/Using%20recyclables%20to%20apply%20Science%20concepts%20and%20ideas%20to%20promote%20sustainability.png)
+![](/images/9__Using_Recyclables_to_apply_science_to_promote_sustainability___2_.png)
 
-**Purposeful Authentic Learning**<br>
-Tier 2: Science Explorers CCA Club advocates and Science Champions
+**Subject Area Play**<br>
+Tier 2: STEM sustainability modular CCA Club and Earth and Science Champions activities**
 
-The science explorers cca club members and the science champs are a small group of North Springers who are privileged and selected to dive deeper into M.A.S.S. Education.
+During STEM-novation and quarterly champions training sessions, North Springers dive deeper into M.A.S.S. Education, to experience activities related to sustainability innovation.&nbsp;
 
-Science Explorer CCA Club members, being passionate advocates of Science, focuses on acquiring skills to become spokespersons for MASS Education. Using the EPIC design thinking approach, Science explorers embark on hands-on projects such as building a dream school using recyclables. They also engage in Science Center: Young Sustainability card activities and make posters to advocate the sustainability movement.
+Earth and Science Champions, being passionate student leader advocates of Science and environment, focuses on acquiring skills to become spokespersons for MASS Education. Using the EPIC design thinking approach, these student advocates embark on hands-on projects such as building a dream school using recyclables, building a school mascot to advocate for sustainability and also refurbished an area in the school to become a Sustainability Corner.&nbsp;
 
-Science Explorer Club members and Science Champions also learn about the importance of recycling food waste using food digesters through a 2 hour workshop. This equips them with knowledge to advocate the importance of food waste recycling and champion this cause during the S.O.W. food waste recycling programme.
+They also learn about the importance of recycling food waste using food digesters through a 2 hour workshop. This equips them with knowledge to advocate the importance of food waste recycling and champion this cause during the S.O.W. food waste recycling programme. The skills equip them with the skills and knowledge to guide the student population during recess, to do proper food recycling using these food digesters. They are also confident presenters during the monthly sharings of eco-bites (Announcement of recyclable collections and essential global environment sharings).
 
-![Tier 2: Science Explorers CCA Club advocates and Science Champions](/images/Tier%202%20Science%20Explorers%20CCA%20Club%20advocates%20and%20Science%20Champions.png)
+![](/images/10ALPPIC.jpeg)
+
+STEM-novation
+
+Skills and knowledge about the United Nations Sustainable Development Goals (UNSDGs) were taught to P3 - P6 North Springers, and they were given opportunities to apply these skills to innovate and create prototypes for idea solutions to promote / build a sustainable future.
+
+![](/images/12__Stem_novation.png)
+Internal and external competitions and events.
+
+
+Selected North Springers represent the school such as the Coding Olympics; an international event organized by Singapore Science Centre for children, where their coding skills are pitched against each other to complete challenges.&nbsp;
+
+North Springers also participated in the Pinnacle @ PeiCaiSec STEM event organized by Pei Cai School, where students apply English, Math and Science knowledge and skills to innovate through various hands-on activities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **SUPPORT PROGRAMMES**<br>
 Teacher’s education play an important role in the process of culture setting. Hence to promote the culture of M.A.S.S Education, teachers go through engaging professional training workshops to experience Maker’s Education first-hand.&nbsp;
