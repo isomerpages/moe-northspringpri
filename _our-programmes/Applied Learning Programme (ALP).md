@@ -142,6 +142,7 @@ Selected North Springers represent the school such as the Coding Olympics; an in
 
 North Springers also participated in the Pinnacle @ PeiCaiSec STEM event organized by Pei Cai School, where students apply English, Math and Science knowledge and skills to innovate through various hands-on activities.
 
+![](/images/13__Pinnacle_PeiCai_Challenge__Internal_and_external_competitions_and_events_.png)
 
 
 
@@ -170,8 +171,7 @@ North Springers also participated in the Pinnacle @ PeiCaiSec STEM event organiz
 
 
 
-
-**SUPPORT PROGRAMMES**<br>
+**SUPPORT PROGRAMMES (if any)**<br>
 Teacher’s education play an important role in the process of culture setting. Hence to promote the culture of M.A.S.S Education, teachers go through engaging professional training workshops to experience Maker’s Education first-hand.&nbsp;
 
 
