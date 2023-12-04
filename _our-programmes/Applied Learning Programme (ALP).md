@@ -2,14 +2,15 @@
 title: Applied Learning Programme (ALP)
 permalink: /our-programmes/applied-learning-programme-alp/
 description: ""
+variant: markdown
 ---
 Applied Learning Programme (ALP)
 ================================
 
-#### Focus Area: Science. Technology. Engineering. Mathematics (Sustainability)
+#### Focus Area: STEM (Sustainability)
 
 **TEACHING AND LEARNING APPROACH**<br>
-Sustainability is the heart of the Applied Learning Programme in NSPS. In NSPS, North Springers have the Maker’s Sustainability (M.A.S.S.) Education Programme where they adopt the design thinking maker’s approach to innovate and create solutions to contribute to a sustainable future for Mother Earth.   The modified design thinking approach shown below fosters a culture of empathy, resilience, and innovation, and is a process which seeks to develop values and skills not only towards the care of the environment, but towards all areas in life.
+Sustainability is the heart of the Applied Learning Programme in NSPS. In NSPS, North Springers have the Maker’s Sustainability (M.A.S.S.) Education Programme where they adopt the design thinking maker’s approach to innovate and create solutions to contribute to a sustainable future for Mother Earth. &nbsp; The modified design thinking approach shown below fosters a culture of empathy, resilience, and innovation, and is a process which seeks to develop values and skills not only towards the care of the environment, but towards all areas in life
 
 <style>  
 img {  
@@ -18,46 +19,78 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/EPIC.png" alt="E.P.I.C. Thinking" style="width:45%;">  
+<img src="/images/EPIC.png" alt="E.P.I.C. Thinking" style="width:45%;">  
   
-</body>
 
-<p style="text-align:center;"> <u>Modified design thinking approach for M.A.S.S. Education</u></p>
 
-**Learning Experiences and Activities**<br>
-M.A.S.S. Education leverages on three platforms:<br>
-1\.  Whole-school events and programmes<br>
-2\.  Curriculum subject activities<br>
-3\.  Tier 2 Science Explorers CCA Club advocates and Science Champions
+<p style="text-align:center;"> <u>Modified design thinking approach for MASS Education</u></p>
+
+Using the ALP Framework, the programme is designed to achieve the objectives of the ALP: To use various methods of thinking and mindsets to nurture confident, cultured and aspiring North Springers, who will Inquire, Innovate and Inspire others to contribute towards a sustainable future.
+
+
+
+**Learning Experiences &amp; Activities**<br>
+
+MASS Education leverages on many platforms and has a tiering system as such:&nbsp;
+
+1.  Tier 1&nbsp;<br>
+\- Whole-school events and programmes<br>
+\- Curriculum subject activities<br>
+
+2.  Tier <br>
+\- Student sustainability advocates - Earth and Science Champions activities&nbsp;<br>
+\- STEM Sustainability Modular CCA - STEM-novation activities<br>
+
+3.  Tier 3<br>
+\- Internal and external competitions and events<br>
+
 
 <u>Whole- school events and programmes</u><br>
 **Events**<br>
-Term 1: World Water Day featuring plastic pollution / climate change<br>
-World Water Day is an annual United Nations observance day that highlights the importance of fresh water. The day is used to advocate for the sustainable management of freshwater resources. In NSPS, we celebrate with learning about climate change and plastic pollution from guest speakers from TERRA SG and local book author Hwee Goh giving assembly talks about climate change and plastic pollution. There were also fun classroom and recess activities / competitions to allow North Springers to learn by playing !
+Term 1: World Water Day featuring plastic pollution / climate change&nbsp;
 
-![World Water Day featuring plastic pollution and climate change](/images/World%20Water%20Day%20featuring%20plastic%20pollution%20and%20climate%20change.png)
+World Water Day is an annual United Nations observance day that highlights the importance of fresh water. The day is used to advocate for the sustainable management of freshwater resources. In NSPS, we celebrate with learning about climate change and plastic pollution from guest speakers from TERRA SG and local book author Hwee Goh giving assembly talks about climate change and plastic pollution. There were also fun classroom and recess activities / competitions to allow Morth Springers to learn by playing !&nbsp;![](https://lh7-
+
+![](/images/1__World_Water_week.png)
 
 Term 2: Earth Day commemorated during Math-Science week<br>
+
 Earth Day is an annual global event to demonstrate support for environmental protection. In NSPS, we celebrate Earth Day during Math-Science week. North Springers are exposed to assembly, class and recess activities which helps them to apply both math and science knowledge and skills to solve problems.
 
-![Earth Day commemorated during Math-Science week](/images/Earth%20Day%20commemorated%20during%20Math-Science%20week.png)
+![](/images/2__Earth_Day_during_STEM_week.png)
 
 Term 3: Youth for environment week<br>
-The focus of this event is centered around mobilizing North Springers for climate action. During this event, canteen stall owners contribute food waste and students use this food waste to make eco-enzymes. These eco-enzymes are eventually used as eco-cleansers for wipe-down. Food waste was also made into compost using food digesters.
 
-![Youth for environment week](/images/Youth%20for%20environment%20week.png)
+The focus of this event is centered around mobilizing North Springers for climate action. During this event, canteen stall owners contribute food waste and students use this food waste to make eco-enzymes. These eco-enzymes are eventually used as eco-cleansers to wipe down.The food waste were also made into compost using food digesters.
+
+![](/images/3__Youth_for_Environment_Sustainability__YES__Week__1_.png)
+
+
+Term 4: EPIC JoL Programme
+
+As part of efforts of developing our North springers into empathetic innovators contributing to global sustainable development goals (SDGs), P6 North Springer use the E.P.I.C Design Thinking framework together with English, Math and Science subject knowledge,and embarked on a mission to better understand the struggles of our invisible heroes such as town council cleaners, medical professionals, soldiers and more. After which, they brainstormed and built prototypes of solutions ideas to problems these community heroes faced in their jobs. These jobs contribute towards promoting health well-being (SDG3), peace and equality (SDG16) and other SDGs.
+
+Their efforts culminated in an E.P.I.C JoL Carnival where they showcased their plans and prototypes to all Northspringers!
+
+Our students also paid homage to our invisible heroes by creating appreciation videos and building a very visible LEGO wall at our school foyer.
+
+![](/images/4__EPIC_JoL_Programme__1_.png)
 
 **Save our Waste (S.O.W.) Programme**<br>
-Save Our Waste (S.O.W.) Programme is a school-wide programme where both staff and students adopt a hands-on approach to contribute to a sustainable future.
 
-Part 1: Recycling paper and plastic waste<br>
-Starting from Term 1, in conjunction with the National Environment Agency’s campaign to Recycle Right, recycling bins for paper and plastic waste were made available for every class. Student leaders, class monitors and science champions, monitor the amount of paper and plastic waste collected by their classes and bring them to the canteen to weigh in the amount collected. These weigh-ins from the classes contribute to the total amount recycled by the school per month. Monthly updates of the amount of paper and plastics waste collected is done before flag-raising ceremony, where recycling facts are also shared with the school.
+
+Save Our World (S.O.W.) Programme is a school-wide programme where both staff and students of North Spring Primary do their part to recycle their waste to adopt a hands-on approach to contribute to a sustainable future.&nbsp;
+
+
+Part 1: Recycling paper and plastic waste&nbsp;
+
+Starting from Term 1, in conjunction with the National Environment Agency’s campaign to Recycle Right, recycling bins for paper and plastic waste were made available for every class. Student leaders, class monitors and science champions, monitor the amount of paper and plastic waste collected by their classes and bring them to the canteen to weigh in the amount collected. These weigh-ins from the classes contribute to the total amount recycled by the school per month. Monthly updates of the amount of paper and plastics waste collected is done before flag-raising ceremony, where recycling facts are also shared with the school.&nbsp;
+
+  
 
 Due to our recycling efforts, NSPS has been featured on the NEA Recycle Right Facebook page
 
-![Recycling paper and plastic waste](/images/Recycling%20paper%20and%20plastic%20waste.jpg)
-
-![Recycling paper and plastic waste](/images/Recycling%20paper%20and%20plastic%20waste_2.png)
+![](/images/5__SOW_Recycling_paper_and_plastic.png)
 
 Part 2: Recycling food waste<br>
 NSPS embarked on food waste recycling during Math-Science week. Composters were placed in the canteen next to the plate collection area. Science Champions and Science Explorer CCA Club members were stationed at the food composters during recess to advocate for food waste recycling. North Springers and canteen vendors disposed of their food waste into the composters. The composters then processed the food waste to produce plant compost in a few hours. These compost is used as fertilizers to grow edible plants in pots arranged in the N-S-P-S form; proof that NSPS is pledging to do our part for the environment. As one of the Math-Science week recess booth activities, North Springers were challenged to guess the amount of compost required to fill all the pots needed to form the letters N-S-P-S.
@@ -80,7 +113,7 @@ P4 Math classes brainstorm about what a sustainable city looks like and make it 
 <u>Using recyclables to apply Science concepts / ideas to promote sustainability</u><br>
 In Science, North Springers learn the deeper details of why the environment needs to be preserved. The EPIC thinking model also helps them in the application of their Science knowledge to create innovative objects which suits their purpose.
 
-3R posters and toys to promote the cause. In the spirit of upcycling, North Springers use recyclables to build models to show their understanding of Science taught in the classrooms. 
+3R posters and toys to promote the cause. In the spirit of upcycling, North Springers use recyclables to build models to show their understanding of Science taught in the classrooms.&nbsp;
 
 P4 students also have a hydroponics system in their class. A pilot project to allow students to use their hands to actively promote sustainability by growing their own vegetables right in their classrooms. The vegetables are harvested and brought home to cook delicious dishes. A similar project is conducted in the P3 class where P3 students each have a mushroom growing kit.
 
@@ -98,7 +131,7 @@ Science Explorer Club members and Science Champions also learn about the importa
 ![Tier 2: Science Explorers CCA Club advocates and Science Champions](/images/Tier%202%20Science%20Explorers%20CCA%20Club%20advocates%20and%20Science%20Champions.png)
 
 **SUPPORT PROGRAMMES**<br>
-Teacher’s education play an important role in the process of culture setting. Hence to promote the culture of M.A.S.S Education, teachers go through engaging professional training workshops to experience Maker’s Education first-hand. 
+Teacher’s education play an important role in the process of culture setting. Hence to promote the culture of M.A.S.S Education, teachers go through engaging professional training workshops to experience Maker’s Education first-hand.&nbsp;
 
 
 **Maker’s Education Professional Development**<br>
