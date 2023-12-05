@@ -143,3 +143,6 @@ If students violate the school rules and need to be disciplined, the school seek
 ●       No ornaments or any forms of jewellery, such as necklace and bracelet are allowed.
 
 ●       (For girls only) Only plain ear studs (black, gold or silver) are allowed.  **For safety reasons, girls are not allowed to wear loop earrings as they may pose a danger during play.**
+
+![](/images/SR0004.png)
+![](/images/SR0005.png)
