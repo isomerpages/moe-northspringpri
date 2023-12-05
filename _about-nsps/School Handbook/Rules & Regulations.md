@@ -120,13 +120,12 @@ The school believes that good discipline is an important contributing factor tow
 
 If students violate the school rules and need to be disciplined, the school seeks the understanding of parents and guardians to support the Student Development Team (SDT) when student management actions are administered.
 
-**Category A:**
 
-**Category B:**
+![](/images/SR0001.png)
 
+![](/images/SR0002.png)
 
-
-**Category C**
+![](/images/SR0003.png)
 
 
 **School Attire**
