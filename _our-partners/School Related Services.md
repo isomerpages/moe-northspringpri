@@ -42,7 +42,7 @@ School Dental Clinic opens on alternate week :-Mon to Thurs : 8am to 5.30pm<br>
 Fri : 8am to 5pm<br>
 Lunch Break Hours : 1pm to 2pm<br>
 Please contact 8533 8095 for appointment.<br>
-In case of emergency, please contact Health Promotion Board at 6435 3782.
+
 
 #### School Bus Transport
 
