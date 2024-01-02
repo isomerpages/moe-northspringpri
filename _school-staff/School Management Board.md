@@ -2,6 +2,7 @@
 title: School Management Board
 permalink: /about-nsps/school-staff/school-management-board/
 description: ""
+variant: markdown
 ---
 School Management Board
 =======================
@@ -14,11 +15,10 @@ School Management Board
 | **School Staff Developer** | Mdm Jessie Ang Hwee Ching |
 | **Year Head (P1-P2)** | Mrs Choo Woon Kee Laurene |
 | **Year Head (P3-P4)** | Mr Raihan Bin Rajin |
-| **Year Head (P5-P6)** | Mr Ng Tiong Bee, Darren |
+| **Year Head (P5-P6)** | Mr Chua Zhen Long, Mark |
 | **HOD ICT-MRL** | Mr Low Thong Simon |
 | **HOD Mathematics** | Mr Toh Yong Chen Alex |
 | **HOD MT Languages** | Mdm Choy Wai Yin |
-| **HOD Science** | Mr Low Jo-fan |
 | **HOD PE/CCA/Aesthetics** | Mr Chua Zhen Long, Mark |
 | **HOD EL** | Miss C Kavitha |
 | **SH / Student Management** | Mdm Alison Yong |
