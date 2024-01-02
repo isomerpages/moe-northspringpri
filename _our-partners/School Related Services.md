@@ -32,14 +32,11 @@ Lunch Break Hours : 11.45am to 12.45pm<br>
 Close on Saturday, Sunday &amp; Public Holiday
 
 #### Student Care Centre
-Raffles Student Care Centre LLP<br>
-Main Branch: Hougang Green Annexe<br>
-Block 570 #01-105 Hougang Street 51<br>
-Singapore 530570<br>
-Email:&nbsp;[admin@rafflesstudentcare.com](mailto:admin@rafflesstudentcare.com)<br>
-Tel: 63878308 (Main Branch)<br>
-Tel: 63854588 (NSPS)<br>
-Tel: 8817 0835 (whatsapp)
+Pro-Teach Education Group Pte. Ltd.<br>
+
+Email:&nbsp;[northspring@pro-teach.com](mailto:northspring@pro-teach.com)<br>
+Tel: 8071 6282 (NSPS)<br>
+Website: [www.pro-teach.com](www.pro-teach.com)
 
 #### School Dental Clinic
 School Dental Clinic opens on alternate week :-Mon to Thurs : 8am to 5.30pm<br>
