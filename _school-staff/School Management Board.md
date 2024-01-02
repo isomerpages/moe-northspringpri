@@ -21,14 +21,14 @@ School Management Board
 | **HOD MT Languages** | Mdm Choy Wai Yin |
 | **HOD PE/CCA/Aesthetics** | Mr Chua Zhen Long, Mark |
 | **HOD EL** | Miss C Kavitha |
+| **HOD / CCE** | Miss Ji Peifen |
+| **AYH (P1 & P2)** | Mrs Guganeshwari Vikneswaran |
+| **AYH (P3 & P4)** | Mr Neo Koon Seng Jeremy |
+| **AYH (P5 & P6)** | Mdm Lee Hui Shi Rebecca |
 | **SH / Student Management** | Mdm Alison Yong |
 | **SH / CL** | Miss Xu Yumei |
-| **SH / ICT** | Miss Sharifah Mariam Bte Syed M S A |
-| **SH / CCE** | Miss Ji Peifen |
-| **AYH (P3 & P4)** | Mr Neo Koon Seng Jeremy |
 | **SH / Physical Education & CCA** | Mr Wu Zongyang Christopher |
 | **SH / Student Leadership** | Mdm Cheong Pui Fern, Fanny |
-| **LH / Science** | Miss Mun Li Ting |
 | **LH / Mathematics** | Ms Ong Mei Ling |
 | **Admin Manager** | Mdm Low San San |
 | **Operations Manager** | Mr Lee Tong Boon |
