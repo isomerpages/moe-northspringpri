@@ -33,7 +33,6 @@ Close on Saturday, Sunday &amp; Public Holiday
 
 #### Student Care Centre
 Pro-Teach Education Group Pte. Ltd.<br>
-
 Email:&nbsp;[northspring@pro-teach.com](mailto:northspring@pro-teach.com)<br>
 Tel: 8071 6282 (NSPS)<br>
 Website: [www.pro-teach.com](www.pro-teach.com)
