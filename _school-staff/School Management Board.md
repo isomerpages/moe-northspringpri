@@ -19,7 +19,6 @@ School Management Board
 | **HOD ICT-MRL** | Mr Low Thong Simon |
 | **HOD Mathematics** | Mr Toh Yong Chen Alex |
 | **HOD MT Languages** | Mdm Choy Wai Yin |
-| **HOD PE/CCA/Aesthetics** | Mr Chua Zhen Long, Mark |
 | **HOD EL** | Miss C Kavitha |
 | **HOD / CCE** | Miss Ji Peifen |
 | **AYH (P1 & P2)** | Mrs Guganeshwari Vikneswaran |
