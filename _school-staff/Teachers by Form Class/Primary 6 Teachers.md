@@ -3,16 +3,6 @@ title: Primary 6 Teachers
 permalink: /about-nsps/school-staff/teachers-by-form-class/primary-6-teachers/
 description: ""
 third_nav_title: Teachers by Form Class
+variant: tiptap
 ---
-Primary 6 Teachers
-==================
-
-|  |  |
-|---|---|
-| **6.1** | Ms Shamani d/o S.Naidu<br>Mr Darren Ng Tiong Bee |
-| **6.2** | Ms Sharifah Mariam Bte Syed M S A<br>Mdm Hu Fang |
-| **6.3** | Mr Christopher Tan Theng Kang<br>Mdm Choy Wai Yin |
-| **6.4** | Mr Toh Yong Chen Alex<br>Mdm Sangeetha Thamilchelvam |
-| **6.5** | Ms Nadia Bte Jumahat<br>Mdm Lim Hwee Tin |
-| **6.6** | Mdm Zainab Bte Haron<br>Mr Abdul Fattah B Abdul Rahim |
-|
+<h1>Primary 6 Teachers</h1><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>6.1</strong></p></td><td rowspan="1" colspan="1"><p>Ms Chia Zalina bte Chia Zainal<br>Mr Bala Chandran s/o Thiruselvan </p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>6.2</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Sheereen Shaa'ista Bte R A Abd <br>Mr Low Thong Simon</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>6.3</strong></p></td><td rowspan="1" colspan="1"><p>Ms Marissa bte Mohammed Haniff <br>Mr Teo Yuan Kai Lionel </p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>6.4</strong></p></td><td rowspan="1" colspan="1"><p>Miss Javirthaa d/o Rengasamy<br>Mr Toh Yong Chen Alex</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>6.5</strong></p></td><td rowspan="1" colspan="1"><p>Miss Chan Wei Ling Jane<br>Mdm Lee Hui Shi Rebecca </p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>6.6</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Lee Hui Shi Rebecca <br>Mdm Lim Hwee Tin</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>6.7</strong></p></td><td rowspan="1" colspan="1"><p>Mr Christopher Tan Theng Kang<br>Mdm Alison Yong Yee Peng</p></td></tr></tbody></table><p></p>
