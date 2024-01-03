@@ -3,17 +3,6 @@ title: Primary 1 Teachers
 permalink: /about-nsps/school-staff/teachers-by-form-class/primary-1-teachers/
 description: ""
 third_nav_title: Teachers by Form Class
+variant: tiptap
 ---
-Primary 1 Teachers
-==================
-
-|  |  |
-|---|---|
-| **1.1** | Mdm Kua Chiew Guet Jace<br>Mrs Lee-Huang Qian Qin |
-| **1.2** | Miss Ku Seow Yen<br>Mrs Guganeshwari Vikneswaran |
-| **1.3** | Ms Fanny Cheong Pui Fern<br>Ms Nur Syahida Bte Abdul Jalil |
-| **1.4** | Mdm Shameem d/o Ahamed Ali Khan<br>Mr Martin Cheah Chiao |
-| **1.5** | Mdm Diyana Bte Abdul Latiff<br>Mrs Angayarkanni Arun |
-| **1.6** | Mdm Nurdiyana Bte Mohamed Yusof<br>Mdm Teng Kang Lee |
-| **1.7** | Mdm Wee Jee Luan Sharon<br>Ms Nur Amirah Bte Abdul Aziz |
-|
+<h1>Primary 1 Teachers</h1><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>1.1</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Hanim bte Ab Ghani<br>Miss Tan Mui Hiang</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.2</strong></p></td><td rowspan="1" colspan="1"><p>Mr Lim Yong Jie<br>Ms Nur Amirah bte Abdul Aziz </p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.3</strong></p></td><td rowspan="1" colspan="1"><p>Ms Adeline Lim Fei Ming<br>Miss Gloria Koh Von </p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.4</strong></p></td><td rowspan="1" colspan="1"><p>Ms Tow Li Wan<br>Mrs Jaisri Thirunavukarasu</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.5</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Joyce Ye Meitian <br>Mr Sng Poh Guan</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.6</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Humizara Husin<br>Mrs Choo Woon Kee Laurene</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.7</strong></p></td><td rowspan="1" colspan="1"><p>Miss Zaiton bte Ja'afar<br>Mdm Jessie Ang Hwee Ching</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.8</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Serajunnisha Begum<br>Miss Ji Peifen</p></td></tr></tbody></table><p></p>
