@@ -2,6 +2,7 @@
 title: Allied Educators
 permalink: /about-nsps/school-staff/other-educators/
 description: ""
+variant: markdown
 ---
 Allied Educators
 ===============
@@ -17,7 +18,7 @@ Allied Educators
 
 |  |  |
 |---|---|
-| Miss Angela Tan En-Hui |  |
+| Miss Angela Tan En-Hui | Mdm Selena Akhbar  |
 
 
 #### Student Welfare Officer (SWO)
