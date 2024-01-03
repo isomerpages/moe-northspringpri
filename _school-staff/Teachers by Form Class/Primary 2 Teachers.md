@@ -3,18 +3,6 @@ title: Primary 2 Teachers
 permalink: /about-nsps/school-staff/teachers-by-form-class/primary-2-teachers/
 description: ""
 third_nav_title: Teachers by Form Class
+variant: tiptap
 ---
-Primary 2 Teachers
-==================
-
-|  |  |
-|---|---|
-| **2.1** | Ms Saleha Bano<br>Mr Lim Yong Jie |
-| **2.2** | Mdm Joyce Ye Meitian<br>Mrs Choo Woon Kee Laurene |
-| **2.3** | Mdm Neo Bee Lin<br>Mdm Hanim Bte Ab Ghani|
-| **2.4** | Ms Wu Zhekang |
-| **2.5** | Miss Ma Mengdie |
-| **2.6** | Miss Zaiton bte Ja'afar<br>Mdm Serajunisha Begum |
-| **2.7** | Miss Nurfarah 'Aina Bte Sulaiman |
-| **2.8** | Mdm Humizara Husin<br>Miss Ji Peifen |
-|
+<h1>Primary 2 Teachers</h1><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>2.1</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Kua Chiew Guet Jace<br>Mr Sean Au Kin Hong</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.2</strong></p></td><td rowspan="1" colspan="1"><p>Miss Ku Seow Yen <br>Mdm Teng Kang Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.3</strong></p></td><td rowspan="1" colspan="1"><p>Miss Ariqah Binte Arman<br>Mdm Cheong Pui Fern</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.4</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Shameem d/o Ahamed Ali Khan <br>Mr Martin Cheah Chiao </p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.5</strong></p></td><td rowspan="1" colspan="1"><p>Mrs Angayarkanni Arun <br>Mrs Lee-Huang Qian Qin </p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.6</strong></p></td><td rowspan="1" colspan="1"><p>Miss Zaiton bte Ja'afar<br>Mdm Serajunisha Begum</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.7</strong></p></td><td rowspan="1" colspan="1"><p>Miss Ariqah Binte Arman<br>Mdm Cheong Pui Fern</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.8</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Humizara Husin<br>Miss Ji Peifen</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
