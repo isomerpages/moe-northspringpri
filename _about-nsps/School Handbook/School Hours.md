@@ -14,4 +14,3 @@ School Hours
 
 ![](/images/recesstime.png)
 
-|
