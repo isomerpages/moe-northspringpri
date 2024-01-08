@@ -2,13 +2,14 @@
 title: School Canteen Advertisement
 permalink: /our-partners/schoolcanteenadvertisement/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | ------------- | -------------- | -------------- |
-| Chinese Rice     | 30 Nov 2023    | Mixed rice is acceptable.    |
-| Halal Western | 30 Nov 2023 | Halal Western
+| Chinese Rice     | 31 Mar 2024    | Mixed rice is acceptable.    |
+| Halal Western | 31 Mar 2024 | Halal Western
 
 
 **Application Procedure**
