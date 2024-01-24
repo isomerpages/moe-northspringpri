@@ -1,0 +1,8 @@
+---
+title: Primary 1 Teachers
+permalink: /about-nsps/school-staff/teachers-by-form-class/primary-1-teachers/
+description: ""
+third_nav_title: Teachers by Form Class
+variant: tiptap
+---
+<h1>Primary 1 Teachers</h1><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>1.1</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Hanim bte Ab Ghani<br>Miss Tan Mui Hiang</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.2</strong></p></td><td rowspan="1" colspan="1"><p>Mr Lim Yong Jie<br>Ms Nur Amirah bte Abdul Aziz</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.3</strong></p></td><td rowspan="1" colspan="1"><p>Ms Adeline Lim Fei Ming<br>Miss Gloria Koh Von</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.4</strong></p></td><td rowspan="1" colspan="1"><p>Ms Tow Li Wan<br>Mrs Jaisri Thirunavukarasu</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.5</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Joyce Ye Meitian <br>Mr Sng Poh Guan</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.6</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Humizara Husin<br>Mrs Choo Woon Kee Laurene</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.7</strong></p></td><td rowspan="1" colspan="1"><p>Miss Zaiton bte Ja'afar<br>Mdm Jessie Ang Hwee Ching</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.8</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Serajunnisha Begum<br>Miss Ji Peifen</p></td></tr></tbody></table><p></p>

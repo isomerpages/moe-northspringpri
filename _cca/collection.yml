@@ -1,0 +1,6 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Modular CCA.md
+      - Spark CCA.md

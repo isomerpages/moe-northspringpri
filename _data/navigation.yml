@@ -1,0 +1,27 @@
+logo: /images/logo-home-page.png
+links:
+  - title: About NSPS
+    url: /about-nsps/school-staff/school-management-board
+    sublinks:
+      - title: Principal's Message
+        url: /about-nsps/principals-message/
+      - title: School Staff
+        url: /about-nsps/school-staff/school-management-board
+      - title: School Identity
+        url: /about-nsps/school-identity/school-philosophy
+      - title: School Handbook
+        url: /about-nsps/school-handbook/school-hours
+      - title: NSPS E Open House
+        url: /about-nsps/nsps-e-open-house
+      - title: e-Newsletter (Spring Roll)
+        url: /about-nsps/e-newsletter-spring-roll
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Our Partners
+    collection: our-partners
+  - title: CCA
+    collection: cca
+  - title: Links
+    collection: links
+  - title: Contact Us
+    url: /nsps/contact-us

@@ -1,0 +1,8 @@
+---
+title: Primary 2 Teachers
+permalink: /about-nsps/school-staff/teachers-by-form-class/primary-2-teachers/
+description: ""
+third_nav_title: Teachers by Form Class
+variant: tiptap
+---
+<h1>Primary 2 Teachers</h1><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>2.1</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Kua Chiew Guet Jace<br>Mr Sean Au Kin Hong</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.2</strong></p></td><td rowspan="1" colspan="1"><p>Miss Ku Seow Yen <br>Mdm Teng Kang Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.3</strong></p></td><td rowspan="1" colspan="1"><p>Miss Ariqah Binte Arman<br>Mdm Cheong Pui Fern</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.4</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Shameem d/o Ahamed Ali Khan <br>Mr Martin Cheah Chiao</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.5</strong></p></td><td rowspan="1" colspan="1"><p>Mrs Angayarkanni Arun <br>Mrs Lee-Huang Qian Qin</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.6</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Nurdiyana Bte Mohamed Yusof<br>Miss Zoe Elezabeth Ng<br>Mrs Guganeshwari Vikneswaran</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.7</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Wee Jee Luan Sharon<br>Ms Saleha Bano d/o Mohd Murtujah</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
