@@ -7,10 +7,9 @@ variant: markdown
 ---
 Canteen Menu
 ============
-
-![](/images/1_canteen.png)
-![](/images/2_canteen.png)
-![](/images/3__1_.png)
+![](/images/Snack_stall.png)
+![](/images/Noodle_stall.png)
 ![](/images/4_canteen.png)
-![](/images/5_canteen.png)
-![](/images/6__1_.png)
+![](/images/Malay_Noodle_stall.png)
+![](/images/Japanese_Stall.png)
+![](/images/Drink_stall.png)
