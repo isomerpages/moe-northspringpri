@@ -45,7 +45,7 @@ third_nav_title: School Handbook
     rules in instilling discipline and maintaining safety in the school.</p>
 <ol start="2" data-tight="true" class="tight">
     <li>
-        <p> <strong> Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</strong>
+        <p><strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</strong>
         </p>
     </li>
     </ol>
@@ -203,16 +203,6 @@ third_nav_title: School Handbook
         goals every year to work towards their individual purpose. They will be
         closely monitored and coached throughout the year so that they can reach
         their optimal best.</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p><strong>School Rules and Consequences</strong>
