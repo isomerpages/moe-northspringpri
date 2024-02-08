@@ -20,17 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Rice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Mar 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mixed rice is acceptable.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chicken Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
