@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chicken Noodles Stall</p>
+<p>Chinese Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 Mar 2024</p>
@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Western</p>
+<p>Halal Western Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 Mar 2024</p>
