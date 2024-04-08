@@ -4,6 +4,10 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
+<h5>P4 Parents Talk Presentation Slides 2024.</h5>
+<p>Dear Parents, please find the presentation slides here: <a href="/files/Primary_4_Parents__Talk_on_Subject_Based_Banding_2024_5April.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Parents Talk on SBB 2024</a>
+</p>
+<p></p>
 <h4>The Inspiring Teacher of English Awards</h4>
 <p>Dear Parents and Students,</p>
 <p>The Inspiring Teacher of English Award is a special national honor for
