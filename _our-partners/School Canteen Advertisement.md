@@ -12,9 +12,6 @@ variant: tiptap
 <p>Type of Stall</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Requirements</p>
 </th>
 </tr>
@@ -23,21 +20,7 @@ variant: tiptap
 <p>Chinese Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Mar 2024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Chinese Noodles</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Halal Western Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Mar 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Halal Western</p>
 </td>
 </tr>
 </tbody>
