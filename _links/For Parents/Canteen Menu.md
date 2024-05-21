@@ -7,9 +7,9 @@ variant: markdown
 ---
 Canteen Menu
 ============
-![](/images/Hot_drinks___snacks.png)
-![](/images/Noodle_stall.png)
+
 ![](/images/4_canteen.png)
 ![](/images/Malay_Noodle_stall.png)
 ![](/images/Japanese_Stall.png)
-![](/images/Cold_drink_and_fruits.png)
+![](/images/NSPS_Canteen_MenuCold_Drinks_May_2024.png)
+![](/images/Chinese_Rice_Menu_May_2024.png)
