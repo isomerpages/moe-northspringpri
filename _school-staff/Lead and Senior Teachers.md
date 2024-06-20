@@ -25,7 +25,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Yee Sien</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yee Sien</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +35,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zainab Bte Haron</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zainab Bte Haron</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +45,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joyce Ye Metian</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Ye Metian</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +55,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teng Kang Lee</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +65,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Martin Cheah Chiao</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +75,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Huang Qian Qin</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +85,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Chun Zhen</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Chun Zhen</a>
+</p>
 </td>
 </tr>
 <tr>
