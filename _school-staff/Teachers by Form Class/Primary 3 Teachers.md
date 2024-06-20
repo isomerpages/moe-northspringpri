@@ -58,8 +58,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wu Zongyang Christopher
-<br>Miss Siow Wan Zing</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Zongyang Christopher </a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Siow Wan Zing</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +69,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Poon Kar Tung
-<br>Mdm Hu Fang</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poon Kar Tung </a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hu Fang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -78,8 +80,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suren Sandran
-<br>Mdm Choy Wai Yin</p>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Suren Sandran </a>
+</p>
 </td>
 </tr>
 <tr>
