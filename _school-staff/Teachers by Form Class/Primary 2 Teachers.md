@@ -5,4 +5,115 @@ description: ""
 third_nav_title: Teachers by Form Class
 variant: tiptap
 ---
-<h1>Primary 2 Teachers</h1><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>2.1</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Kua Chiew Guet Jace<br>Mr Sean Au Kin Hong</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.2</strong></p></td><td rowspan="1" colspan="1"><p>Miss Ku Seow Yen <br>Mdm Teng Kang Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.3</strong></p></td><td rowspan="1" colspan="1"><p>Miss Ariqah Binte Arman<br>Mdm Cheong Pui Fern</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.4</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Shameem d/o Ahamed Ali Khan <br>Mr Martin Cheah Chiao</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.5</strong></p></td><td rowspan="1" colspan="1"><p>Mrs Angayarkanni Arun <br>Mrs Lee-Huang Qian Qin</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.6</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Nurdiyana Bte Mohamed Yusof<br>Miss Zoe Elezabeth Ng<br>Mrs Guganeshwari Vikneswaran</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2.7</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Wee Jee Luan Sharon<br>Ms Saleha Bano d/o Mohd Murtujah</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
+<h1>Primary 2 Teachers</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Au Kin Hong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ku Seow Yen </a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ariqah Binte Arman</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem d/o Ahamed Ali Khan </a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angayarkanni Arun </a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurdiyana Bte Mohamed Yusof</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zoe Elezabeth Ng</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Guganeshwari Vikneswaran</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Jee Luan Sharon</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano d/o Mohd Murtujah</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

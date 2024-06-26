@@ -3,48 +3,61 @@ title: English Language
 permalink: /our-programmes/cognitive-programmes/english-language/
 description: ""
 third_nav_title: Cognitive Programmes
+variant: tiptap
 ---
-English Language
-================
-
-#### TEACHING AND LEARNING APPROACH
-
-The school hopes to build a strong foundation in the English Language among our students while cultivating their love for the language. Through the EL curriculum, language skills (listening, speaking, reading and writing) as well as knowledge about the language (grammar and vocabulary) are taught using effective and engaging strategies which are developmentally appropriate. To ignite the joy of language learning, various Language Experiences, Activities and Play (LEAP) are planned across the different levels.
-
-#### Language Experiences
-
-Through experiential learning, students are able to connect to a learning topic on a personal level and experience it for themselves. Different language experiences are incorporated into the EL curriculum to provide students with the context and content for them to think, talk and write about.
-
-![Language Experience](/images/Language%20Experience%201.jpg)
-*Snippets of the Write Experience: Walking Through The Jungle*
-
-![Language Experience](/images/Language%20Experience%202.jpg)
-*Snippets of the Write Experience: Ice Cream Making*
-
-![Language Experience](/images/Language%20Experience%203.jpg)
-
-#### Language Activities
-
-Through activity-based learning, students are given opportunities for experimentation, exploration and expression. Various language activities are incorporated into the EL curriculum to encourage students to participate actively in their learning.
-
-![Language Activities](/images/Language%20Actvities%201.jpg)
-
-![Language Activities](/images/Language%20Actvities%202.jpg)
-
-![Language Activities](/images/Language%20Actvities%203.jpg)
-
-#### Language Play
-
-Through play-based learning, students become more motivated to learn and more engaged in the learning process. Different types of language play is being incorporated into the EL curriculum which include both physical and virtual play activities to engage students in learning the language.
-
-![Language Play](/images/Language%20Play%201.jpg)
-
-![Language Play](/images/Language%20Play%202.jpg)
-
-![Language Play](/images/Language%20Play%203.jpg)
-
-#### Literacy Support Programmes
-
-To ensure that all students receive the literacy support they need, various literacy support programmes are being implemented to support students at the lower primary, middle primary and upper primary levels, which include both MOE support programmes and school initiated support programmes.
-
-![Literacy Support](/images/Literacy%20Support.png)
+<p>English Language</p>
+<h4><strong>TEACHING AND LEARNING APPROACH</strong></h4>
+<p>It is our aim to build a strong and stable foundation in the English Language
+among our students so that they become eloquent and confident users of
+the language.</p>
+<p>The English Language Curriculum focuses on the development, reinforcement
+and extension of language skills in the primary years through an enjoyment
+of the language and the promotion of extensive reading; and leveraging
+oracy, reading and writing skills to develop knowledge and independent
+use of the language.</p>
+<p>To spark the joy of language learning, various learning experiences and
+activities are curated across the different levels for our students.</p>
+<p><strong><u>Key Programmes:</u></strong>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1-P4 Support Programmes:</p>
+<p>Ø&nbsp; School-based Dyslexia Remediation (SDR)</p>
+<p>Ø&nbsp; Reading Remediation Programme (RRP)</p>
+<p>Ø&nbsp; Reading Support Programme (RSP)</p>
+<p>Ø&nbsp; Learning Support Programme (LSP)</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1-P2 Buddy Reading Programme</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WRITE WAY E-Publication (Student
+Writers’ Platform)</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4-P6 Literature Enrichment
+Programme</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EL Fiesta</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng10.jpg">
+</div>
+<p></p>

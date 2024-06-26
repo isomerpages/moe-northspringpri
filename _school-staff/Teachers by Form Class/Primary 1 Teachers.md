@@ -5,4 +5,108 @@ description: ""
 third_nav_title: Teachers by Form Class
 variant: tiptap
 ---
-<h1>Primary 1 Teachers</h1><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>1.1</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Hanim bte Ab Ghani<br>Miss Tan Mui Hiang</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.2</strong></p></td><td rowspan="1" colspan="1"><p>Mr Lim Yong Jie<br>Ms Nur Amirah bte Abdul Aziz</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.3</strong></p></td><td rowspan="1" colspan="1"><p>Ms Adeline Lim Fei Ming<br>Miss Gloria Koh Von</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.4</strong></p></td><td rowspan="1" colspan="1"><p>Ms Tow Li Wan<br>Mrs Jaisri Thirunavukarasu</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.5</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Joyce Ye Meitian <br>Mr Sng Poh Guan</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.6</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Humizara Husin<br>Mrs Choo Woon Kee Laurene</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.7</strong></p></td><td rowspan="1" colspan="1"><p>Miss Zaiton bte Ja'afar<br>Mdm Jessie Ang Hwee Ching</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>1.8</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Serajunnisha Begum<br>Miss Ji Peifen</p></td></tr></tbody></table><p></p>
+<h1>Primary 1 Teachers</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hanim bte Ab Ghani</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Mui Hiang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yong Jie</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Amirah bte Abdul Aziz</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adeline Lim Fei Ming</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Gloria Koh Von</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jaisri Thirunavukarasu</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Ye Meitian </a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sng Poh Guan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humizara Husin</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Woon Kee Laurene</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zaiton bte Ja'afar</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Ang Hwee Ching</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Serajunnisha Begum</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ji Peifen</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
