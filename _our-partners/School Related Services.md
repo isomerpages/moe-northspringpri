@@ -20,7 +20,7 @@ Website :&nbsp;[www.shirleyuni.com](http://www.shirleyuni.com/)<br>
 Opening Hours:<br>
 Jan to Nov : 12pm to 6pm (Closed on Sundays &amp; PH)<br>
 Dec : 12pm to 6pm (opens DAILY from Mon to Sun)<br>
-Sale of uniform is available at the School Bookshop during school days&nbsp;**(not available from  **1 November 2023 to 21 January 2024**)**
+Sale of uniform is available at the School Bookshop during school days&nbsp;**(not available from  **1 November 2024 to 17 January 2025**)**
 
 #### School Books &amp; Stationeries
 BL Marketing Pte Ltd<br>
