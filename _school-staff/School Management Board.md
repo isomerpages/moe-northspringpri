@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jasbir Singh</a>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nicholas Tan</a>
 </p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Toh Yong Chen Alex</a>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Cheng</a>
 </p>
 </td>
 </tr>
