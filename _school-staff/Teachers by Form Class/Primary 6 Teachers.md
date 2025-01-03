@@ -26,8 +26,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Zalina bte Chia Zainal</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Chandran s/o Thiruselvan</a>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Cheng</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nadia Bte Jumahat</a>
 </p>
 </td>
 </tr>
@@ -37,8 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sheereen Shaa'ista Bte R A Abd </a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Thong Simon</a>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Fattah B Abdul Rahim</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Mei Ling</a>
 </p>
 </td>
 </tr>
@@ -48,8 +48,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marissa bte Mohammed Haniff </a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Yuan Kai Lionel</a>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sangeetha Thamilchelvam</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zainab Bte Haron</a>
 </p>
 </td>
 </tr>
@@ -59,8 +59,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Javirthaa d/o Rengasamy</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Toh Yong Chen Alex</a>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Zhen Long Mark</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marissa Bte Mohammed Haniff</a>
 </p>
 </td>
 </tr>
@@ -70,31 +70,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chan Wei Ling Jane</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Shi Rebecca</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6.6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss C Kavitha</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Hwee Tin</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Fei </a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6.7</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Tan Theng Kang</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alison Yong Yee Peng</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
