@@ -206,15 +206,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer I</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amanda Gay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer II</strong>
 </p>
 </td>
