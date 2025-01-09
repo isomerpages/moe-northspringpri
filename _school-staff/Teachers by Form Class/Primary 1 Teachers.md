@@ -61,7 +61,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
 </p>
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marissa Bte Mohammed Haniff</a>
+<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfarah 'Aina Bte Sulaiman</a>
 </p>
 </td>
 </tr>
