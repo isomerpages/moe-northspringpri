@@ -26,7 +26,7 @@ variant: tiptap
 </li>
 <li>
 <p>2024 <a href="/files/2024_Springroll_Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sem 1,</a>
-<a href="/files/2024_NSPS_Spring_Roll_Semester_2_FINAL_FINAL.pdf" rel="noopener nofollow" target="_blank">Sem 2</a>
+<a href="/files/2024_NSPS_Spring_Roll_Semester_2_FINAL_FINAL.pdf" rel="noopener nofollow" target="_blank"></a><a href="/files/2024_NSPS_Spring_Roll_Semester_2_Publication_compressed.pdf" rel="noopener nofollow" target="_blank">Sem 2</a>
 </p>
 </li>
 </ul>
