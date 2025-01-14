@@ -4,11 +4,11 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>2025 P4 Camp Briefing </h4>
+<h4>2025 P4 Camp Briefing</h4>
 <p>Dear Parents, please find the camp briefing slides here:</p>
 <p><a href="/files/Camp_Briefing_for_P4_Parents_2025_school_website__1_.pdf" rel="noopener nofollow" target="_blank">Camp Briefing for P4 Parents</a>
 </p>
-<p><a href="/files/North_Spring_PS_Parents_Briefing_Slides_2025_school_website__2_.pdf" rel="noopener nofollow" target="_blank">Venue Briefing Slides </a>
+<p><a href="/files/North_Spring_PS_Parents_Briefing_Slides_2025_school_website__2_.pdf" rel="noopener nofollow" target="_blank">Venue Briefing Slides</a>
 </p>
 <p></p>
 <h4>Back to School on Staff Appreciation Day!</h4>
