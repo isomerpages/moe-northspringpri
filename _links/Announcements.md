@@ -4,6 +4,12 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>2025 P4 Camp Briefing</h4>
+<p>Dear Parents, please find the camp briefing slides here:</p>
+<p><a href="/files/Camp_Briefing_for_P4_Parents_2025_school_website__1_.pdf" rel="noopener nofollow" target="_blank">Camp Briefing for P4 Parents</a>
+</p>
+<p><a href="/files/North_Spring_PS_Parents_Briefing_Slides_2025_school_website__2_.pdf" rel="noopener nofollow" target="_blank">Venue Briefing Slides</a>
+</p>
 <p></p>
 <h4>Back to School on Staff Appreciation Day!</h4>
 <p>This year marks a special milestone for NSPS as we celebrate our 25th
@@ -29,6 +35,5 @@ Award Council and the Stephen Riady Foundation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_11_23_at_5_10_24_PM.jpeg">
 </div>
-<h5>P6 Parents Talk Presentation Slides 2023.</h5>
-<p>Dear Parents, please find the presentation slides here:&nbsp;<a href="/files/2023%20p6%20parents%20talk%20presentation%20updated%2030%20jan.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P6 Parents Talk Presentation</a>
-</p>
+<h5></h5>
+<p></p>
