@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jacinta Lim</a>
+<p><a href="mailto:jacinta_phan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jacinta Lim</a>
 </p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nicholas Tan</a>
+<p><a href="mailto:nicholas_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nicholas Tan</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Ang Hwee Ching</a>
+<p><a href="mailto:jessie_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Ang Hwee Ching</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Woon Kee Laurene</a>
+<p><a href="mailto:choo_woon_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Woon Kee Laurene</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raihan Bin Rajin</a>
+<p><a href="mailto:raihan_rajin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raihan Bin Rajin</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Zhen Long, Mark</a>
+<p><a href="mailto:chua_zhen_long_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Zhen Long, Mark</a>
 </p>
 </td>
 </tr>
@@ -85,7 +85,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Thong Simon</a>
+<p><a href="mailto:simon_low_thong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Thong Simon</a>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Cheng</a>
+<p><a href="mailto:christopher_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Cheng</a>
 </p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Xu Yumei</a>
+<p><a href="mailto:xu_yumei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Xu Yumei</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss C Kavitha</a>
+<p><a href="mailto:c_kavitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss C Kavitha</a>
 </p>
 </td>
 </tr>
@@ -125,7 +125,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ji Peifen</a>
+<p><a href="mailto:ji_peifen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ji Peifen</a>
 </p>
 </td>
 </tr>
@@ -135,7 +135,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Guganeshwari Vikneswaran</a>
+<p><a href="mailto:guganeshwari_tamil_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Guganeshwari Vikneswaran</a>
 </p>
 </td>
 </tr>
@@ -155,7 +155,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Shi Rebecca</a>
+<p><a href="mailto:lee_hui_shi_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Shi Rebecca</a>
 </p>
 </td>
 </tr>
@@ -165,7 +165,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alison Yong</a>
+<p><a href="mailto:alison_yong_yee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alison Yong</a>
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Zongyang Christopher</a>
+<p><a href="mailto:christopher_wu_zongyang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Zongyang Christopher</a>
 </p>
 </td>
 </tr>
@@ -185,7 +185,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern, Fanny</a>
+<p><a href="mailto:cheong_pui_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern, Fanny</a>
 </p>
 </td>
 </tr>
@@ -195,7 +195,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Mei Ling</a>
+<p><a href="mailto:ong_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Mei Ling</a>
 </p>
 </td>
 </tr>
@@ -205,7 +205,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low San San</a>
+<p><a href="mailto:low_san_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low San San</a>
 </p>
 </td>
 </tr>
@@ -215,7 +215,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Tong Boon</a>
+<p><a href="mailto:lee_tong_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Tong Boon</a>
 </p>
 </td>
 </tr>
@@ -225,7 +225,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Pei Chun</a>
+<p><a href="mailto:nsps@moe.edu.sgchan_pei_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Pei Chun</a>
 </p>
 </td>
 </tr>
