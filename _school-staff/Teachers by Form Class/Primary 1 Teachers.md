@@ -48,8 +48,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem</a>
+<p><a href="mailto:huang_qian_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
+<br><a href="mailto:shameem_ahamed_ali_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem</a>
 </p>
 </td>
 </tr>
@@ -59,9 +59,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
+<p><a href="mailto:kua_chiew_guet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
 </p>
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfarah 'Aina Bte Sulaiman</a>
+<p><a href="mailto:nurfarahaina_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfarah 'Aina Bte Sulaiman</a>
 </p>
 </td>
 </tr>
