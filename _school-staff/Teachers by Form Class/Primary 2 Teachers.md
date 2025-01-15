@@ -26,8 +26,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Mui Hiang Sharmaine</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Celeste Ang Jia Hui</a>
+<p><a href="mailto:tan_mui_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Mui Hiang Sharmaine</a>
+<br><a href="mailto:celeste_ang_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Celeste Ang Jia Hui</a>
 </p>
 </td>
 </tr>
@@ -37,8 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Amirah Bte Abdul Aziz</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wu Zhekang</a>
+<p><a href="mailto:nur_amirah_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Amirah Bte Abdul Aziz</a>
+<br><a href="mailto:wu_zhekang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wu Zhekang</a>
 </p>
 </td>
 </tr>
@@ -48,8 +48,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adelilne Lim Fei Ming</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Gloria Koh Von</a>
+<p><a href="mailto:lim_fei_ming_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adelilne Lim Fei Ming</a>
+<br><a href="mailto:gloria_koh_von@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Gloria Koh Von</a>
 </p>
 </td>
 </tr>
@@ -59,8 +59,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hanim Bte Ab Ghani</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jaisri Thirunavukarasu</a>
+<p><a href="mailto:hanim_ab_ghani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hanim Bte Ab Ghani</a>
+<br><a href="mailto:jaisri_thirunavukarasu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jaisri Thirunavukarasu</a>
 </p>
 </td>
 </tr>
@@ -70,8 +70,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Ye Meitian</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sng Poh Guan</a>
+<p><a href="mailto:joyce_ye_meitian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Ye Meitian</a>
+<br><a href="mailto:sng_poh_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sng Poh Guan</a>
 </p>
 </td>
 </tr>
