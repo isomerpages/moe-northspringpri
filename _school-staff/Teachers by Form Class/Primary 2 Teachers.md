@@ -81,8 +81,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humizara Husin</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Laurene</a>
+<p><a href="mailto:humizara_husin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humizara Husin</a>
+<br><a href="mailto:choo_woon_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Laurene</a>
 </p>
 </td>
 </tr>
@@ -92,8 +92,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Ang Hwee Ching</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zaiton Bte Ja'afar</a>
+<p><a href="mailto:jessie_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Ang Hwee Ching</a>
+<br><a href="mailto:zaiton_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zaiton Bte Ja'afar</a>
 </p>
 </td>
 </tr>
