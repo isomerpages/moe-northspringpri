@@ -26,8 +26,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humairah Binte Mohamed Jamil</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Hwee Tin</a>
+<p><a href="mailto:humairah_mohamed_jamil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humairah Binte Mohamed Jamil</a>
+<br><a href="mailto:lim_hwee_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Hwee Tin</a>
 </p>
 </td>
 </tr>
@@ -37,8 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chan Wei Ling Jane</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Lee</a>
+<p><a href="mailto:chan_wei_ling_jane@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chan Wei Ling Jane</a>
+<br><a href="mailto:lee_kar_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Lee</a>
 </p>
 </td>
 </tr>
@@ -48,8 +48,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shen Yu</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Thong Simon</a>
+<p><a href="mailto:shen_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shen Yu</a>
+<br><a href="mailto:simon_low_thong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Thong Simon</a>
 </p>
 </td>
 </tr>
@@ -59,8 +59,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hu Fang</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm SHeereen Shaa'ista Bte R A Abd</a>
+<p><a href="mailto:hu_fang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hu Fang</a>
+<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sheereen Shaa'ista Bte R A Abd</a>
 </p>
 </td>
 </tr>
