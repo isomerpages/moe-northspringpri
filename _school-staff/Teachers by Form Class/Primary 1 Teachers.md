@@ -26,8 +26,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ku Seow Yen</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
+<p><a href="mailto:ku_seow_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ku Seow Yen</a>
+<br><a href="mailto:teng_kang_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
 </p>
 </td>
 </tr>
@@ -37,8 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angayarkanni Arun</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yong Jie</a>
+<p><a href="mailto:arun_angayarkanni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angayarkanni Arun</a>
+<br><a href="mailto:lim_yong_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yong Jie</a>
 </p>
 </td>
 </tr>
@@ -48,8 +48,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem</a>
+<p><a href="mailto:huang_qian_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
+<br><a href="mailto:shameem_ahamed_ali_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem</a>
 </p>
 </td>
 </tr>
@@ -59,9 +59,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
+<p><a href="mailto:kua_chiew_guet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
 </p>
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfarah 'Aina Bte Sulaiman</a>
+<p><a href="mailto:nurfarahaina_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfarah 'Aina Bte Sulaiman</a>
 </p>
 </td>
 </tr>
@@ -71,8 +71,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurdiyana Bte Mohamed Yusof</a>
+<p><a href="mailto:martin_cheah_chiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
+<br><a href="mailto:nurdiyana_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurdiyana Bte Mohamed Yusof</a>
 </p>
 </td>
 </tr>
@@ -82,8 +82,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern Fanny</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano</a>
+<p><a href="mailto:cheong_pui_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern Fanny</a>
+<br><a href="mailto:saleha_bano_mohamed_murtujah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano</a>
 </p>
 </td>
 </tr>
@@ -93,8 +93,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Guganeshwari Vikneswaran</a>
-<br><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Jee Luan Sharon</a>
+<p><a href="mailto:guganeshwari_tamil_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Guganeshwari Vikneswaran</a>
+<br><a href="mailto:wee_jee_luan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Jee Luan Sharon</a>
 </p>
 </td>
 </tr>

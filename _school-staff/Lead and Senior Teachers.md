@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yee Sien</a>
+<p><a href="mailto:lim_yee_sien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yee Sien</a>
 </p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zainab Bte Haron</a>
+<p><a href="mailto:zainab_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zainab Bte Haron</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Ye Metian</a>
+<p><a href="mailto:joyce_ye_meitian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Ye Metian</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
+<p><a href="mailto:teng_kang_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
+<p><a href="mailto:martin_cheah_chiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
+<p><a href="mailto:huang_qian_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
 </p>
 </td>
 </tr>
@@ -85,7 +85,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Chun Zhen</a>
+<p><a href="mailto:yap_chun_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Chun Zhen</a>
 </p>
 </td>
 </tr>
