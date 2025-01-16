@@ -145,7 +145,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Neo Koon Seng Jeremy</a>
+<p><a href="mailto:neo_koon_seng_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Neo Koon Seng Jeremy</a>
 </p>
 </td>
 </tr>
@@ -225,7 +225,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nsps@moe.edu.sgchan_pei_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Pei Chun</a>
+<p><a href="mailto:chan_pei_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Pei Chun</a>
 </p>
 </td>
 </tr>
