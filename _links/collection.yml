@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Parents/Guidance on Screen time in children.md
       - For Parents/Student MOE Identity Management System (MIMS).md
       - For Parents/.keep
       - For Parents/2025 P1 Orientation eHandbook.md
