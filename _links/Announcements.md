@@ -4,7 +4,7 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>Guidance on Screen use in children </h4>
+<h4>Guidance on Screen use in children</h4>
 <p>Dear Parents, please click <a href="/files/Guidance_on_Screen_Use_in_Children_MOH__2025_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download the Guidance on Screen use in children from MOH.</p>
 <p></p>
