@@ -4,6 +4,10 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>Guidance on Screen use in children </h4>
+<p>Dear Parents, please click <a href="/files/Guidance_on_Screen_Use_in_Children_MOH__2025_.pdf" rel="noopener nofollow" target="_blank">here</a> to
+download the Guidance on Screen use in children from MOH.</p>
+<p></p>
 <h4>2025 P2 and P3 Camp Briefing</h4>
 <p>Dear Parents, please find the camp briefing slides here:</p>
 <p><a href="/files/P2_and_P3_Camp_Briefing_for_Parents_2025_for_school_website.pdf" rel="noopener nofollow" target="_blank">Camp Briefing for P2 and P3 Parents</a>
