@@ -99,10 +99,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2.8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ji_peifen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ji Peifen</a>
+</p>
+<p><a href="mailto:serajunnisha_begum@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Serajunnisha Begum</a>
+</p>
 </td>
 </tr>
 <tr>
