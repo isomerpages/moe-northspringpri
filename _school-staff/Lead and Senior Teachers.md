@@ -51,31 +51,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Chinese)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teng_kang_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher (Music)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:martin_cheah_chiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (PE)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:huang_qian_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
 </p>
 </td>
 </tr>
@@ -91,10 +71,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Senior Teacher (Learning Needs &amp; Ed Support)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:diyana_abdul_latiff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diyana Abdul Latiff</a>
+</p>
 </td>
 </tr>
 </tbody>
