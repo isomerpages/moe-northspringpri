@@ -6,8 +6,8 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h1>Group Personal Accident (GPA) Insurance Plan for Students</h1>
-<p><strong><u>Group Personal Accident (GPA) Insurance Plan for Students Product Factsheet for 2023</u></strong>
-<br>1. The updated 2023 product factsheet for the Income Group Personal Accident
+<p><strong><u>Group Personal Accident (GPA) Insurance Plan for Students Product Factsheet for 2025</u></strong>
+<br>1. The updated 2025 product factsheet for the Income Group Personal Accident
 (GPA) Insurance Plan for Students is attached for reference below:
 <br><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>
 </p>
