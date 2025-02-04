@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong><u>Group Personal Accident (GPA) Insurance Plan for Students Product Factsheet for 2023</u></strong>
 <br>1. The updated 2023 product factsheet for the Income Group Personal Accident
 (GPA) Insurance Plan for Students is attached for reference below:
-<br><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2024</a>
+<br><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>
 </p>
 <p>2. All student accident insurance claims submission are to be&nbsp;<strong>submitted electronically</strong>.&nbsp;Parents/students
 are to submit their claims online and check the claims status through the
