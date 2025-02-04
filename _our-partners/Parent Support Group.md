@@ -104,9 +104,7 @@ the Parents Be a caring &amp; supporting team to the students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PV_QR.png">
 </div>
-<p>You may download the PSG Application Form by clicking this link:
-<br><a href="https://forms.gle/TX8REnhiSixPwybR6" rel="noopener noreferrer nofollow" target="_blank">Click here to Join Us!</a>
-</p>
-<p>Akshatha Pai
+<p></p>
+<p>Ms Denise
 <br>PSG Leader</p>
-<p>Contact No.: 82015951</p>
+<p>Contact No.:</p>
