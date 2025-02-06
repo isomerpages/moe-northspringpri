@@ -96,7 +96,7 @@ and will only be returned to the student’s parent/guardian.&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While the school recognises that parents
 need the ease and convenience of contacting their child after school hours,
 students are not encouraged to bring mobile phones to school.&nbsp; The
-phone <u>must be switched off and be used only during recess at the canteen upon dismissal or outside school</u>.&nbsp;
+phone <u>must be switched off and be used only outside of school after dismissal</u>.&nbsp;
 The student is responsible for taking care of his / her own belongings
 and should not flaunt it or invite envy and draw attention to it. The school
 will not be held accountable for any damage or losses.</p>
@@ -220,7 +220,11 @@ Development Team (SDT) when student management actions are administered.</p>
 <p>&nbsp;</p>
 <p><strong>Category A:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -256,7 +260,11 @@ course of action with proactive strategies to be taken by school and home.</p>
 <p></p>
 <p><strong>Category B:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -297,7 +305,11 @@ to correct unacceptable behaviour</p>
 <p></p>
 <p><strong>Category C</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
