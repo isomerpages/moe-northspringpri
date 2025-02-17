@@ -79,6 +79,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher (Mathematics)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mui_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Tan Mui Hiang Sharmaine</u></a>
+</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
