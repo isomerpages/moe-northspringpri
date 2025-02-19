@@ -40,45 +40,61 @@ for learning, the school will keep track of students with a prevalent VR
 student for regular attendance.</p>
 <p><strong><u>Attire and Appearance</u></strong>
 </p>
-<p></p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Every student must understand the purpose of
-rules in instilling discipline and maintaining safety in the school.</p>
-<ol start="2" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p><strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</strong>
-</p>
+<p>Students are to wear prescribed school uniform with pride to school (including
+holiday, school</p>
+<p>activities, school functions and school outings). No modifications of
+the school uniform is</p>
+<p>allowed.</p>
+<p></p>
+</li>
+<li>
+<p>P1 – P2: Students are allowed to wear school PE T-shirt and PE shorts.
+The PE T-shirt must be</p>
+<p>always tucked in.</p>
+<p></p>
+</li>
+<li>
+<p>P3 – P6: Students may wear school PE T-shirt and PE shorts on days when
+there is no PE lessons / CCAs. However, they are strongly encouraged to
+wear prescribed school shirt / blouse and shorts /skirts on days when there
+are no PE lessons or CCAs.</p>
+<p></p>
+</li>
+<li>
+<p>All students must wear black canvas / PVC school shoes with school socks
+as part of the prescribed school uniform. Only plain black shoes are allowed.
+Sports shoes must be fully black with no other colours.</p>
 </li>
 </ol>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; There must be uniformity in appearance when
-students come to school<strong>.&nbsp;&nbsp; </strong>(Please refer to
-photos for examples of school attire).</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Students’ attire must be neat and tidy.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; Girls with long hair (longer than the collar)
-must have it tied neatly in a ponytail or in plaits.&nbsp; Long fringe
-must be pulled back with a hair band or hair clip. Only black hair accessories
-are accepted.&nbsp;</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; Girls are not allowed to wear make-up including
-lining their eyes with eyeliner or kohl.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp; Boys must have short and acceptable hairstyles.&nbsp;
-Boys are not allowed to shave closely to the scalp on one side and have
-longer fringe on the other side.</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp; <strong>All male students must be clean-shaven at all times. Moustache and beards are not allowed.</strong>
+<p><strong><u>Ornaments, Jewellery</u></strong>
 </p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp; Hair at the back must be sloped and should
-not touch the school uniform collar.</p>
-<p>10.&nbsp; Disciplinary action will be taken against students who continuously
-break the rules despite counselling and reminders sent. Parents are to
-ensure that the student appears with acceptable hairstyle during term time
-for uniformity.</p>
-<p>11.&nbsp; Fancy hairstyle, dyeing or highlighting of hair is not allowed.</p>
-<p>12.&nbsp; Fingernails must be kept clean and short</p>
-<p>13.&nbsp; No jewellery must be worn to school.&nbsp; Only plain ear studs
-(black, gold or silver) are allowed.&nbsp; For safety, girls are not allowed
-to wear jewellery or other accessories to school.</p>
-<p>14.&nbsp; Spot check will be conducted and students are given up to 3
-days to rectify and comply with standards.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>No ornaments or any forms of jewellery, such as necklace and bracelet
+are allowed.</p>
+<p></p>
+</li>
+<li>
+<p>(For girls only) Only plain ear studs (black, gold or silver) are allowed.&nbsp;
+For safety reasons, girls are not allowed to wear loop earrings as they
+may pose a danger during play.</p>
+</li>
+</ol>
 <p><strong>&nbsp;</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Appearance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Appearance_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Appearance_3.jpg">
+</div>
 <p><strong>School Value: Compassion</strong>
 </p>
 <p><strong><u>School Safety</u></strong>
