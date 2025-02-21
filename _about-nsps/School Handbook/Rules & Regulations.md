@@ -391,40 +391,7 @@ to correct unacceptable behaviour</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>School Attire</strong>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to wear prescribed
-school uniform with pride to school (including holiday, school activities,
-school functions and school outings). No modifications of the school uniform
-is allowed.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>P1 – P2</strong>: Students
-are allowed to wear school PE T-shirt and PE shorts. The PE T-shirt must
-be always tucked in.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>P3 – P6:</strong> Students
-may wear school PE T-shirt and PE shorts on days when there is no PE lessons
-/ CCAs. However, they are strongly encouraged to wear prescribed school
-shirt / blouse and shorts / skirts on days when there are no PE lessons
-or CCAs.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>From 2024 onwards</u></strong>, <strong>all P1 students</strong> must
-wear black canvas / PVC&nbsp; school shoes as part of the prescribed school
-uniform. <strong>P2 – P6 students</strong> have the option to wear white
-or black canvas / PVC school shoes to school. Only <strong>plain black shoes</strong> are
-allowed. <strong>Sports shoes must be fully black</strong> with no other
-colours.</p>
-<p>&nbsp;</p>
-<p><strong>Ornaments, Jewellery</strong>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No ornaments or any forms of jewellery,
-such as necklace and bracelet are allowed.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (For girls only) Only plain ear
-studs (black, gold or silver) are allowed.&nbsp; <strong>For safety reasons, girls are not allowed to wear loop earrings as they may pose a danger during play.</strong>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rules1.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rules2.png">
-</div>
+<p></p>
 <p></p>
