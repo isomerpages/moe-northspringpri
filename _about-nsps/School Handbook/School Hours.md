@@ -8,7 +8,7 @@ variant: markdown
 School Hours
 ============
 
-![](/images/School_hours.jpg)
+![](/images/School_hour.jpg)
 
 #### Recess Times &amp; Quick Bite 
 
