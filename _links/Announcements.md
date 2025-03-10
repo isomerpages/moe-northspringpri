@@ -4,6 +4,9 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>Subject-Based Banding Briefing for Parents</h4>
+<p>Dear Parents, please click <a href="/files/Subject_Based_Banding_Briefing_for_Parents_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the briefing file regarding Subject-Based Banding.</p>
 <h4>Guidance on Screen use in children</h4>
 <p>Dear Parents, please click <a href="/files/Guidance_on_Screen_Use_in_Children_MOH__2025_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download the Guidance on Screen use in children from MOH.</p>
