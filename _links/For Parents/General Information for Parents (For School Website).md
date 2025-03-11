@@ -81,6 +81,6 @@ camps and school programmes. The school may use and publish such photographs
 and /or video recordings in school publications, websites, social media
 channels and other communication channels.</p>
 <h4>Subject-Based Banding Briefing For Parents</h4>
-<p>Dear Parents, click <a href="/files/Subject_Based_Banding_Briefing_for_Parents_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-download the Subject-Based Brief.</p>
+<p>Dear Parents, please click <a href="/files/Subject_Based_Banding_Briefing_for_Parents_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the file regarding Subject-Based Banding.</p>
 <p></p>
