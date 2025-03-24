@@ -41,6 +41,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Vice Principal (EO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Saleima Mohd Iqbal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>School Staff Developer</strong>
 </p>
 </td>
