@@ -41,6 +41,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Vice Principal (EO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:saliema_mohd_iqbal@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Saliema Mohd Iqbal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>School Staff Developer</strong>
 </p>
 </td>
