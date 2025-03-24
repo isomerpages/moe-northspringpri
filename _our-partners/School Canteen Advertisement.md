@@ -27,14 +27,6 @@ variant: tiptap
 <p>Chinese Noodles</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Rice Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Rice</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Application Procedure</strong>
