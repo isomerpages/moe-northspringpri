@@ -11,5 +11,5 @@ Canteen Menu
 ![](/images/4_canteen.png)
 ![](/images/Malay_Noodle_stall.png)
 ![](/images/Japanese_Stall.png)
-![](/images/nsps_canteen_western_stall_july2024.jpg)
+![](/images/NSPS_Chinese_Rice_Menu.jpg)
 ![](/images/nsps_canteen_cold_drinks_and_fruits_july2024.jpg)
