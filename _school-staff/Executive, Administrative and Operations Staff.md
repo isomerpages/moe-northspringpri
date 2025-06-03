@@ -197,11 +197,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Manager</strong>
+<p><strong>ICT Associate</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Chee Meng</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +210,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raj</p>
+<p>Mr Izzuddin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ganesh Moorthy</p>
 </td>
 </tr>
 <tr>
@@ -238,14 +247,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shanny Lean</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
