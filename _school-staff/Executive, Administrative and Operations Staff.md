@@ -210,12 +210,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Izzuddin</p>
+<p>Mr Izzuddin Bin Kamaludin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop</strong>
+<p><strong>Desktop Engineer 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
