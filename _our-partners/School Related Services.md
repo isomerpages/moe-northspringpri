@@ -24,7 +24,7 @@ Sale of uniform is available at the School Bookshop during school days&nbsp;**(n
 
 #### School Books &amp; Stationeries
 BL Marketing Pte Ltd<br>
-Tel : 6284 8785<br>
+Tel : 6284 8785 or 6518 9611<br>
 Email :&nbsp;[sales@blmarketing.sg](mailto:sales@blmarketing.sg)<br>
 Website :&nbsp;[https://blmarketing.sg](https://blmarketing.sg/)<br>
 Opening Hours : 8am to 3pm<br>
