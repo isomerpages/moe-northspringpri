@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 image: /images/PSG/PSG.jpg
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG.jpg">
+</div>
 <p>Please choose to read our newsletter:</p>
 <ul data-tight="true" class="tight">
 <li>
