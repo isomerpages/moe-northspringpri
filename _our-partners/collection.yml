@@ -2,7 +2,7 @@ collections:
   our-partners:
     output: true
     order:
-      - e Newsletter (PSG).md
       - Parent Support Group.md
+      - e Newsletter (PSG).md
       - School Related Services.md
       - School Canteen Advertisement.md
