@@ -29,5 +29,9 @@ variant: tiptap
 <a href="/files/2024_NSPS_Spring_Roll_Semester_2_Publication_compressed.pdf" rel="noopener nofollow" target="_blank">Sem 2</a>
 </p>
 </li>
+<li>
+<p>2025 <a href="/files/Spring_Roll_2025_Semester_One.pdf" rel="noopener nofollow" target="_blank">Sem 1</a>
+</p>
+</li>
 </ul>
 <p></p>
