@@ -27,7 +27,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_mui_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Mui Hiang Sharmaine</a>
-<br><a href="mailto:celeste_ang_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Celeste Ang Jia Hui</a>
+</p>
+<p><a href="mailto:Lim_Yu_Xin_Keryn@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lim Yu Xin Keryn</a>
+<br><a href="mailto:celeste_ang_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Celeste Ang Jia Hui</a>
 </p>
 </td>
 </tr>
@@ -38,6 +40,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_amirah_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Amirah Bte Abdul Aziz</a>
+</p>
+<p><a href="mailto:Leah_Anne_Kanagaratnam@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Leah Anne Kanagaratnam</a>
 <br><a href="mailto:wu_zhekang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wu Zhekang</a>
 </p>
 </td>
@@ -62,6 +66,8 @@ variant: tiptap
 <p><a href="mailto:hanim_ab_ghani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hanim Bte Ab Ghani</a>
 <br><a href="mailto:jaisri_thirunavukarasu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jaisri Thirunavukarasu</a>
 </p>
+<p><a href="mailto:Dong_Jingwei@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dong Jing Wei</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +88,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:humizara_husin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humizara Husin</a>
-<br><a href="mailto:choo_woon_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Laurene</a>
+<br><a href="mailto:choo_woon_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Woon Kee Laurene</a>
 </p>
 </td>
 </tr>
@@ -103,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ji_peifen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ji Peifen</a>
+<p><a href="mailto:ji_peifen@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Ji Peifen</a>
 </p>
 <p><a href="mailto:serajunnisha_begum@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Serajunnisha Begum</a>
 </p>
