@@ -155,8 +155,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_koon_seng_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Neo Koon Seng Jeremy</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
