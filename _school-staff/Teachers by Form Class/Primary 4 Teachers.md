@@ -71,7 +71,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alison_yong_yee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alison Yong Yee Peng</a>
-<br><a href="mailto:bala_chandran_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Chandran s/o Thiruselvan</a>
+<br><a href="mailto:bala_chandran_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Chandran S/O Thiruselvan</a>
 </p>
 </td>
 </tr>
