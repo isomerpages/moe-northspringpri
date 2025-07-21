@@ -39,7 +39,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ee_bao_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ee Bao Qin</a>
 </p>
-<p><a href="mailto:shamani_sithananthan_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shamani d/o S. Naidu</a>
+<p><a href="mailto:shamani_sithananthan_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shamani D/O S. Naidu</a>
 </p>
 <p><a href="mailto:Tan_Xiao_Xuan_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tan Xiao Xuan</a>
 </p>
@@ -65,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:javirthaa_rengasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Javirthaa d/o Rengasamy</a>
+<p><a href="mailto:javirthaa_rengasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Javirthaa D/O Rengasamy</a>
 <br><a href="mailto:ma_meng_die@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ma Mengdie</a>
 </p>
 </td>
