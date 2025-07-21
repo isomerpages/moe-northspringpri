@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ku_seow_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ku Seow Yen</a>
+<p><a href="mailto:ku_seow_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ku Seow Yen</a>
 <br><a href="mailto:teng_kang_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
 </p>
 </td>
@@ -49,7 +49,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_qian_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
-<br><a href="mailto:shameem_ahamed_ali_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem</a>
+<br><a href="mailto:shameem_ahamed_ali_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem D/O Ahamed Ali Khan</a>
 </p>
 </td>
 </tr>
@@ -61,7 +61,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kua_chiew_guet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
 </p>
-<p><a href="mailto:nurfarahaina_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfarah 'Aina Bte Sulaiman</a>
+<p><a href="mailto:nurfarahaina_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurfarah 'Aina Bte Sulaiman</a>
 </p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_pui_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern Fanny</a>
-<br><a href="mailto:saleha_bano_mohamed_murtujah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano</a>
+<br><a href="mailto:saleha_bano_mohamed_murtujah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano D/O Mohd Murtuiah</a>
 </p>
 </td>
 </tr>

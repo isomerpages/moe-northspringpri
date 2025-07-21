@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Oh</p>
+<p>Mdm Oh Hui Ming Serene</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Liang</p>
+<p>Mdm Michelle Liang Sock Khim</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aileen Teoh</p>
+<p>Mdm Teoh Yoke Eng Aileen</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janet Phua</p>
+<p>Mdm Janet Phua Wee Choo</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer I</strong>
+<p><strong>Desktop Engineer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,11 +215,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer 2</strong>
+<p><strong>Desktop Engineer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ganesh Moorthy</p>
+<p>Mr Ganesh Moorthy Vadiveloo</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Julaila Latiff</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shanny Lean</p>
+<p>Mdm Lean Hooi Shang Shanny</p>
 </td>
 </tr>
 </tbody>
