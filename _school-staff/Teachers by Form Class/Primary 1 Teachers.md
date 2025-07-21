@@ -49,7 +49,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_qian_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
-<br><a href="mailto:shameem_ahamed_ali_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem d/o Ahamed Ali Khan</a>
+<br><a href="mailto:shameem_ahamed_ali_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameem D/O Ahamed Ali Khan</a>
 </p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_pui_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern Fanny</a>
-<br><a href="mailto:saleha_bano_mohamed_murtujah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano d/o Mohd Murtuiah</a>
+<br><a href="mailto:saleha_bano_mohamed_murtujah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano D/O Mohd Murtuiah</a>
 </p>
 </td>
 </tr>
