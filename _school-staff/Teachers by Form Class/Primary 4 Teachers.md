@@ -60,7 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_wu_zongyang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Zongyang Christopher </a>
-<br><a href="mailto:siow_wan_zing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Siow Wan Zing</a>
+<br><a href="mailto:siow_wan_zing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siow Wan Zing</a>
 </p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alison_yong_yee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alison Yong Yee Peng</a>
-<br><a href="mailto:bala_chandran_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Chandran S/O Thiruselvan</a>
+<br><a href="mailto:bala_chandran_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Chandran s/o Thiruselvan</a>
 </p>
 </td>
 </tr>
