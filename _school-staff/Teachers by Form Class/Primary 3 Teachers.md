@@ -39,7 +39,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ee_bao_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ee Bao Qin</a>
 </p>
-<p><a href="mailto:shamani_sithananthan_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shamani</a>
+<p><a href="mailto:shamani_sithananthan_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shamani d/o S. Naidu</a>
+</p>
+<p><a href="mailto:Tan_Xiao_Xuan_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tan Xiao Xuan</a>
 </p>
 </td>
 </tr>
@@ -53,6 +55,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:poon_kar_tung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poon Kar Tung</a>
 </p>
+<p><a href="mailto:Liow_Jia_Zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liow Jia Zhen Tina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:javirthaa_rengasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Javirthaa D/O Rengasamy</a>
+<p><a href="mailto:javirthaa_rengasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Javirthaa d/o Rengasamy</a>
 <br><a href="mailto:ma_meng_die@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ma Mengdie</a>
 </p>
 </td>
@@ -83,9 +87,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_koon_seng_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Neo Koon Seng Jeremy</a>
-</p>
 <p><a href="mailto:wong_kai_li_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong Kai Li Rachel</a>
+</p>
+<p><a href="mailto:Muhammad_Rifkee_Safah_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Rifkee Bin Safah</a>
+</p>
+<p><a href="mailto:Muhammad_Feerdhaos_Rosli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Feerdhaos Bin Rosli</a>
 </p>
 </td>
 </tr>
