@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer I</strong>
+<p><strong>Desktop Engineer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +215,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer 2</strong>
+<p><strong>Desktop Engineer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
