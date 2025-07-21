@@ -219,7 +219,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ganesh Moorthy</p>
+<p>Mr Ganesh Moorthy Vadiveloo</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Julaila Latiff</p>
+<p></p>
 </td>
 </tr>
 <tr>
