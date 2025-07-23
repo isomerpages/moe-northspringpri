@@ -32,5 +32,11 @@ access information on Primary School Education from MOE website.</p>
 <li>
 <p>Local School transfer</p>
 </li>
+<li>
+<p>Financial Assistance</p>
+</li>
+<li>
+<p>School fees</p>
+</li>
 </ul>
 <p></p>
