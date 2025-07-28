@@ -29,7 +29,6 @@ variant: tiptap
 <p><a href="mailto:tan_mui_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Mui Hiang Sharmaine</a>
 </p>
 <p><a href="mailto:Lim_Yu_Xin_Keryn@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lim Yu Xin Keryn</a>
-<br><a href="mailto:celeste_ang_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Celeste Ang Jia Hui</a>
 </p>
 </td>
 </tr>
