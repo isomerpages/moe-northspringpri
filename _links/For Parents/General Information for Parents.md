@@ -1,11 +1,11 @@
 ---
-title: General Information for Parents (For School Website)
+title: General Information for Parents
 permalink: /links/for-parents/general-information-for-parents/
 description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h1>General information for Parents (For School Website)</h1>
+<h1>General information for Parents</h1>
 <p><strong>1.</strong>&nbsp;<strong>Monitoring your Child’s Health</strong>&nbsp;
 <br>Do check if your child/ward is well before he/she leaves for school on
 a daily basis. If they show symptoms of physically unwell, please take
