@@ -44,7 +44,11 @@ after school hours from 2pm to 3pm)
 </p>
 <h4>School Bus Transport</h4>
 <p><u>SMART Transport Pte Ltd (with effect 27th May 23)</u>
-<br>Please call Mr Ron Lim for your child’s transport needs
+<br>Please call Mr. Ron Lim for your child’s transport needs
 <br>Tel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 9727 9073 (HP)
 <br>Email &nbsp;&nbsp;&nbsp; : <a href="mailto:enquiry@smarttransportsg.com" rel="noopener noreferrer nofollow" target="_blank">enquiry@smarttransportsg.com</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bus_price.jpg">
+</div>
+<p></p>
