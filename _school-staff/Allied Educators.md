@@ -32,12 +32,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_farahani_abdul_mutalib@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Farahani Binti Abdul Mutalib</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kiah_Yong_Shu_Yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Kiah Yong Shu Yin</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
