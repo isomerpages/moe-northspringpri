@@ -2,6 +2,7 @@
 title: Principal's Message
 permalink: /about-nsps/principals-message/
 description: ""
+variant: markdown
 ---
 Principal’s Message
 ===================
@@ -22,7 +23,7 @@ _All of them can learn._&nbsp;North Spring Primary School has a vibrant school c
 
 _We are energised by supportive and understanding parents._&nbsp;We are grateful to receive the support of our Parent Support Group. Besides ensuring the safety and wellbeing of our students, our parents are involved in promoting the school’s values and building the characters of North Springers.
 
-We step into 2023 with fervour steered by our mission to engage our students in active learning for them to embody growth mindset, self-discipline and hard work to ultimately achieve and surpass their potentials.
+We step into 2025 with fervour steered by our mission to engage our students in active learning for them to embody growth mindset, self-discipline and hard work to ultimately achieve and surpass their potentials.
 
 **Mrs Jacinta Lim**<br>
 **Principal**
