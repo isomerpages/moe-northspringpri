@@ -41,11 +41,11 @@ variant: tiptap
 <p>1) 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/writeway2025</a>
+<p><a href="https://tinyurl.com/writeway2025" rel="noopener nofollow" target="_blank">https://tinyurl.com/writeway2025</a>
 </p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/nspshawkerstories</a>
+<p><a href="https://tinyurl.com/nspshawkerstories" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/nspshawkerstories</a>
 </p>
 </li>
 </ul>
