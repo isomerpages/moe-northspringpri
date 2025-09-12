@@ -79,7 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janet Phua Wee Choo</p>
+<p>Mdm Jasmine Koh Swee Kim</p>
 </td>
 </tr>
 <tr>
