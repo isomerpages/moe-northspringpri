@@ -55,7 +55,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Yat</p>
+<p><a href="Yat_Wei_Tien_Jessica@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jessica Yat</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -205,16 +206,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Mei Ling</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Administration Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_san_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low San San</a>
 </p>
 </td>
 </tr>
