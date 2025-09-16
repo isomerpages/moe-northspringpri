@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low San San</p>
+<p></p>
 </td>
 </tr>
 <tr>
