@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal</strong>
+<p><strong>Vice Principal 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal</strong>
+<p><strong>Vice Principal 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
