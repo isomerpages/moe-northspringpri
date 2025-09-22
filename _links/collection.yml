@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Parents/Engagement Charter.md
       - For Parents/MOE information on Primary School education.md
       - For Parents/Guidance on Screen time in children.md
       - For Parents/Student MOE Identity Management System (MIMS).md
