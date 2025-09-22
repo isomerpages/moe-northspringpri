@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Jessica_Yat@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jessica Yat</a>
+<p><a href="mailto:Jessica_Yat@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jessica Yat</a>
 </p>
 </td>
 </tr>
