@@ -4,6 +4,18 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>NIE Caring Teacher Award 2025</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster.jpg">
+</div>
+<p>Dear Parents and Students,</p>
+<p>The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools
+who go beyond the call of duty, nurturing the holistic development of their
+students and ensuring their charges grow up to be confident, independent
+and resilient learners for our nation.</p>
+<p>Please click <a href="https://www.cta.nie.edu.sg/nominate" rel="noopener nofollow" target="_blank">here </a>to
+nominate deserving teachers for the award!</p>
+<p>Deadline for the online submission is 31 December 2025.</p>
 <h4>Subject-Based Banding Briefing for Parents</h4>
 <p>Dear Parents, please click <a href="/files/Subject_Based_Banding_Briefing_for_Parents_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the file regarding Subject-Based Banding.</p>
