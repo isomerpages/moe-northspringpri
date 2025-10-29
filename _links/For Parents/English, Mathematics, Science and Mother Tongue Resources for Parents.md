@@ -37,18 +37,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/view/nspsthewriteway/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/nspsthewriteway/home</a>
 </p>
-<p></p>
-<p>1) 2025:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://tinyurl.com/writeway2025" rel="noopener nofollow" target="_blank">https://tinyurl.com/writeway2025</a>
-</p>
-</li>
-<li>
-<p><a href="https://tinyurl.com/nspshawkerstories" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/nspshawkerstories</a>
-</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
