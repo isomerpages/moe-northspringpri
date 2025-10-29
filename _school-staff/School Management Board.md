@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal 1</strong>
+<p><strong>Vice Principal </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal 2</strong>
+<p><strong>Vice Principal </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (P5-P6)</strong>
+<p><strong>HOD PE-CCA / Year Head (P5-P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / CCE</strong>
+<p><strong>HOD CCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
