@@ -4,6 +4,12 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
+<p>Temporary closure of school office</p>
+<p>Please be informed that our school will be hosting an event on 21/11/2025
+and the school office will be temporarily closed from 8.30am to 12.00pm.</p>
+<p>We apologise for any inconvenience caused and appreciate your understanding.
+Thank you.</p>
+<p></p>
 <h4>NIE Caring Teacher Award 2025</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster.jpg">
