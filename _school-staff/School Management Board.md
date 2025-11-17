@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal </strong>
+<p><strong>Vice Principal</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal </strong>
+<p><strong>Vice Principal</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,10 +231,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Administration Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Bock_Huey_Juin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Bock Huey Juin</a>
+</p>
 </td>
 </tr>
 </tbody>
