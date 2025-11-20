@@ -14,5 +14,10 @@ description: ""
 <p>2025 <a href="/files/PSG_Newsletter_Semester_1_2025.pdf" rel="noopener nofollow" target="_blank">Sem 1</a>
 </p>
 </li>
+<li>
+<p>2025 <a href="/files/Sem_2_newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sem 2</a>
+</p>
+<p></p>
+</li>
 </ul>
 <p></p>
