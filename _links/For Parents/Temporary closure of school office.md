@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p>Dear Parents, Students and Visitors</p>
-<p>Please be informed that our school will be hosting an event on 21/11/2025
-and the school office will be temporarily closed from 8.30am to 12.00pm.</p>
+<p>Dear Parents, Students and Visitors,</p>
+<p>Please be informed that our school will be closed on Thursday, 27 November
+2025 from 11.00am to 5.00pm, as our staff will be attending an external
+event.</p>
 <p>We apologise for any inconvenience caused and appreciate your understanding.
 Thank you.</p>
 <p>North Spring Primary School</p>
