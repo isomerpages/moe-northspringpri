@@ -4,11 +4,13 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
-<p>Temporary closure of school office</p>
-<p>Please be informed that our school will be hosting an event on 21/11/2025
-and the school office will be temporarily closed from 8.30am to 12.00pm.</p>
-<p>We apologise for any inconvenience caused and appreciate your understanding.
+<p>Dear Parents, Students and Visitors,</p>
+<p>Please be informed that our school will be closed on Thursday, 27 November
+2025 from 11.00am to 5.00pm, as our staff will be attending an external
+event.</p>
+<p>&nbsp;We apologise for any inconvenience caused and appreciate your understanding.
 Thank you.</p>
+<p>&nbsp;North Spring Primary School</p>
 <p></p>
 <h4>NIE Caring Teacher Award 2025</h4>
 <div class="isomer-image-wrapper">
