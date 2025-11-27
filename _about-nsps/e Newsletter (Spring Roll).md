@@ -25,12 +25,13 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>2024 <a href="/files/2024_Springroll_Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sem 1,</a>
+<p>2024 <a href="/files/2024_Springroll_Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sem 1, </a>
 <a href="/files/2024_NSPS_Spring_Roll_Semester_2_Publication_compressed.pdf" rel="noopener nofollow" target="_blank">Sem 2</a>
 </p>
 </li>
 <li>
-<p>2025 <a href="/files/Spring_Roll_2025_Semester_One.pdf" rel="noopener nofollow" target="_blank">Sem 1</a>
+<p>2025 <a href="/files/Spring_Roll_2025_Semester_One.pdf" rel="noopener nofollow" target="_blank">Sem 1, </a>
+<a href="https://tinyurl.com/springrollsem22025" rel="noopener nofollow" target="_blank">Sem 2</a>
 </p>
 </li>
 </ul>
