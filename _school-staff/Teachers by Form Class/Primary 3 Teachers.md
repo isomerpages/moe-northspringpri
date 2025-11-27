@@ -89,10 +89,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_kai_li_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong Kai Li Rachel</a>
 </p>
-<p><a href="mailto:Muhammad_Rifkee_Safah_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Rifkee Bin Safah</a>
-</p>
-<p><a href="mailto:Muhammad_Feerdhaos_Rosli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Feerdhaos Bin Rosli</a>
-</p>
 </td>
 </tr>
 <tr>
