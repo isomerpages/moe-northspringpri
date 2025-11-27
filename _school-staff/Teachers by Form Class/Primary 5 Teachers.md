@@ -86,8 +86,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:nur_syahida_abdul_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Syahida Bte Abdul Jalil</a>
 </p>
-<p><a href="mailto:Chua_Yi_Ren_Constance@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Chua Yi Ren Constance</a>
-</p>
 </td>
 </tr>
 </tbody>
