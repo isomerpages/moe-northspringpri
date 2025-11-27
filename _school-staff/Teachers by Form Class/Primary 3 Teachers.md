@@ -41,8 +41,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:shamani_sithananthan_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shamani D/O S. Naidu</a>
 </p>
-<p><a href="mailto:Tan_Xiao_Xuan_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tan Xiao Xuan</a>
-</p>
 </td>
 </tr>
 <tr>
