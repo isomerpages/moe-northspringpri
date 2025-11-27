@@ -31,7 +31,7 @@ variant: tiptap
 </li>
 <li>
 <p>2025 <a href="/files/Spring_Roll_2025_Semester_One.pdf" rel="noopener nofollow" target="_blank">Sem 1, </a>
-<a href="https://tinyurl.com/springrollsem22025" rel="noopener nofollow" target="_blank">Sem 2</a>
+<a href="https://tinyurl.com/sem2springroll2025" rel="noopener nofollow" target="_blank">Sem 2</a>
 </p>
 </li>
 </ul>
