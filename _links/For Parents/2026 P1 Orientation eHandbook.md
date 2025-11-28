@@ -1,6 +1,6 @@
 ---
-title: 2025 P1 Orientation eHandbook
-permalink: /links/for-parents/2025p1/
+title: 2026 P1 Orientation eHandbook
+permalink: /links/for-parents/2026p1/
 variant: tiptap
 description: ""
 third_nav_title: For Parents
@@ -9,5 +9,5 @@ third_nav_title: For Parents
 <p>Dear Parents,</p>
 <p>Click on the link below to open the PDF. You are also able to download
 the pdf by right clicking the link and select 'save link as'</p>
-<p><a href="/files/2025_P1_Orientation_E_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation e-handbook</a>
+<p><a href="/files/2026_P1_Orientation__E_Handbook.pdf" rel="noopener nofollow" target="_blank">2026 P1 Orientation e-Handbook</a>
 </p>
