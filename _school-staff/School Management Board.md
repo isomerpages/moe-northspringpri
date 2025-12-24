@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicholas_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nicholas Tan</a>
+<p><a href="mailto:Lim_Sheue_Tyug@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Sheue Tyug</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD PE-CCA / Year Head (P5-P6)</strong>
+<p><strong>Year Head (P5-P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,6 +151,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kay_woon_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jamie Yeo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD PE, CCA &amp; AES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chan Jia En</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>AYH (P1 &amp; P2)</strong>
 </p>
 </td>
@@ -171,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH / Student Management</strong>
+<p><strong>SH Student Management</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +201,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH / Physical Education &amp; CCA</strong>
+<p><strong>SH Physical Education &amp; CCA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +211,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH / Student Leadership</strong>
+<p><strong>SH Aesthetics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sheereen_shaaista_abd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sheereen Shaa'ista Bte R A Abd</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH Student Leadership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH / Mathematics</strong>
+<p><strong>LH Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
