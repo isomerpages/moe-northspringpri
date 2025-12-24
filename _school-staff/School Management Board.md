@@ -155,7 +155,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kay_woon_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jamie Yeo</a>
+<p><a href="mailto:kay_woon_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jamie Yeo</a>
 </p>
 </td>
 </tr>
@@ -165,7 +165,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_jia_en@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chan Jia En</a>
+<p><a href="mailto:chan_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chan Jia En</a>
 </p>
 </td>
 </tr>
@@ -215,7 +215,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sheereen_shaaista_abd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sheereen Shaa'ista Bte R A Abd </a>
+<p><a href="mailto:sheereen_shaaista_abd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sheereen Shaa'ista Bte R A Abd</a>
 </p>
 </td>
 </tr>
