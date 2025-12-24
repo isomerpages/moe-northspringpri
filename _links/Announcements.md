@@ -4,14 +4,6 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
-<p>Dear Parents, Students and Visitors,</p>
-<p>Please be informed that our school will be closed on Thursday, 27 November
-2025 from 11.00am to 5.00pm, as our staff will be attending an external
-event.</p>
-<p>&nbsp;We apologise for any inconvenience caused and appreciate your understanding.
-Thank you.</p>
-<p>&nbsp;North Spring Primary School</p>
-<p></p>
 <h4>NIE Caring Teacher Award 2025</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster.jpg">
