@@ -53,6 +53,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:tan_mui_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Mui Hiang Sharmaine</a>
 </p>
+<p><a href="mailto:Lim_Yu_Xin_Keryn@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lim Yu Xin Keryn</a>
+</p>
 <p><a href="mailto:poon_kar_tung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poon Kar Tung</a>
 </p>
 <p><a href="mailto:Liow_Jia_Zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liow Jia Zhen Tina</a>
