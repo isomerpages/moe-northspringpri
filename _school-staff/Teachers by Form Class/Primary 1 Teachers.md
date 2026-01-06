@@ -53,7 +53,7 @@ variant: tiptap
 <p><a href="mailto:gloria_koh_von@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Gloria Koh Von</a>
 </p>
 <p>
-<br><a href="mailto:Ong_Kah_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Kah Lin</a>
+<br>
 </p>
 </td>
 </tr>
