@@ -40,6 +40,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yong_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yong Jie</a>
 </p>
+<p><a href="mailto:teng_fei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Fei</a>
+</p>
 <p><a href="mailto:Leah_Anne_Kanagaratnam@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Leah Anne Kanagaratnam</a>
 <br>
 </p>
@@ -67,9 +69,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:nurfarahaina_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurfarah 'Aina Bte Sulaiman</a>
 </p>
-<p><a href="mailto:jaisri_thirunavukarasu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jaisri Thirunavukarasu</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
