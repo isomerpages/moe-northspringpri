@@ -30,8 +30,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:teng_kang_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
 </p>
-<p><a href="mailto:Lim_Yu_Xin_Keryn@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lim Yu Xin Keryn</a>
-</p>
 </td>
 </tr>
 <tr>
