@@ -94,8 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1.7</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
