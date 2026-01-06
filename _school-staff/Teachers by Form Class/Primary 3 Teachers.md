@@ -70,6 +70,8 @@ variant: tiptap
 <p><a href="mailto:javirthaa_rengasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Javirthaa D/O Rengasamy</a>
 <br><a href="mailto:ma_meng_die@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ma Mengdie</a>
 </p>
+<p><a href="mailto:zaiton_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zaiton Bte Ja'afar</a>
+</p>
 </td>
 </tr>
 <tr>
