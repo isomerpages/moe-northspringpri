@@ -73,7 +73,7 @@ variant: tiptap
 <p><a href="mailto:nurdiyana_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurdiyana Bte Mohamed Yusof</a>
 </p>
 <p><a href="mailto:c_kavitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss C Kavitha</a>
-<br><a href="mailto:teng_fei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Fei</a>
+<br>
 </p>
 </td>
 </tr>
