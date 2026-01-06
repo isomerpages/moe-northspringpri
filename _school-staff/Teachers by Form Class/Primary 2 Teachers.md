@@ -80,7 +80,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:humizara_husin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humizara Husin</a>
 </p>
-<p><a href="mailto:sng_poh_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sng Poh Guan</a>
+<p><a href="mailto:siow_wan_zing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siow Wan Zing</a>
 </p>
 </td>
 </tr>
