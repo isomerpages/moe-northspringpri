@@ -75,7 +75,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yee_sien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yee Sien</a>
-<br><a href="mailto:siti_nur_zulaikha_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nur Zulaikha Binte Ibrahim</a>
+<br>
 </p>
 </td>
 </tr>
