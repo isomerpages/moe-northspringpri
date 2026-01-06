@@ -106,8 +106,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:wee_jee_luan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Jee Luan Sharon</a>
 </p>
-<p><a href="mailto:zaiton_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zaiton Bte Ja'afar</a>
-</p>
 </td>
 </tr>
 <tr>
