@@ -96,6 +96,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_pui_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern Fanny</a>
 </p>
+<p><a href="mailto:saleha_bano_mohamed_murtujah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano D/O Mohd Murtuiah</a>
+</p>
 <p><a href="mailto:humizara_husin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humizara Husin</a>
 </p>
 </td>
