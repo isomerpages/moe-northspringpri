@@ -69,10 +69,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kua_chiew_guet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
 </p>
+<p><a href="mailto:nurfarahaina_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurfarah 'Aina Bte Sulaiman</a>
+</p>
 <p><a href="mailto:jaisri_thirunavukarasu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jaisri Thirunavukarasu</a>
 </p>
-<p><a href="mailto:Dong_Jingwei@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dong Jing Wei</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
