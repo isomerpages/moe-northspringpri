@@ -98,7 +98,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guganeshwari_tamil_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Guganeshwari Vikneswaran</a>
+<p>
 <br><a href="mailto:wee_jee_luan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Jee Luan Sharon</a>
 </p>
 </td>
