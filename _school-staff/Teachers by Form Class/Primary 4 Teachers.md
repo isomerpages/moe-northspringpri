@@ -37,6 +37,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ee_bao_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ee Bao Qin</a>
+</p>
+<p><a href="mailto:shamani_sithananthan_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shamani D/O S. Naidu</a>
+</p>
 <p><a href="mailto:chia_zalina_chia_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Zalina Bte Chia Zainal</a>
 <br><a href="mailto:teo_yuan_kai_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Yuan Kai Lionel</a>
 </p>
