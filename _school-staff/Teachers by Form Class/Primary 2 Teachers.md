@@ -43,7 +43,6 @@ variant: tiptap
 <p><a href="mailto:teng_fei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Fei</a>
 </p>
 <p><a href="mailto:Leah_Anne_Kanagaratnam@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Leah Anne Kanagaratnam</a>
-<br>
 </p>
 </td>
 </tr>
@@ -79,6 +78,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:martin_cheah_chiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
 </p>
+<p><a href="mailto:humizara_husin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humizara Husin</a>
+</p>
 <p><a href="mailto:sng_poh_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sng Poh Guan</a>
 </p>
 </td>
@@ -92,8 +93,6 @@ variant: tiptap
 <p><a href="mailto:cheong_pui_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern Fanny</a>
 </p>
 <p><a href="mailto:saleha_bano_mohamed_murtujah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano D/O Mohd Murtuiah</a>
-</p>
-<p><a href="mailto:humizara_husin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humizara Husin</a>
 </p>
 </td>
 </tr>
