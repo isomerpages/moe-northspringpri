@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:humairah_mohamed_jamil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humairah Binte Mohamed Jamil</a>
+<p>
 <br><a href="mailto:lim_hwee_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Hwee Tin</a>
 </p>
 </td>
@@ -50,6 +50,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shen_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shen Yu</a>
 <br><a href="mailto:simon_low_thong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Thong Simon</a>
+</p>
+<p><a href="mailto:nur_amirah_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Amirah Bte Abdul Aziz</a>
 </p>
 </td>
 </tr>
@@ -84,8 +86,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_theng_kang_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Tan Theng Kang</a>
 </p>
-<p><a href="mailto:nur_syahida_abdul_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Syahida Bte Abdul Jalil</a>
+<p><a href="mailto:sng_poh_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sng Poh Guan</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>

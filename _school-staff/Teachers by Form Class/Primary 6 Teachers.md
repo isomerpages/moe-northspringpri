@@ -60,7 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_zhen_long_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Zhen Long Mark</a>
-<br><a href="mailto:marissa_mohammed_haniff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marissa Bte Mohammed Haniff</a>
+<br>
 </p>
 </td>
 </tr>
@@ -70,17 +70,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:diyana_abdul_latiff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diyana Bte Abdul Latiff</a>
+</p>
 <p><a href="mailto:c_kavitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss C Kavitha</a>
-<br><a href="mailto:teng_fei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Fei</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>6.6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurdiyana_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurdiyana Bte Mohamed Yusof</a>
+</p>
 </td>
 </tr>
 <tr>

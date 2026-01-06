@@ -26,8 +26,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ku_seow_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ku Seow Yen</a>
-<br><a href="mailto:teng_kang_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
+<p><a href="mailto:lim_fei_ming_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adelilne Lim Fei Ming</a>
+</p>
+<p><a href="mailto:choo_woon_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Woon Kee Laurene</a>
 </p>
 </td>
 </tr>
@@ -37,8 +38,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:arun_angayarkanni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angayarkanni Arun</a>
-<br><a href="mailto:lim_yong_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yong Jie</a>
+<p><a href="mailto:ji_peifen@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Ji Peifen</a>
+</p>
+<p><a href="mailto:nur_syahida_abdul_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Syahida Bte Abdul Jalil</a>
 </p>
 </td>
 </tr>
@@ -48,8 +50,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_qian_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
-<br><a href="mailto:Ong_Kah_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Kah Lin</a>
+<p><a href="mailto:gloria_koh_von@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Gloria Koh Von</a>
+</p>
+<p><a href="mailto:hanim_ab_ghani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hanim Bte Ab Ghani</a>
 </p>
 </td>
 </tr>
@@ -59,9 +62,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kua_chiew_guet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kua Chiew Guet Jace</a>
+<p><a href="mailto:wu_zhekang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wu Zhekang</a>
 </p>
-<p><a href="mailto:nurfarahaina_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurfarah 'Aina Bte Sulaiman</a>
+<p><a href="mailto:arun_angayarkanni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angayarkanni Arun</a>
 </p>
 </td>
 </tr>
@@ -71,8 +74,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:martin_cheah_chiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Cheah Chiao</a>
-<br><a href="mailto:nurdiyana_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurdiyana Bte Mohamed Yusof</a>
+<p><a href="mailto:Dong_Jingwei@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dong Jing Wei</a>
+</p>
+<p><a href="mailto:jessie_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Ang Hwee Ching</a>
 </p>
 </td>
 </tr>
@@ -82,19 +86,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_pui_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Fern Fanny</a>
-<br><a href="mailto:saleha_bano_mohamed_murtujah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Saleha Bano D/O Mohd Murtuiah</a>
+<p><a href="mailto:joyce_ye_meitian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Ye Meitian</a>
+</p>
+<p><a href="mailto:siti_nur_zulaikha_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nur Zulaikha Binte Ibrahim</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1.7</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guganeshwari_tamil_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Guganeshwari Vikneswaran</a>
-<br><a href="mailto:wee_jee_luan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Jee Luan Sharon</a>
+<p>
+<br>
 </p>
 </td>
 </tr>

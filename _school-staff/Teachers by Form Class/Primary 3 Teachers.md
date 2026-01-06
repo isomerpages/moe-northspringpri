@@ -26,8 +26,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_bee_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Neo Bee Lin</a>
-<br><a href="mailto:xu_yumei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Xu Yumei</a>
+<p><a href="mailto:chua_yen_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chua Yen Ling</a>
+<br><a href="mailto:raihan_rajin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raihan Bin Rajin</a>
 </p>
 </td>
 </tr>
@@ -37,9 +37,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ee_bao_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ee Bao Qin</a>
+<p><a href="mailto:yap_chun_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Chun Zhen</a>
 </p>
-<p><a href="mailto:shamani_sithananthan_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shamani D/O S. Naidu</a>
+<p><a href="mailto:humairah_mohamed_jamil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humairah Binte Mohamed Jamil</a>
 </p>
 </td>
 </tr>
@@ -49,11 +49,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:diyana_abdul_latiff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diyana Bte Abdul Latiff</a>
+<p><a href="mailto:tan_mui_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Mui Hiang Sharmaine</a>
 </p>
-<p><a href="mailto:poon_kar_tung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poon Kar Tung</a>
-</p>
-<p><a href="mailto:Liow_Jia_Zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liow Jia Zhen Tina</a>
+<p><a href="mailto:Lim_Yu_Xin_Keryn@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lim Yu Xin Keryn</a>
 </p>
 </td>
 </tr>
@@ -63,8 +61,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:javirthaa_rengasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Javirthaa D/O Rengasamy</a>
-<br><a href="mailto:ma_meng_die@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ma Mengdie</a>
+<p><a href="mailto:zaiton_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zaiton Bte Ja'afar</a>
+</p>
+<p><a href="Chan_Jia_En@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Chan Jia En</a>
 </p>
 </td>
 </tr>
@@ -74,8 +73,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yee_sien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yee Sien</a>
-<br><a href="mailto:siti_nur_zulaikha_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nur Zulaikha Binte Ibrahim</a>
+<p><a href="mailto:bala_chandran_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Chandran S/O Thiruselvan</a>
+</p>
+<p><a href="mailto:chia_zalina_chia_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Zalina Bte Chia Zainal</a>
 </p>
 </td>
 </tr>
@@ -85,7 +85,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_kai_li_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong Kai Li Rachel</a>
+<p><a href="mailto:poon_kar_tung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poon Kar Tung</a>
+</p>
+<p><a href="mailto:marissa_mohammed_haniff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marissa Bte Mohammed Haniff</a>
 </p>
 </td>
 </tr>
