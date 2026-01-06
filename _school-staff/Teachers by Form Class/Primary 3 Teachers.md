@@ -87,7 +87,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poon_kar_tung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poon Kar Tung</a>
 </p>
-<p></p>
+<p><a href="mailto:marissa_mohammed_haniff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marissa Bte Mohammed Haniff</a>
+</p>
 </td>
 </tr>
 <tr>
