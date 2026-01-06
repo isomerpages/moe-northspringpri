@@ -74,7 +74,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bala_chandran_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Chandran S/O Thiruselvan</a>
-<br>
+</p>
+<p><a href="mailto:chia_zalina_chia_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Zalina Bte Chia Zainal</a>
 </p>
 </td>
 </tr>
