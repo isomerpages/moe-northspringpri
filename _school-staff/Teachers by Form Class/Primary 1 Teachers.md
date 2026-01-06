@@ -66,9 +66,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:arun_angayarkanni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angayarkanni Arun</a>
 </p>
-<p></p>
-<p><a href="mailto:nurfarahaina_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurfarah 'Aina Bte Sulaiman</a>
-</p>
 </td>
 </tr>
 <tr>
