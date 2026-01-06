@@ -99,7 +99,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:wee_jee_luan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Jee Luan Sharon</a>
+<br>
 </p>
 </td>
 </tr>
