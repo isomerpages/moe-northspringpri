@@ -26,7 +26,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ku_seow_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ku Seow Yen</a>
+<p><a href="Lim_Fei_ming_adeline@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Adeline Lim</a>
+</p>
+<p>
 <br><a href="mailto:teng_kang_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teng Kang Lee</a>
 </p>
 </td>
