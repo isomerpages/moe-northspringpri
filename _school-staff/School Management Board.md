@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD ICT-MRL</strong>
+<p><strong>HOD ICT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD EL</strong>
+<p><strong>HOD EL-MRL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
