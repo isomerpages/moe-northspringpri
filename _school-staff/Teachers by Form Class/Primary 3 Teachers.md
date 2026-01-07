@@ -38,8 +38,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_chun_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Chun Zhen</a>
-</p>
-<p><a href="mailto:humairah_mohamed_jamil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humairah Binte Mohamed Jamil</a>
+<br><a href="mailto:humairah_mohamed_jamil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Humairah Binte Mohamed Jamil</a>
 </p>
 </td>
 </tr>
@@ -50,8 +49,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_mui_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Mui Hiang Sharmaine</a>
-</p>
-<p><a href="mailto:Lim_Yu_Xin_Keryn@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lim Yu Xin Keryn</a>
+<br><a href="mailto:Lim_Yu_Xin_Keryn@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lim Yu Xin Keryn</a>
 </p>
 </td>
 </tr>
@@ -62,8 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zaiton_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zaiton Bte Ja'afar</a>
-</p>
-<p><a href="Chan_Jia_En@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Chan Jia En</a>
+<br><a href="Chan_Jia_En@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Chan Jia En</a>
 </p>
 </td>
 </tr>
@@ -74,8 +71,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bala_chandran_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Chandran S/O Thiruselvan</a>
-</p>
-<p><a href="mailto:chia_zalina_chia_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Zalina Bte Chia Zainal</a>
+<br><a href="mailto:chia_zalina_chia_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Zalina Bte Chia Zainal</a>
 </p>
 </td>
 </tr>
@@ -86,8 +82,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poon_kar_tung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poon Kar Tung</a>
-</p>
-<p><a href="mailto:marissa_mohammed_haniff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marissa Bte Mohammed Haniff</a>
+<br><a href="mailto:marissa_mohammed_haniff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marissa Bte Mohammed Haniff</a>
 </p>
 </td>
 </tr>
