@@ -53,7 +53,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Cheng</a>
 </p>
-<p><a href="mailto:zainab_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zainab Bte Haron</a>
+<p><a href="mailto:shen_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shen Yu</a>
 </p>
 </td>
 </tr>
