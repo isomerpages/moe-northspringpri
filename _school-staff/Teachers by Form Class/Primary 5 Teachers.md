@@ -62,7 +62,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abdul_fattah_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Fattah B Abdul Rahim</a>
-<br>
+<br><a href="mailto:zainab_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zainab Bte Haron</a>
 </p>
 </td>
 </tr>
@@ -72,10 +72,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:merilyn_lim_huay_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Merilyn Lim Huay Sian</a>
-</p>
-<p><a href="mailto:lee_hui_shi_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Shi Rebecca</a>
-</p>
 <p><a href="mailto:ong_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Mei Ling</a>
 </p>
 <p><a href="mailto:suren_sandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Suren Sandran</a>
