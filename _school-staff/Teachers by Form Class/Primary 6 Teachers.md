@@ -63,7 +63,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_zhen_long_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Zhen Long Mark</a>
+<p><a href="mailto:hu_fang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hu Fang</a>
+<br><a href="mailto:sheereen_shaaista_abd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sheereen Shaa'ista Bte R A Abd</a>
+</p>
+<p>
 <br>
 </p>
 </td>
