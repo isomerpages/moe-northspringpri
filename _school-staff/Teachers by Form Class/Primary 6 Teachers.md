@@ -27,8 +27,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_hwee_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Hwee Tin</a>
-</p>
-<p><a href="mailto:c_kavitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss C Kavitha</a>
+<br><a href="mailto:c_kavitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss C Kavitha</a>
 </p>
 </td>
 </tr>
@@ -50,8 +49,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Cheng</a>
-</p>
-<p><a href="mailto:shen_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shen Yu</a>
+<br><a href="mailto:shen_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shen Yu</a>
 </p>
 </td>
 </tr>
@@ -73,8 +71,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:diyana_abdul_latiff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diyana Bte Abdul Latiff</a>
-</p>
-<p><a href="mailto:lee_hui_shi_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Shi Rebecca</a>
+<br><a href="mailto:lee_hui_shi_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Shi Rebecca</a>
 </p>
 </td>
 </tr>
@@ -85,10 +82,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_theng_kang_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Tan Theng Kang</a>
-</p>
-<p><a href="mailto:kay_woon_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kay Woon Ping</a>
-</p>
-<p><a href="mailto:nurdiyana_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurdiyana Bte Mohamed Yusof</a>
+<br><a href="mailto:kay_woon_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kay Woon Ping</a>
+<br><a href="mailto:nurdiyana_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurdiyana Bte Mohamed Yusof</a>
 </p>
 </td>
 </tr>
