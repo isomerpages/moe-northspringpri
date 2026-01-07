@@ -38,8 +38,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_yuan_kai_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Yuan Kai Lionel</a>
-</p>
-<p><a href="mailto:fei_fei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fei Fei</a>
+<br><a href="mailto:fei_fei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fei Fei</a>
 </p>
 </td>
 </tr>
@@ -50,8 +49,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:simon_low_thong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Thong Simon</a>
-</p>
-<p><a href="mailto:nur_amirah_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Amirah Bte Abdul Aziz</a>
+<br><a href="mailto:nur_amirah_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Amirah Bte Abdul Aziz</a>
 </p>
 </td>
 </tr>
@@ -73,8 +71,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Mei Ling</a>
-</p>
-<p><a href="mailto:suren_sandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Suren Sandran</a>
+<br><a href="mailto:suren_sandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Suren Sandran</a>
 </p>
 </td>
 </tr>
@@ -85,10 +82,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_zhen_long_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Zhen Long Mark</a>
-</p>
-<p><a href="mailto:nadia_jumahat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nadia Bte Jumahat</a>
-</p>
-<p><a href="mailto:sng_poh_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sng Poh Guan</a>
+<br><a href="mailto:nadia_jumahat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nadia Bte Jumahat</a>
+<br><a href="mailto:sng_poh_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sng Poh Guan</a>
 </p>
 </td>
 </tr>
