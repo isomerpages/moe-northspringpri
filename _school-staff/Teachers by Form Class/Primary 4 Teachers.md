@@ -88,9 +88,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alison_yong_yee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alison Yong Yee Peng</a>
-<br><a href="mailto:suren_sandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Suren Sandran</a>
-</p>
-<p><a href="mailto:serajunnisha_begum@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Serajunnisha Begum</a>
+<br><a href="mailto:serajunnisha_begum@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Serajunnisha Begum</a>
 </p>
 </td>
 </tr>
