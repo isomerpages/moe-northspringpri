@@ -27,8 +27,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_fei_ming_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adelilne Lim Fei Ming</a>
-</p>
-<p><a href="mailto:choo_woon_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Woon Kee Laurene</a>
+<br><a href="mailto:choo_woon_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Choo Woon Kee Laurene</a>
 </p>
 </td>
 </tr>
@@ -39,8 +38,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ji_peifen@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Ji Peifen</a>
-</p>
-<p><a href="mailto:nur_syahida_abdul_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Syahida Bte Abdul Jalil</a>
+<br><a href="mailto:nur_syahida_abdul_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Syahida Bte Abdul Jalil</a>
 </p>
 </td>
 </tr>
@@ -51,8 +49,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gloria_koh_von@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Gloria Koh Von</a>
-</p>
-<p><a href="mailto:hanim_ab_ghani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hanim Bte Ab Ghani</a>
+<br><a href="mailto:hanim_ab_ghani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hanim Bte Ab Ghani</a>
 </p>
 </td>
 </tr>
@@ -63,8 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_zhekang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wu Zhekang</a>
-</p>
-<p><a href="mailto:arun_angayarkanni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angayarkanni Arun</a>
+<br><a href="mailto:arun_angayarkanni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angayarkanni Arun</a>
 </p>
 </td>
 </tr>
@@ -75,8 +71,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Dong_Jingwei@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dong Jing Wei</a>
-</p>
-<p><a href="mailto:jessie_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Ang Hwee Ching</a>
+<br><a href="mailto:jessie_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Ang Hwee Ching</a>
 </p>
 </td>
 </tr>
@@ -87,8 +82,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joyce_ye_meitian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Ye Meitian</a>
-</p>
-<p><a href="mailto:siti_nur_zulaikha_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nur Zulaikha Binte Ibrahim</a>
+<br><a href="mailto:siti_nur_zulaikha_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nur Zulaikha Binte Ibrahim</a>
 </p>
 </td>
 </tr>
