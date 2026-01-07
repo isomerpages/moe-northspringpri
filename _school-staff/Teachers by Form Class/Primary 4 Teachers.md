@@ -43,8 +43,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:ravinder_kaur_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ravinder Kaur</a>
 </p>
-<p><a href="mailto:teo_yuan_kai_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Yuan Kai Lionel</a>
-</p>
 </td>
 </tr>
 <tr>
