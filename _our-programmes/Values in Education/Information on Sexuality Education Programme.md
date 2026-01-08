@@ -81,12 +81,13 @@ The completed opt-out form is to be submitted by 13/03/2026.</p>
 <p>Parents can contact the school at <a href="nsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nsps@moe.edu.sg</a> for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_2025_sexuality_ed.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SEd_2026.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_2025_Sexuality_Ed.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SEd_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_SEd_2026.jpg">
 </div>
 <p></p>
