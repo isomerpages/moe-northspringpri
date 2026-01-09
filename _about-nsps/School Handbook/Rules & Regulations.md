@@ -38,9 +38,8 @@ is consistent for learning, the school will keep track of students with
 a prevalent VR (private) record and work closely with parents / guardians
 to support the student for regular attendance.</p>
 <p></p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Attire and Appearance</u></a></strong>
+<p><strong><u>Attire and Appearance</u></strong>
 </p>
-<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every student must understand the purpose
 of rules in instilling discipline and maintaining safety in the school.</p>
 <p>2. <strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</strong>
@@ -107,11 +106,9 @@ process in place and students who do not adhere to school rules will be
 meted with the appropriate consequences.&nbsp; Parents are requested to
 work closely with the school so that we educate every student to take responsibility
 for their own actions.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong><u>Nurturing Minds</u></strong>
 </p>
-<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students must participate in
 the flag-raising and pledge taking ceremony at the start of every school
 day.&nbsp; <strong>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with their right fist over the heart</strong>.</p>
@@ -200,148 +197,16 @@ and Key Personnel in-charge of student management matters.</p>
 <p>If students violate the school rules and need to be disciplined, the school
 seeks the understanding of parents and guardians to support the Student
 Development Team (SDT) when student management actions are administered.</p>
-<p>&nbsp;</p>
-<p><strong>Category A:</strong>
-</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Offences</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1<sup>st</sup> Occurrence &amp; Beyond</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late coming</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improper attire and grooming</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Littering</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not doing assignments</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling by Form Teachers / Subject
-Teacher</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisory Letter for Late coming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Community Service</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Case to be referred to SDT for further
-course of action with proactive strategies to be taken by school and home.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Category B:</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Offences</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1<sup>st</sup> Occurrence &amp; Beyond</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leaving school compound without permission
-/ Truancy</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disruptive behaviour</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using vulgar language / gesture</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Depending on the severity of the offence, the consequences meted out may
-include one or more of the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behaviour Contract</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Community Service</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention and reflection</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Downgrade of Conduct Grade</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internal suspension</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Out-of-school suspension</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning (Only for boys)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loss of privilege/s</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ineligibility for school and MOE awards</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other alternatives deemed appropriate
-to correct unacceptable behaviour</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;Category C</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Offences</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1<sup>st</sup> Occurrence &amp; Beyond</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bullying (Verbal &amp; Physical), Cyberbullying</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gangsterism / Fighting / Assault</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open defiance / rudeness to teacher or
-school personnel</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theft / Other acts of dishonesty</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pornography</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forgery</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outrage of modesty / inappropriate behaviour</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandalism / Damage to public property
-/ Possession of weapons</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cheating / Attempting to cheat in tests
-and examinations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Depending on the severity of the offence, the consequences meted out may
-include one or more of the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behaviour Contract</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Community Service</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention and reflection</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Downgrade of Conduct Grade</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internal suspension</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Out-of-school suspension</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning (Only for boys)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restitution</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loss of privilege/s</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ineligibility for school and MOE awards&nbsp;</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other alternatives deemed appropriate
-to correct unacceptable behaviour</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_a.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_b.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_c.jpg">
+</div>
 <p><strong>School Attire</strong>
 </p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to wear prescribed
@@ -366,8 +231,7 @@ wear <u>black canvas / PVC&nbsp; school shoes with school socks</u> as part
 of the prescribed school uniform. Only <strong>plain black shoes</strong> are
 allowed. <strong>Sports shoes must be fully black</strong> with no other
 colours or label shown.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Ornaments, Jewellery</strong>
 </p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No ornaments or any forms of jewellery,
@@ -377,7 +241,7 @@ ear studs (black, gold or silver) are allowed.&nbsp; <strong>For safety reasons,
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sc1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc2.jpg">
