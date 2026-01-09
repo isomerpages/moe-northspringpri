@@ -8,219 +8,186 @@ third_nav_title: School Handbook
 <h1><strong>School Rules</strong></h1>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>School Value: Responsibility</strong>
-</p>
 <p><strong><u>Punctuality</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Punctuality is a habit that must be instilled
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Punctuality is a habit that must be instilled
 from young.&nbsp; Students must be in school during term time unless they
 are unwell.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Students must be punctual for school and for
-all school functions. Students are to assemble in school by 7.25 a.m. at
-the respective assembly areas. Flag raising will be conducted at 7.30 a.m.
-sharp.&nbsp; Any student who arrives later than 7.30 a.m. will be considered
-late.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; If a student is late more than 3 times per
-semester, he/she will be issued a letter of advice.&nbsp; The Conduct Grade
-will be affected for those who are constantly late and student management
-action will be taken against these students.&nbsp;</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Students are <u>not allowed</u> to leave the
-school compound during curriculum hours without permission. This includes
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must be punctual for school
+and for all school functions. Students are to assemble in school by 7.25
+a.m. at the respective assembly areas. Flag raising will be conducted at
+7.30 a.m. sharp.&nbsp; Any student who arrives later than 7.30 a.m. in
+classroom or school hall will be considered late.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a student is late more than 3 times
+per term, he/she will be issued an advisory letter.&nbsp; <u>The Conduct Grade will be affected for those who are constantly late</u> and
+student management action will be taken against these students.&nbsp;</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are <u>not allowed</u> to leave
+the school compound during curriculum hours without permission. This includes
 those who are attending after-school activities in the afternoon (e.g.
 CCA, Enrichment, Remedial, Supplementary, LSP) and are not allowed to leave
 the school premise until such activities have ended. Parents are required
-to <u>pick up their child personally</u> during school hours if there is
-any immediate family emergency to attend to.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; As regular attendance is essential in achieving
-effective teaching and learning, the opportunity for learning and growth
-is lost when the students do not attend school or are late for school.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; To ensure students’ presence in school is consistent
-for learning, the school will keep track of students with a prevalent VR
-(private) record and work closely with parents / guardians to support the
-student for regular attendance.</p>
-<p><strong><u>Attire and Appearance</u></strong>
+to <u>pick up their child personally</u> during school hours from the General
+Office if there is any immediate family emergency to attend to.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As regular attendance is essential in
+achieving effective teaching and learning, the opportunity for learning
+and growth is lost when the students do not attend school regularly or
+are late for school.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To ensure students’ presence in school
+is consistent for learning, the school will keep track of students with
+a prevalent VR (private) record and work closely with parents / guardians
+to support the student for regular attendance.</p>
+<p></p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Attire and Appearance</u></a></strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Students are to wear prescribed school uniform with pride to school (including
-holiday, school</p>
-<p>activities, school functions and school outings). No modifications of
-the school uniform is</p>
-<p>allowed.</p>
 <p></p>
-</li>
-<li>
-<p>P1 – P2: Students are allowed to wear school PE T-shirt and PE shorts.
-The PE T-shirt must be</p>
-<p>always tucked in.</p>
-<p></p>
-</li>
-<li>
-<p>P3 – P6: Students may wear school PE T-shirt and PE shorts on days when
-there is no PE lessons / CCAs. However, they are strongly encouraged to
-wear prescribed school shirt / blouse and shorts /skirts on days when there
-are no PE lessons or CCAs.</p>
-<p></p>
-</li>
-<li>
-<p>All students must wear black canvas / PVC school shoes with school socks
-as part of the prescribed school uniform. Only plain black shoes are allowed.
-Sports shoes must be fully black with no other colours.</p>
-</li>
-</ol>
-<p><strong><u>Ornaments, Jewellery</u></strong>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every student must understand the purpose
+of rules in instilling discipline and maintaining safety in the school.</p>
+<p>2. <strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>No ornaments or any forms of jewellery, such as necklace and bracelet
-are allowed.</p>
-<p></p>
-</li>
-<li>
-<p>(For girls only) Only plain ear studs (black, gold or silver) are allowed.&nbsp;
-For safety reasons, girls are not allowed to wear loop earrings as they
-may pose a danger during play.</p>
-</li>
-</ol>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There must be uniformity in appearance
+when students come to school<strong>.&nbsp;&nbsp; </strong>(Please refer
+to photos for examples of school attire). <u>Students who request to wear long track pants due to medical reasons must first seek approval from the school every year</u>.
+A formal request, accompanied by relevant medical documentation, should
+be submitted to the school leaders for consideration. Approval will be
+granted on a case-by-case basis.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students’ attire must be neat and tidy.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Girls with long hair (longer than the
+collar) must have it tied neatly in a ponytail or in plaits.&nbsp; Long
+fringe must be pulled back with a hair band or hair clip.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Girls are not allowed to wear make-up
+including lining their eyes with eyeliner or kohl.</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Boys must have short and acceptable hairstyles.&nbsp;
+Boys are not allowed to shave closely to the scalp on one side and have
+longer fringe on the other side.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hair at the back must be sloped and should
+not touch the school uniform collar.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Males being clean shaven e.g. All male students must be clean shaven at all times. Moustache and beards are not allowed. &nbsp;</strong>
+</p>
+<p>10.&nbsp; Disciplinary action will be taken against students who continuously
+break the rules despite counselling and reminders sent. Parents / Guardians
+are to ensure that the student appears with acceptable hairstyle during
+term time for uniformity.</p>
+<p>11.&nbsp; Spot check will be conducted and students are given up to 3
+days to rectify and comply with standards.</p>
 <p><strong>&nbsp;</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Appearance_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Appearance_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Appearance_3.jpg">
-</div>
-<p><strong>School Value: Compassion</strong>
 </p>
 <p><strong><u>School Safety</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school must be a safe place for everyone.&nbsp; <strong>Students are not allowed to have in their possession any weapon.&nbsp; They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.</strong> Action
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school must be a safe place
+for everyone.&nbsp; <strong>Students are not allowed to have in their possession any weapon.&nbsp; They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.</strong> Action
 will be taken against students who possess such weapons.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorized electronic, communication,
-entertainment or gaming devices capable of capturing, storing, displaying
-and/or transmitting visual, audio or verbal information are not allowed
-in the school compound regardless of the time of the day. Examples of prohibited
-items include mobile phones, cameras, tablets and smart wrist watches.&nbsp;&nbsp;
-The school will not be held responsible for the loss of students’ electronic
-devices.&nbsp; Unauthorized use of electronic devices will be confiscated
-and will only be returned to the student’s parent/guardian.&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While the school recognises that parents
-need the ease and convenience of contacting their child after school hours,
-students are not encouraged to bring mobile phones to school.&nbsp; The
-phone <u>must be switched off and be used only outside of school after dismissal</u>.&nbsp;
-The student is responsible for taking care of his / her own belongings
-and should not flaunt it or invite envy and draw attention to it. The school
-will not be held accountable for any damage or losses.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a teacher has authorized the use of
-electronic devices for educational purposes, students are expected to use
-them responsibly and in compliance with the school’s anti-bullying and
-anti-cyberbullying policies. Students must not photograph, video, record,
-or post on social media of students or staff members without permission.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every North Springer will adhere to the
-school vision to be <strong>Confident, Cultured and Aspiring Learners</strong>.
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorized use of electronic,
+communication, entertainment, or gaming devices that can capture, store,
+display, or transmit information will result in the device being kept by
+the school and returned only to the student’s parent or guardian. Examples
+include mobile phones, cameras, tablets and smartwatches.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Electronic devices may be used
+only after dismissal or outside school hours and <strong><u>must remain switched off during school</u></strong>.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school will not conduct searches
+for lost or missing personal items. Students are expected to safeguard
+their personal belongings and should avoid displaying them openly.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>When teachers permit device use for learning, students must act responsibly and follow the school’s zero-bullying and cyber safety rules. Taking photos, videos, recordings of others or posting them online without permission is prohibited. The school may retain the device for disciplinary or investigative purposes.</u>
+</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every North Springer will adhere
+to the school vision to be <strong>Confident, Cultured and Aspiring Learners</strong>.
 Students are to learn good habits and always exercise the right values.
 They must demonstrate respect to themselves, their peers, teachers and
 school property.&nbsp; The school advocates <strong>Grow, Empower and Motivate (GEM)</strong> to
 students at all times.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a school community, we will exercise
-care, support and respect for one another.&nbsp; There is <strong>Zero Tolerance </strong>for
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a school community, we will
+exercise care, support and respect for one another.&nbsp; There is <strong>Zero Tolerance </strong>for
 bullying at NSPS.&nbsp; Bullying includes physical, psychological and cyber
 bullying. The school will mediate and counsel students involved in bullying.&nbsp;
 The school will take serious actions against students who repeatedly hurt
 others despite counselling, mediation and warning.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school has a student management process
-in place and students who do not adhere to school rules will be meted with
-the appropriate consequences.&nbsp; Parents are requested to work closely
-with the school so that we educate every student to take responsibility
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school has a student management
+process in place and students who do not adhere to school rules will be
+meted with the appropriate consequences.&nbsp; Parents are requested to
+work closely with the school so that we educate every student to take responsibility
 for their own actions.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>School Value: Integrity</strong>
+<p><strong>&nbsp;</strong>
 </p>
 <p><strong><u>Nurturing Minds</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students must participate in the
-flag-raising and pledge taking ceremony at the start of every school day.&nbsp; <strong>Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart</strong>.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In order to show respect to the nation,
-non-Singapore citizens must stand at attention and remain respectful during
-the singing of the National Anthem and the recitation of the Pledge.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For every child to find meaning in his/her
-learning, he/she must be ardent about learning. He/she must be proud to
-be a North Springer and be ardent on learning the academics, values and
-social emotional competencies.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must be committed to their holistic
-learning.&nbsp; The process of learning is as important as the product.&nbsp;
-Hence, every student must complete all homework, worksheets and corrections
-assigned by the teacher dutifully and handed in on time.&nbsp; They must
-use the <strong>GEM beats</strong> to manage their assignments and time well.&nbsp;
-Parents are to help monitor that their child is completing all work assigned
-on time.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must learn the habit of organising
-their daily work so that everything is in order for their revision purpose.&nbsp;
-All worksheets must be neatly files in the respective subject files and
-handed to the teacher for checking when required to.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remedial lessons will only be catered
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students must participate in
+the flag-raising and pledge taking ceremony at the start of every school
+day.&nbsp; <strong>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with their right fist over the heart</strong>.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In order to show respect to the
+nation, non-Singapore citizens must stand at attention and remain respectful
+during the singing of the National Anthem and the recitation of the Pledge.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For every child to find meaning
+in his/her learning, he/she must be ardent about learning. He/she must
+be proud to be a North Springer and be ardent on learning the academics,
+values and social emotional competencies.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must be committed to their
+holistic learning.&nbsp; The process of learning is as important as the
+product.&nbsp; Hence, every student must complete all homework, worksheets
+and corrections assigned by the teacher dutifully and handed in on time.&nbsp;
+They must use the <strong>GEMbeats</strong> to manage their assignments and
+time well.&nbsp; Parents are to help monitor that their child is completing
+all work assigned on time.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must learn the habit of
+organising their daily work so that everything is in order for their revision
+purpose.&nbsp; All worksheets must be neatly filed in the respective subject
+files and handed to the teacher for checking when required to.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remedial lessons will only be catered
 to students who really need the assistance for closer coaching. Parents
 are to ensure that their child attends the remedial lessons if they have
 been selected for them.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to act responsibly
-by taking ownership in packing their bags every day and bringing the necessary
-books/materials to school. Parents/domestic helpers are discouraged from
-delivering any items to our students during school hours to allow them
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to act
+responsibly by taking ownership in packing their bags every day and bringing
+the necessary books/materials to school. Parents/domestic helpers are discouraged
+from delivering any items to students during school hours to allow them
 the opportunity to learn and be more responsible. Such acts also cause
-disruption and additional work for our Office Staff and the school reserves
+disruption and additional work for office staff and the school reserves
 the right to not accede to such requests.</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must exercise <strong>Integrity </strong>during
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must exercise <strong>integrity </strong>during
 all tests/examinations. Students are considered to have cheated tests/examinations
 when they are found:&nbsp;</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; copying &nbsp;from another student
-or allowing another student to copy via various forms of communication
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; copying &nbsp;from another
+student or allowing another student to copy via various forms of communication
 that include verbal/non-verbal gestures, display of writing materials;
 retrieving information by any electronic means that include computerised
 wrist watches, mobile phones, digital cameras etc.&nbsp; (list is not exhaustive)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attempting to amend marks or change
-answers on marked exam scripts.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any student who has cheated or attempted
-to cheat, or collaborated with others with the intention to cheat, will
-have to go through School Exam Board’s investigations.&nbsp; If found guilty,
-severe actions will be taken against all students involved.&nbsp; Decision
-by school is final.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>School Value: Resilience</strong>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attempting to amend marks
+or change answers on marked exam scripts.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any student who has cheated or
+attempted to cheat, or collaborated with others with the intention to cheat,
+will have to go through School Exam Committee’s investigations.&nbsp; If
+found guilty, appropriate disciplinary actions will be taken against students
+involved. The school’s decision shall be final.</p>
+<p><strong>&nbsp;</strong>
 </p>
-<p><strong><u>Strive For Excellence</u></strong>
+<p><strong><u>Academic and CCA</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school provides a holistic development
-programme for our students.&nbsp; Every North Springer will be confident
-and self-directed in his/her learning.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the end of every co-curricular programme,
-students will be required to perform / share their learning.&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This can be in the form of performance,
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school provides a holistic
+development programme for our students.&nbsp; Every North Springer will
+be confident and self-directed in his/her learning.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the end of every co-curricular
+programme, students will be required to perform / share their learning.&nbsp;</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This can be in the form of performance,
 oral/written presentation, publication or reflection.&nbsp; This is aligned
 to the school’s approach in developing confidence and commitment in every
 student.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All P3 – P6 must attend every Modular
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All P3 – P6 must attend every Modular
 CCA session unless a valid written reason is provided and permission is
 sought from the CCA teacher.&nbsp; For students who are selected for SPARK
 CCAs, they must maintain 75% attendance or they may be dropped from the
 respective CCAs.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every student will be provided opportunities
-and skills to be a leader.&nbsp; Leadership opportunities will be provided
-in a tiered approach.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must adopt an excellence mind-set
-and do the best that they can.&nbsp; They must challenge themselves to
-realise their potential.&nbsp; Every student must set academic and character
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every student will be provided
+opportunities and skills to be a leader.&nbsp; Leadership opportunities
+will be provided in a tiered approach.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must adopt an excellence
+mind-set and do the best that they can.&nbsp; They must challenge themselves
+to realise their potential.&nbsp; Every student must set academic and character
 goals every year to work towards their individual purpose. They will be
 closely monitored and coached throughout the year so that they can reach
 their optimal best.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>School Rules and Consequences</strong>
 </p>
 <p>The school believes that good discipline is an important contributing
@@ -236,6 +203,7 @@ Development Team (SDT) when student management actions are administered.</p>
 <p>&nbsp;</p>
 <p><strong>Category A:</strong>
 </p>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -248,32 +216,30 @@ Development Team (SDT) when student management actions are administered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1st Occurrence &amp; Beyond</strong>
+<p><strong>1<sup>st</sup> Occurrence &amp; Beyond</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late coming</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improper attire and grooming</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Littering</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not doing assignments</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late coming</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improper attire and grooming</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Littering</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not doing assignments</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling by Form Teacher/ Co-Form
-Teacher/Subject Teacher</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning / Letter of Advice (Late
-coming)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Case to be referred to SDT for further
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling by Form Teachers / Subject
+Teacher</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisory Letter for Late coming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Community Service</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Case to be referred to SDT for further
 course of action with proactive strategies to be taken by school and home.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Category B:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -288,38 +254,38 @@ course of action with proactive strategies to be taken by school and home.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1st Occurrence &amp; Beyond</strong>
+<p><strong>1<sup>st</sup> Occurrence &amp; Beyond</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leaving school compound without
-permission / Truancy</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disruptive behaviour</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using vulgar language / gesture</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leaving school compound without permission
+/ Truancy</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disruptive behaviour</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using vulgar language / gesture</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Depending on the severity of the offence, the consequences meted out may
 include one or more of the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behaviour Contract</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corrective work order</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention and reflection</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internal suspension</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Out-of-school suspension</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loss of privilege/s</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ineligibility for awards</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other alternatives deemed appropriate
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behaviour Contract</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Community Service</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention and reflection</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Downgrade of Conduct Grade</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internal suspension</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Out-of-school suspension</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning (Only for boys)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loss of privilege/s</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ineligibility for school and MOE awards</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other alternatives deemed appropriate
 to correct unacceptable behaviour</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Category C</strong>
+<p><strong>&nbsp;Category C</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -333,65 +299,93 @@ to correct unacceptable behaviour</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1st Occurrence &amp; Beyond</strong>
+<p><strong>1<sup>st</sup> Occurrence &amp; Beyond</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bullying (Verbal &amp; Physical),
-Cyberbullying</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gangsterism / Fighting / Assault</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open defiance / rudeness to teacher
-or school personnel</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theft / Other acts of dishonesty</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pornography</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forgery</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outrage of modesty / inappropriate
-behaviour</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandalism / Damage to public property</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cheating / Attempting to cheat in
-tests and examinations</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bullying (Verbal &amp; Physical), Cyberbullying</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gangsterism / Fighting / Assault</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open defiance / rudeness to teacher or
+school personnel</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theft / Other acts of dishonesty</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pornography</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forgery</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outrage of modesty / inappropriate behaviour</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandalism / Damage to public property
+/ Possession of weapons</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cheating / Attempting to cheat in tests
+and examinations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Depending on the severity of the offence, the consequences meted out may
 include one or more of the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behaviour Contract</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corrective work order</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention and reflection</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internal suspension</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Out-of-school suspension</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restitution</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loss of privilege/s</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ineligibility for awards</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other alternatives deemed appropriate
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Involvement</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behaviour Contract</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Community Service</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention and reflection</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Downgrade of Conduct Grade</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internal suspension</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Out-of-school suspension</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning (Only for boys)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restitution</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loss of privilege/s</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ineligibility for school and MOE awards&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other alternatives deemed appropriate
 to correct unacceptable behaviour</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p><strong>School Attire</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to wear prescribed
+school uniform with pride to school (including holidays, school activities,
+school functions and school outings). No modifications of the school uniform
+is allowed.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who request to wear long
+track pants <u>due to medical reasons</u> must first seek approval from the
+school. A formal request, accompanied by relevant medical documentation,
+should be submitted to the school leaders for consideration. Approval will
+be granted on a case-by-case basis.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>P1 – P2</strong>: Students
+are allowed to wear school PE T-shirt &nbsp;and PE shorts. The PE T-shirt
+must be always tucked in.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>P3 – P6</strong>: Students
+may wear school PE T-shirt and PE shorts on days when there is no PE lessons
+/ Spark CCAs. However, they are strongly encouraged to wear prescribed
+school shirt / blouse and shorts / skirts on days when there is no PE lessons
+or Spark CCAs.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>All students</strong> must
+wear <u>black canvas / PVC&nbsp; school shoes with school socks</u> as part
+of the prescribed school uniform. Only <strong>plain black shoes</strong> are
+allowed. <strong>Sports shoes must be fully black</strong> with no other
+colours or label shown.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Ornaments, Jewellery</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No ornaments or any forms of jewellery,
+such as necklace and bracelet are allowed.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (For girls only) Only plain
+ear studs (black, gold or silver) are allowed.&nbsp; <strong>For safety reasons, girls are not allowed to wear loop earrings as they may pose a danger during play.</strong>
+</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sc1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc4.jpg">
+</div>
 <p></p>
