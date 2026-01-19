@@ -237,6 +237,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Kaven Michael Thelaumbalan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-Aide</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms J Venkata Lakshmi</p>
 </td>
 </tr>
