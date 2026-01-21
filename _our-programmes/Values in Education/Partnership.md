@@ -34,9 +34,9 @@ Through cultural exchange with schools from different countries, it enable our s
 
 #### Useful website for Parents
 
-*   **[schoolbag.sg](https://www.schoolbag.edu.sg/)**
+*   **[SchoolBag](https://www.schoolbag.edu.sg/)**
     
-    The&nbsp;[Schoolbag.sg](https://www.schoolbag.edu.sg/)&nbsp;website is designed to help parents better support the education and development of their children. The website will contain articles on parenting tips, educational news, information on the school curriculum, and resources for parents to support their children’s learning at home. MOE welcomes parents’ feedback on the website and will continue to update and ensure relevance of the resources for parents.
+    The [SchoolBag](https://www.schoolbag.edu.sg/) website is designed to help parents better support the education and development of their children. The website will contain articles on parenting tips, educational news, information on the school curriculum, and resources for parents to support their children’s learning at home. MOE welcomes parents’ feedback on the website and will continue to update and ensure relevance of the resources for parents.
   
     Useful parenting tips:
 
