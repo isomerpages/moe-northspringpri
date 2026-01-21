@@ -3,6 +3,7 @@ title: Partnership
 permalink: /our-programmes/values-in-education/partnership/
 description: ""
 third_nav_title: Values in Education
+variant: markdown
 ---
 Partnership
 ===========
@@ -17,8 +18,7 @@ Parent-Teacher Meeting / Parent-Child-Teacher Conferencing Session
 
 ‘Every Parent, a Supportive Partner’, with this in mind, we focus on building strong partnership with parents through effective engagement, such as Parent-Teacher Meeting and Parent-Child-Teacher Conferencing sessions so as to support students in their holistic development.
 
-<img src="/images/Guiding%20Idea.png"  
-style="width:65%">
+<img src="/images/Guiding%20Idea.png" style="width:65%">
 
 #### Workshop / Sharing Session for Parents
 
@@ -30,22 +30,21 @@ Through a series of hands-on activities during workshop / sharing sessions, pare
 
 Through cultural exchange with schools from different countries, it enable our students to gain exposure to different cultures, global issues and yet retain a sense of rootedness to our country. Our students also develop confidence through meaningful activities such as having conversations and discussion with students from other countries.
 
-<img src="/images/External%20School%20Visit.png"  
-style="width:65%">
+<img src="/images/External%20School%20Visit.png" style="width:65%">
 
 #### Useful website for Parents
 
 *   **[schoolbag.sg](https://www.schoolbag.edu.sg/)**
     
-    The [Schoolbag.sg](https://www.schoolbag.edu.sg/) website is designed to help parents better support the education and development of their children. The website will contain articles on parenting tips, educational news, information on the school curriculum, and resources for parents to support their children’s learning at home. MOE welcomes parents’ feedback on the website and will continue to update and ensure relevance of the resources for parents.
+    The&nbsp;[Schoolbag.sg](https://www.schoolbag.edu.sg/)&nbsp;website is designed to help parents better support the education and development of their children. The website will contain articles on parenting tips, educational news, information on the school curriculum, and resources for parents to support their children’s learning at home. MOE welcomes parents’ feedback on the website and will continue to update and ensure relevance of the resources for parents.
   
     Useful parenting tips:
 
-    *   Tips of [Practising Gratitude](https://www.schoolbag.edu.sg/story/gratitude) and [Giving Praise](https://www.schoolbag.edu.sg/story/praise-your-child-do-it-right-do-it-well)
+    *   Tips of&nbsp;[Practising Gratitude](https://www.schoolbag.edu.sg/story/gratitude)&nbsp;and&nbsp;[Giving Praise](https://www.schoolbag.edu.sg/story/praise-your-child-do-it-right-do-it-well)
         
     *   [Raising Confident Child](https://www.schoolbag.edu.sg/story/raising-confident-children)
         
-    *   Video: [Transitioning to Primary One](https://www.schoolbag.edu.sg/story/transitioning-to-primary-one)
+    *   Video:&nbsp;[Transitioning to Primary One](https://www.schoolbag.edu.sg/story/transitioning-to-primary-one)
         
     *   [Communicating with your child’s school](https://www.schoolbag.edu.sg/story/communicating-with-school)
         
@@ -57,6 +56,6 @@ The National Advisory Council, COMPASS (COMmunity and PArents in Support of Scho
     
 Useful parenting tips:
     
-*   Information about Preparing Your Child for [transition into Primary One](https://beta.moe.gov.sg/primary/)
-*   Information for [Edusave](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/edusave-contributions/)
-*   Information for [MOE Financial Assistance Scheme](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/)
+*   Information about Preparing Your Child for [Transition from preschool to primary school](https://www.moe.gov.sg/primary/p1-registration/transition-to-primary/)
+*   Information for [Edusave awards](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)
+*   Information for [MOE Financial assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
