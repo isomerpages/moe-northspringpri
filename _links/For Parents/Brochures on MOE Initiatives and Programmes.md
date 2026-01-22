@@ -22,4 +22,4 @@ Our education system offers students of different abilities and strengths **mul
 
 Young Singaporeans may choose from a wide array of post-secondary options: JCCI, polytechnics, ITE, private art institutions, as well as public and private universities.
 
-Click [here](https://www.moe.gov.sg/psle-fsbb/posting-to-secondary-school/main) to find out more about each pathway.
+Click [here](https://www.moe.gov.sg/psle-fsbb/posting-to-secondary-school/main) to find out more.
