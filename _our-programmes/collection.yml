@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Cohort Camp Parent Briefing Video.md
       - Cognitive Programmes/.keep
       - Cognitive Programmes/English Language.md
       - Cognitive Programmes/Mathematics.md
@@ -19,3 +18,4 @@ collections:
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Info Communication & Technology.md
+      - Cohort Camp Parent Briefing Video.md
