@@ -4,6 +4,12 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
+<p>Dear Parents, Students and Visitors</p>
+<p>Please be informed that the school office will be temporarily closed from
+7.30am to 8.30am on 16 February 2026.</p>
+<p>We apologise for any inconvenience caused and appreciate your understanding.
+Thank you.</p>
+<p>North Spring Primary School</p>
 <h4>NIE Caring Teacher Award 2025</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster.jpg">
