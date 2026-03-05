@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-programmes/cognitive-programmes/mathematics/
 description: ""
 third_nav_title: Cognitive Programmes
+variant: markdown
 ---
 Mathematics
 ===========
@@ -57,26 +58,6 @@ From P1 to P6, students who need additional support out of curriculum time to re
 
 Further, our P1-P2 Learning Support for Mathematics (LSM) programme is designed to provide early intervention in Mathematics to students who need extra support in acquiring basic numeracy skills when they enter Primary One. LSM seeks to level up and help students achieve an age-appropriate mathematical age and equip students with the mathematical knowledge, skills and dispositions so that they can learn mathematics with their peers. Students identified for LSM programme are supported by qualified LSM teachers and the class size is kept small so that every student receives individual attention from the LSM teacher.
 
-Mathematics E2K and Enrichment Programmes
+Mathematics E2K Programme
 
-The E2K programme is catered to selected Primary 4 to 6 students who demonstrate strong interest and ability in Mathematics. Stories, games and puzzles are often used within the programme to engage the learners in problem solving.
-
-Selected Primary 4 to 6 students also attend Mathematics enrichment workshops held after school. Our P4 students learnt logical reasoning and analytical skills through Mathematics-related magic while our P5 and P6 students had the opportunity to collaborate with their classmates to solve Mathematics Olympiad questions.
-
-![Mathematics E2K and Enrichment Programmes](/images/Mathematics%20E2K_1.png) *Students presenting, working in groups and solving puzzles in E2K and enrichment.*
-
-#### Mathematics Competitions
-
-We expose our best students to international Math Competitions such as the Singapore Math Kangeroo Contest (SMKC), Singapore And Asian Schools Olympiad (SASMO), National Math Olympiad Singapore (NMOS) and the Raffles Institution Primary Mathematics World Contest (RIPMWC). Our students do very well in these contests.
-
-The SMKC and SASMO results are announced and summarised below. Students who have done well in these contests are awarded the following:
-
-**Percentile**
-
-Gold Certificate (Top 8% scorers)
-
-Silver Certificate (Next 12%)
-
-Bronze Certificate (Next 20%)
-
-Kudos to NSPS Mathematicians for their outstanding achievements! Do check out our school’s Facebook page for results and prize presentation photos!
+The E2K programme is catered to selected Primary 4 and 5 students who demonstrate strong interest and ability in Mathematics. Stories, games and puzzles are often used within the programme to engage the learners in problem solving.
