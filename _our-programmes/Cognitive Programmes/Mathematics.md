@@ -61,11 +61,3 @@ Further, our P1-P2 Learning Support for Mathematics (LSM) programme is designed 
 Mathematics E2K Programme
 
 The E2K programme is catered to selected Primary 4 and 5 students who demonstrate strong interest and ability in Mathematics. Stories, games and puzzles are often used within the programme to engage the learners in problem solving.
-
-
-
-
-
-
-
-
