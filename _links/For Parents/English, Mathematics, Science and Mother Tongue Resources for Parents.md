@@ -71,7 +71,7 @@ variant: tiptap
 <p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/nsps.edu.sg/mtl-workshops-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/nsps.edu.sg/mtl-workshops-for-parents</a>
+<p><a href="https://sites.google.com/moe.edu.sg/nsps-mtl-parents-engagement" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/nsps-mtl-parents-engagement</a>
 </p>
 </td>
 </tr>
