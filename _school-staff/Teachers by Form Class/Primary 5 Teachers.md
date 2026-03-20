@@ -62,6 +62,8 @@ variant: tiptap
 <p><a href="mailto:abdul_fattah_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Fattah B Abdul Rahim</a>
 <br><a href="mailto:zainab_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zainab Bte Haron</a>
 </p>
+<p><a href="mailto:merilyn_lim_huay_sian@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Merilyn Lim Huay Sian</a>
+</p>
 </td>
 </tr>
 <tr>
