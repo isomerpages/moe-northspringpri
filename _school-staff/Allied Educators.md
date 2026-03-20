@@ -77,8 +77,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:oh_sock_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Oh Sock Hoon</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
