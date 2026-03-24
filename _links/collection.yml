@@ -2,12 +2,12 @@ collections:
   links:
     output: true
     order:
-      - For Parents/Temporary Closure Of School Office.md
+      - For Parents/Supporting Your Child's Digital Learning Journey.md
+      - For Parents/.keep
       - For Parents/Engagement Charter.md
       - For Parents/MOE information on Primary School education.md
       - For Parents/Guidance on Screen time in children.md
       - For Parents/Student MOE Identity Management System (MIMS).md
-      - For Parents/.keep
       - For Parents/2026 P1 Orientation eHandbook.md
       - For Parents/Tips for Parents and students to Manage Stress.md
       - For Parents/Crime Prevention.md
@@ -24,5 +24,6 @@ collections:
       - For Parents/SLS Login and Frequently Asked Questions.md
       - For Parents/Group Personal Accident (GPA) Insurance Plan for Students.md
       - For Parents/OPAC (Online Public Access Catalogue).md
+      - For Parents/Temporary Closure Of School Office.md
       - For Staff.md
       - Announcements.md
