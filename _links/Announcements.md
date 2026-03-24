@@ -39,7 +39,7 @@ opportunities as their classmates.</p>
 <p><strong>2. Complete the Application</strong>
 <br>Download and fill out the application form. If you need a printed copy,
 please contact the school office.
-<br>📄&nbsp;<a href="/files/digitalaccess_application_form__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Application Form (PDF)</a>
+<br>📄&nbsp;<a href="/files/digitalaccess_application_form.pdf" rel="noopener nofollow" target="_blank">Download the Application Form (PDF)</a>
 </p>
 <p><strong>3. Get Friendly, In-Person Help (If Needed)</strong>
 <br>If you have questions or would like someone to guide you through the process,
