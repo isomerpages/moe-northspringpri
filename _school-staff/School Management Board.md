@@ -261,6 +261,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_tuan_kiat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ong Tuan Kiat Alan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Administration Manager</strong>
 </p>
 </td>
