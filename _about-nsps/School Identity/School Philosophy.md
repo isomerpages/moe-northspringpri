@@ -15,12 +15,12 @@ School Philosophy
 
 **Our Vision Statement:**
 
-<h5 style="color:blue" align="center">Confident. Future-Ready. Aspiring Learners</h5>
+<h5 style="color:blue" align="center">Confident, Future-Ready and Aspiring Learners</h5>
 
   
 **Our Mission:**
 
-<h5 style="color:blue" align="center">Grow. Empower. Motivate</h5>
+<h5 style="color:blue" align="center">To Grow, Empower and Motivate</h5>
 
 
 **School Philosophy:**<br>
