@@ -13,7 +13,7 @@ School Philosophy
 <br clear="left">
   
 
-**Our Vision Statement:**
+**Our Vision:**
 
 <h5 style="color:blue" align="center">Confident, Future-Ready and Aspiring Learners</h5>
 
