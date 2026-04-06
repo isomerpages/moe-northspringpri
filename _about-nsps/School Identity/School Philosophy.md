@@ -22,6 +22,8 @@ School Philosophy
 
 <h5 style="color:blue" align="center">To Grow, Empower and Motivate</h5>
 
+These statements reflect our commitment to nurturing students who are not only academically prepared but also confident in their abilities and motivated to pursue their aspirations. Our mission emphasises our role in fostering growth, empowering our students with the necessary skills and knowledge, and motivating them to achieve their full potential.
+
 
 **School Philosophy:**<br>
 We, at North Spring Primary School, believe that every pupil has the aptitude to learn and develop confidence in whatever he/she does. Our pupils are capable of demonstrating respect and care when collaborating with peers. We assist every pupil to be a self-directed and effective lifelong learner, striving for excellence in every endeavor.
