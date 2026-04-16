@@ -4,7 +4,7 @@ permalink: /primary-4-parents-briefing-video/
 variant: tiptap
 description: ""
 ---
-<p><u>Primary 4 Parents Briefing Video</u>
+<p><u>Primary 4 Subject Based Banding Briefing Video</u>
 </p>
 <p></p>
 <div class="iframe-wrapper">
