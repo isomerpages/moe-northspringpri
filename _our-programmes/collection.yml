@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Primary 6 Parents Briefing Video.md
       - Cognitive Programmes/.keep
       - Cognitive Programmes/English Language.md
       - Cognitive Programmes/Mathematics.md
@@ -21,3 +20,4 @@ collections:
       - Info Communication & Technology.md
       - Cohort Camp Parents Briefing Video.md
       - Primary 4 Parents Briefing Video.md
+      - Primary 6 Parents Briefing Video.md
