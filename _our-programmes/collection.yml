@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Primary 4 Parents Briefing Vid/.keep
       - Cognitive Programmes/.keep
       - Cognitive Programmes/English Language.md
       - Cognitive Programmes/Mathematics.md
