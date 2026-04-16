@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Primary 4 Parents Briefing Video.md
       - Cognitive Programmes/.keep
       - Cognitive Programmes/English Language.md
       - Cognitive Programmes/Mathematics.md
@@ -20,3 +19,4 @@ collections:
       - Learning for Life Programme (LLP).md
       - Info Communication & Technology.md
       - Cohort Camp Parents Briefing Video.md
+      - Primary 4 Parents Briefing Video.md
