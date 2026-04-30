@@ -2,8 +2,9 @@ collections:
   links:
     output: true
     order:
-      - For Parents/Supporting Your Child's Digital Learning Journey.md
       - For Parents/.keep
+      - For Parents/Temporary Closure Of School Office.md
+      - For Parents/Supporting Your Child's Digital Learning Journey.md
       - For Parents/Engagement Charter.md
       - For Parents/MOE information on Primary School education.md
       - For Parents/Guidance on Screen time in children.md
@@ -24,6 +25,5 @@ collections:
       - For Parents/SLS Login and Frequently Asked Questions.md
       - For Parents/Group Personal Accident (GPA) Insurance Plan for Students.md
       - For Parents/OPAC (Online Public Access Catalogue).md
-      - For Parents/Temporary Closure Of School Office.md
       - For Staff.md
       - Announcements.md
