@@ -4,6 +4,15 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong>Temporary Closure Of School Office</strong>
+</p>
+<p>Dear Parents, Students and Visitors,</p>
+<p>Please be informed that the school office will be temporarily closed on
+Thursday, 30 April between 2.15pm to 4pm.&nbsp;</p>
+<p>We apologies for any inconvenience caused and appreciate your understanding.
+Thank you.</p>
+<p>North Spring Primary School</p>
+<p></p>
 <h4>Supporting Your Child's Digital Learning Journey</h4>
 <p>Every student deserves the tools to connect, learn, and succeed.</p>
 <p>We know that keeping up with technology is essential for your child's
