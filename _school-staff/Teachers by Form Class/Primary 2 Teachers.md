@@ -50,7 +50,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_qian_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Huang Qian Qin</a>
-<br><a href="mailto:Ong_Kah_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Kah Lin</a>
 <br><a href="mailto:pariveen_t@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr T Pariveen</a>
 </p>
 </td>
