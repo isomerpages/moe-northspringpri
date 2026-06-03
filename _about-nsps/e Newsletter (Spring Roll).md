@@ -34,5 +34,9 @@ variant: tiptap
 <a href="https://tinyurl.com/sem2springroll2025" rel="noopener nofollow" target="_blank">Sem 2</a>
 </p>
 </li>
+<li>
+<p>2026 <a href="https://heyzine.com/flip-book/8d02a7b03a.html" rel="noopener nofollow" target="_blank">Sem 1</a>
+</p>
+</li>
 </ul>
 <p></p>
