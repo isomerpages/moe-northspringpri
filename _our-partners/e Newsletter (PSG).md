@@ -11,11 +11,12 @@ description: ""
 <p>Please choose to read our newsletter:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2025 <a href="/files/PSG_Newsletter_Semester_1_2025.pdf" rel="noopener nofollow" target="_blank">Sem 1</a>
+<p>2025 <a href="/files/PSG_Newsletter_Semester_1_2025.pdf" rel="noopener nofollow" target="_blank">Sem 1, </a>
+<a href="/files/Sem_2_newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sem 2</a>
 </p>
 </li>
 <li>
-<p>2025 <a href="/files/Sem_2_newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sem 2</a>
+<p>2026 <a href="/files/Newsletter_2026_Sem_1.pdf" rel="noopener nofollow" target="_blank">Sem 1</a>
 </p>
 <p></p>
 </li>
