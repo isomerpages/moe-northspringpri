@@ -72,7 +72,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jaisri_thirunavukarasu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jaisri Thirunavukarasu</a>
-<br><a href="mailto:lim_yee_sien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yee Sien</a>
+<br><a href="mailto:safiah_mohd_najib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Safiah Bte Mohd Najib</a>
 </p>
 </td>
 </tr>
